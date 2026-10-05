@@ -1,0 +1,52 @@
+{
+ "source": {
+  "path": "originals/Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan).gba",
+  "sha256": "65e8eb749a88c18c02ea8bf783b62f0cd7a39f0e38f550e7be124172016c08bd",
+  "size": 8388608,
+  "header": {
+   "title": "TETSUYA",
+   "code": "ATYJ",
+   "maker": "E7"
+  }
+ },
+ "expansion": {
+  "base": 8388608,
+  "total_size": 16777216,
+  "note": "8 MiB source expanded to 16 MiB; all new data in the expansion"
+ },
+ "glyphs": {
+  "bank_table": 2208184,
+  "bank_table_hex": "0x21b1b8",
+  "bank_table_literal_sites": [
+   208808,
+   208928
+  ],
+  "bank_table_literal_sites_hex": [
+   "0x32fa8",
+   "0x33020"
+  ],
+  "first_new_code": 1024,
+  "max_code": 4095,
+  "glyph_bytes": 256,
+  "format": "16x16 8bpp four 8x8 tiles"
+ },
+ "text": {
+  "bank_root": 2197740,
+  "bank_root_hex": "0x2188ec",
+  "banks": 11,
+  "line_width": 18,
+  "rows": 2,
+  "pitch_px": 12
+ },
+ "font": {
+  "path": "work/fonts/Galmuri11.bdf",
+  "sha256": "98716d08aa5762e6ce440d5a757d107cb5d3f32a53861878be06c00aacc23304",
+  "name": "Galmuri11 v2.40.4 (SIL OFL 1.1, quiple/galmuri)",
+  "x_shift": 0,
+  "y_shift": 0
+ },
+ "output": {
+  "rom": "tetsuya-kr.gba",
+  "ips": "tetsuya-kr.ips"
+ }
+}

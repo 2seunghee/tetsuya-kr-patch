@@ -1,0 +1,3286 @@
+{
+ "bank": 10,
+ "entries": [
+  {
+   "id": "2150e8",
+   "offset": "0x2150e8",
+   "length": 41,
+   "raw": "4008301103113c402c210b0212a00b00bc00a80046000200010002000900130042000100ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     0
+    ]
+   ],
+   "source": "<SE:08><WIN:1103><WAIT:3c><SE:2c><PORTR:0b02><PAGE><FACE:0b>「…どういうことだい？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215111",
+   "offset": "0x215111",
+   "length": 43,
+   "raw": "00bc00c3000f0010001900b100100033002d0013010201be00ca0036001200280042002afe00ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     1
+    ]
+   ],
+   "source": "「俺たちは、ちゃんと場代払ってるだろ\n？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21513c",
+   "offset": "0x21513c",
+   "length": 45,
+   "raw": "00bc00a6016c0042003600120250001f0217000b000f0009001301000031003e00330017fe0031000500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     2
+    ]
+   ],
+   "source": "「一回だって踏み倒したこと無ぇじゃね\nぇか」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215169",
+   "offset": "0x215169",
+   "length": 80,
+   "raw": "216363a01b00bc01ea000500150000002d000f002600ca0001001900010001004000bb004200380014fe00a80000002d000f000f00100015036700f1001500050036004c00380029001200a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     3
+    ]
+   ],
+   "source": "<PORTR:6363><FACE:1b>「確かにあんたら払いはいいぜ。だがな\n…あんたたちに派手にかっぱがれて…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2151b9",
+   "offset": "0x2151b9",
+   "length": 57,
+   "raw": "00bc0009001801ff001501030014000700140036000f0237003800460029004200080001fe00280013018200360012002d004200ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     4
+    ]
+   ],
+   "source": "「この店に来なくなった客がどれだけい\nると思ってんだ？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2151f2",
+   "offset": "0x2151f2",
+   "length": 34,
+   "raw": "00bc001e0036000f000700a802a10260000000380036000f00270042004000befeff",
+   "refs": [
+    [
+     10,
+     0,
+     5
+    ]
+   ],
+   "source": "「まったく…商売あがったりだぜ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215214",
+   "offset": "0x215214",
+   "length": 17,
+   "raw": "210100a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     6
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215225",
+   "offset": "0x215225",
+   "length": 54,
+   "raw": "216363a01b00bc001e00b100b200b3001800130009002a001901e100360012010d0036001200070029fe00170031000500a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     7
+    ]
+   ],
+   "source": "<PORTR:6363><FACE:1b>「ま、今日のところは黙って帰ってくれ\nねぇか…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21525b",
+   "offset": "0x21525b",
+   "length": 28,
+   "raw": "402d13113c301102200b0312a00b00bc00a80059008700bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     8
+    ]
+   ],
+   "source": "<SE:2d><PAGE2><WAIT:3c><WIN:1102><PORTL:0b03><PAGE><FACE:0b>「…ケッ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215277",
+   "offset": "0x215277",
+   "length": 61,
+   "raw": "00bc0014002d004200360012002d004200a801f3000701ff01f3000701ff00b103680027fe002300380036001200bd00c70007000e003600bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     9
+    ]
+   ],
+   "source": "「なんだってんだ…行く店行く店、断り\nやがって！　くそっ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2152b4",
+   "offset": "0x2152b4",
+   "length": 47,
+   "raw": "00bc002200020009001802b80027003e00330190001200140001002d005d000500b1022ffe000a002d039d00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     10
+    ]
+   ],
+   "source": "「もうこの辺りじゃ打てないんスか、哲\nさん⁉」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2152e3",
+   "offset": "0x2152e3",
+   "length": 17,
+   "raw": "210100a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     11
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2152f4",
+   "offset": "0x2152f4",
+   "length": 62,
+   "raw": "a121636320636300bc0089006a006a006a006a006a00bd00befe00bc00b200b30019036700f1001500fb0008000f0014007f00b10055005200bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     12
+    ]
+   ],
+   "source": "<NOFACE><PORTR:6363><PORTL:6363>「ガハハハハハ！」\n「今日は派手に負けたなァ、オイ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215332",
+   "offset": "0x215332",
+   "length": 71,
+   "raw": "00bc00db0015000c002d00140036001200bb00b200a7007f0126036901b00006004500b1fe00ff0014002603330028001d004600000028002d004200050026002500bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     13
+    ]
+   ],
+   "source": "「気にすんなって。今年ァ大漁続きで、\n金なら腐るほどあるんだからよ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215379",
+   "offset": "0x215379",
+   "length": 30,
+   "raw": "00bc001e002e001400bd00c70089006a006a006a006a006a00bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     14
+    ]
+   ],
+   "source": "「まぁな！　ガハハハハハ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215397",
+   "offset": "0x215397",
+   "length": 41,
+   "raw": "200b03a00b00bc00a80004000100b101e100360012028400210017003100180005002500bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     15
+    ]
+   ],
+   "source": "<PORTL:0b03><FACE:0b>「…おい、黙って飲めねぇのかよ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2153c0",
+   "offset": "0x2153c0",
+   "length": 51,
+   "raw": "206363a100bc00c40042002e00ee00befe00bc0059007e0056026000360012002d0018000500b100120021003100ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     16
+    ]
+   ],
+   "source": "<PORTL:6363><NOFACE>「何だぁ？」\n「ケンカ売ってんのか、てめぇ？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2153f3",
+   "offset": "0x2153f3",
+   "length": 35,
+   "raw": "200b03a00b00bc00ae00d70042005a007700bd00c702b20031018f002a00bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     17
+    ]
+   ],
+   "source": "<PORTL:0b03><FACE:0b>「上等だコラ！　表ぇ出ろ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215416",
+   "offset": "0x215416",
+   "length": 42,
+   "raw": "13206363111e402b300000113c1200bc00a80061008700bb021a002700fe000100180100003100befeff",
+   "refs": [
+    [
+     10,
+     0,
+     18
+    ]
+   ],
+   "source": "<PAGE2><PORTL:6363><WAIT:1e><SE:2b><WIN:0000><WAIT:3c><PAGE>「…チッ。張り合いの無ぇ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215440",
+   "offset": "0x215440",
+   "length": 69,
+   "raw": "00bc0059007e0056026000280014002600fa00f10105001202600027001400bb00090010fe0013002600f5036a0018036b0045036901db002300360012002d004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     19
+    ]
+   ],
+   "source": "「ケンカ売るなら相手見て売りな。こち\nとら房総の海で漁師やってんだ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215485",
+   "offset": "0x215485",
+   "length": 53,
+   "raw": "00bc001200210031001f0012003100140061007e009e00770013012b0018036c00030168fe003801370002002d0042002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     20
+    ]
+   ],
+   "source": "「てめぇみてぇなチンピラと体の鍛え方\nが違うんだよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2154ba",
+   "offset": "0x2154ba",
+   "length": 20,
+   "raw": "00bc0089006a006a006a006a006a00bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     21
+    ]
+   ],
+   "source": "「ガハハハハハ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2154ce",
+   "offset": "0x2154ce",
+   "length": 23,
+   "raw": "210100a00100bc00a80126029f02a0000500ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     22
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:01>「…大丈夫か？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2154e5",
+   "offset": "0x2154e5",
+   "length": 32,
+   "raw": "301102200b04a00b00bc003000a800010012001200a800c40013000500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     23
+    ]
+   ],
+   "source": "<WIN:1102><PORTL:0b04><FACE:0b>「ぅ…いてて…何とか」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215505",
+   "offset": "0x215505",
+   "length": 57,
+   "raw": "a00100bc00c3000f001000190144001f0125002000150022005b0052002c0124002800150022fe00b802180038036d00cf0042002a00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     24
+    ]
+   ],
+   "source": "<FACE:01>「俺たちは積み込むにもサイを振るにも\n指先が基本だろ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21553e",
+   "offset": "0x21553e",
+   "length": 47,
+   "raw": "00bc01260240001400b8021800150059008900450022000b000f002600b1019f00affe020f036e0042004100befeff",
+   "refs": [
+    [
+     10,
+     0,
+     25
+    ]
+   ],
+   "source": "「大事な指先にケガでもしたら、玄人\n失格だぞ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21556d",
+   "offset": "0x21556d",
+   "length": 51,
+   "raw": "00bc00a400e7001300b100fb000800280059007e00560019000c0028002d003e0033fe0017003100a800010001001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     26
+    ]
+   ],
+   "source": "「二度と、負けるケンカはするんじゃ\nねぇ…いいな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2155a0",
+   "offset": "0x2155a0",
+   "length": 16,
+   "raw": "a00b00bc00a800530087005d00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     27
+    ]
+   ],
+   "source": "<FACE:0b>「…ウッス」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2155b0",
+   "offset": "0x2155b0",
+   "length": 48,
+   "raw": "200b0000bc00a800450022000e001801be002700b10001000100680060025d00e10029000f0036fe005d002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     28
+    ]
+   ],
+   "source": "<PORTL:0b00>「…でもその代り、いいネタ仕入れたっ\nスよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2155e0",
+   "offset": "0x2155e0",
+   "length": 16,
+   "raw": "a00100bc00a80068006000ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     29
+    ]
+   ],
+   "source": "<FACE:01>「…ネタ？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2155f0",
+   "offset": "0x2155f0",
+   "length": 38,
+   "raw": "a00b00bc000a00360006001800f90026001802bd01ba00050026000c0028001300a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     30
+    ]
+   ],
+   "source": "<FACE:0b>「さっきの奴らの様子からすると…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215616",
+   "offset": "0x215616",
+   "length": 63,
+   "raw": "00bc020e036f00180168003e0033000000b100fa013b022700db00180001000101800181fe0190003600120028001501370001001400010036005d00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     31
+    ]
+   ],
+   "source": "「千業の方じゃあ、相当景気のいい博奕\n打ってるに違いないっス」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215655",
+   "offset": "0x215655",
+   "length": 41,
+   "raw": "200b0100bc000900090019001a0013001100a801af0370000b001e000b00350002002500bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     32
+    ]
+   ],
+   "source": "<PORTL:0b01>「ここはひとつ…遠征しましょうよ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21567e",
+   "offset": "0x21567e",
+   "length": 12,
+   "raw": "a00100bc00a800ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     33
+    ]
+   ],
+   "source": "<FACE:01>「…？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21568a",
+   "offset": "0x21568a",
+   "length": 41,
+   "raw": "410113216363206363300001113c4001301201113c21010012a00100bc00f5036a000500a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     34
+    ]
+   ],
+   "source": "<BGM:01><PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><SE:01><WIN:1201><WAIT:3c><PORTR:0100><PAGE><FACE:01>「房総か…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2156b3",
+   "offset": "0x2156b3",
+   "length": 52,
+   "raw": "13402c30080112a00100bc00140028001d004600b1000900090014002600e4002200c600260029001200170031fe001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     35
+    ]
+   ],
+   "source": "<PAGE2><SE:2c><WIN:0801><PAGE><FACE:01>「なるほど、ここなら顔も知られてねぇ\nな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2156e7",
+   "offset": "0x2156e7",
+   "length": 19,
+   "raw": "200b00a00b00bc0045000b003500ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     36
+    ]
+   ],
+   "source": "<PORTL:0b00><FACE:0b>「でしょ？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2156fa",
+   "offset": "0x2156fa",
+   "length": 83,
+   "raw": "00bc037102ad000b00010073007e00450022000f0026001b000700cc0036001200b10182fe00010036000600270190003600120023002a0002003e0033001400010036005d000500be1013216363206363fefd",
+   "refs": [
+    [
+     10,
+     0,
+     37
+    ]
+   ],
+   "source": "「美味しいモンでもたらふく食って、思\nいっきり打ってやろうじゃないっスか」<CLR><PAGE2><PORTR:6363><PORTL:6363>\n<NEXT>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21574d",
+   "offset": "0x21574d",
+   "length": 45,
+   "raw": "3008024008200b0012a00b00bc00a800040036001300b1000e0001001100190206002600170031002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     38
+    ]
+   ],
+   "source": "<WIN:0802><SE:08><PORTL:0b00><PAGE><FACE:0b>「…おっと、そいつは通らねぇよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21577a",
+   "offset": "0x21577a",
+   "length": 50,
+   "raw": "200b01402300bc007b0037007e00bd00c70060007e009e007e0138032103040097007700a600b1fe00f7012200bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     39
+    ]
+   ],
+   "source": "<PORTL:0b01><SE:23>「ロ～ン！　タンピン三色・ドラ一、\n満貫！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2157ac",
+   "offset": "0x2157ac",
+   "length": 50,
+   "raw": "200b0000bc015700e70051007800a800230036004c00640088005c007b001900610086007b0052fe0036005d001700befeff",
+   "refs": [
+    [
+     10,
+     0,
+     40
+    ]
+   ],
+   "source": "<PORTL:0b00>「毎度アリ…やっぱトーシロはチョロイ\nっスね」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2157de",
+   "offset": "0x2157de",
+   "length": 30,
+   "raw": "00bc00010023003700b100090009001901e301310036005d001700befeff",
+   "refs": [
+    [
+     10,
+     0,
+     41
+    ]
+   ],
+   "source": "「いや～、ここは天国っスね」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2157fc",
+   "offset": "0x2157fc",
+   "length": 50,
+   "raw": "210100a00100bc00a80000000000b1001e002b0027001900640088005c007b00420026000800420005fe0026001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     42
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:01>「…ああ、まわりはトーシロだらけだか\nらな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21582e",
+   "offset": "0x21582e",
+   "length": 59,
+   "raw": "00bc0009000900450190003600120027003300b100cc0002001500190318002600170031fe0042002a000200a8000b0005000b001400a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     43
+    ]
+   ],
+   "source": "「ここで打ってりゃ、食うには困らねぇ\nだろう…しかしな…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215869",
+   "offset": "0x215869",
+   "length": 49,
+   "raw": "21636320636300bc00c3003801900010000f0001011900dd001900a80009000900150019010000310025fe00a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     44
+    ]
+   ],
+   "source": "<PORTR:6363><PORTL:6363>「俺が打ちたい麻雀は…ここには無ぇよ\n…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21589a",
+   "offset": "0x21589a",
+   "length": 45,
+   "raw": "00bc01900010000f00070014002800250002001400fa00f1003800b100a600af00220001fe0017003100befeff",
+   "refs": [
+    [
+     10,
+     0,
+     45
+    ]
+   ],
+   "source": "「打ちたくなるような相手が、一人もい\nねぇ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2158c7",
+   "offset": "0x2158c7",
+   "length": 31,
+   "raw": "13111e12210301a01600bc00030003002f00b10007000e003600bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     46
+    ]
+   ],
+   "source": "<PAGE2><WAIT:1e><PAGE><PORTR:0301><FACE:16>「ええぃ、くそっ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2158e6",
+   "offset": "0x2158e6",
+   "length": 18,
+   "raw": "00bc00a80004000100b101b7037200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     47
+    ]
+   ],
+   "source": "「…おい、小憎」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2158f8",
+   "offset": "0x2158f8",
+   "length": 17,
+   "raw": "201600a01e00bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     48
+    ]
+   ],
+   "source": "<PORTL:1600><FACE:1e>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215909",
+   "offset": "0x215909",
+   "length": 59,
+   "raw": "a01600bc00100035003600130144002d0046000100120007002900bb008c007e0110000b0015fe01c300dc01f30036001200070026002e00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     49
+    ]
+   ],
+   "source": "<FACE:16>「ちょっと積んどいてくれ。ゲン直しに\n便所行ってくらぁ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215944",
+   "offset": "0x215944",
+   "length": 36,
+   "raw": "00bc001100010045001500b1005b00520022012400360013000100120007002900befeff",
+   "refs": [
+    [
+     10,
+     0,
+     50
+    ]
+   ],
+   "source": "「ついでに、サイも振っといてくれ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215968",
+   "offset": "0x215968",
+   "length": 18,
+   "raw": "a1216363a01e00bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     51
+    ]
+   ],
+   "source": "<NOFACE><PORTR:6363><FACE:1e>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21597a",
+   "offset": "0x21597a",
+   "length": 17,
+   "raw": "210100a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     52
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21598b",
+   "offset": "0x21598b",
+   "length": 37,
+   "raw": "210b00a00b00f8000000100033003700bb001400360012001700310014007f00a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     53
+    ]
+   ],
+   "source": "<PORTR:0b00><FACE:0b>（あちゃ～。なってねぇなァ…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2159b0",
+   "offset": "0x2159b0",
+   "length": 71,
+   "raw": "00f80000002d0014030f0014000100f1001100060045025703730144001f002300360012fe00230038002800a80098007a0098007a003e0033001700310005002500bd00fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     54
+    ]
+   ],
+   "source": "（あんな危ない手つきで元禄積みやって\nやがる…バレバレじゃねぇかよ！）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2159f7",
+   "offset": "0x2159f7",
+   "length": 27,
+   "raw": "13216363206363302b01113c12a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     55
+    ]
+   ],
+   "source": "<PAGE2><PORTR:6363><PORTL:6363><WIN:2b01><WAIT:3c><PAGE><FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215a12",
+   "offset": "0x215a12",
+   "length": 36,
+   "raw": "410113113c402a113c12a00100f800a8000900b10009001801b7037200a800bd00fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     56
+    ]
+   ],
+   "source": "<BGM:01><PAGE2><WAIT:3c><SE:2a><WAIT:3c><PAGE><FACE:01>（…こ、この小憎…！）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215a36",
+   "offset": "0x215a36",
+   "length": 65,
+   "raw": "a00b00bc0000002d001400cb00f100140144001f0125001f00230036000f002602480289003efe00330098007a0012036301c000060036005d0025001700befeff",
+   "refs": [
+    [
+     10,
+     0,
+     57
+    ]
+   ],
+   "source": "<FACE:0b>「あんな下手な積み込みやったら東京じ\nゃバレて袋叩きっスよね」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215a77",
+   "offset": "0x215a77",
+   "length": 16,
+   "raw": "00bc00a8022f000a002d00ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     58
+    ]
+   ],
+   "source": "「…哲さん？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215a87",
+   "offset": "0x215a87",
+   "length": 30,
+   "raw": "13300801111e400521010012a00100bc0004000100b101b7037200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     59
+    ]
+   ],
+   "source": "<PAGE2><WIN:0801><WAIT:1e><SE:05><PORTR:0100><PAGE><FACE:01>「おい、小憎」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215aa5",
+   "offset": "0x215aa5",
+   "length": 15,
+   "raw": "201600a01e00bc00a800ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     60
+    ]
+   ],
+   "source": "<PORTL:1600><FACE:1e>「…？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ab4",
+   "offset": "0x215ab4",
+   "length": 51,
+   "raw": "a00100bc000a003600060018005b0052001801240027016800b100d30015025d0125001e0029fe000f002d004200ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     61
+    ]
+   ],
+   "source": "<FACE:01>「さっきのサイの振り方、誰に仕込まれ\nたんだ？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ae7",
+   "offset": "0x215ae7",
+   "length": 73,
+   "raw": "00bc00fb0008001200280237002c010a000f000d001201ff0015033001b00008000a000dfe002a0036001200b1006f005d006000880015018b001e00290012002d0042002a00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     62
+    ]
+   ],
+   "source": "「負けてる客を勝たせて店に居続けさせ\nろって、マスターに頼まれてんだろ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215b30",
+   "offset": "0x215b30",
+   "length": 38,
+   "raw": "00bc017601ae000c002d001400b100d30015002200980077000a001700310005002600befeff",
+   "refs": [
+    [
+     10,
+     0,
+     63
+    ]
+   ],
+   "source": "「心配すんな、誰にもバラさねぇから」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215b56",
+   "offset": "0x215b56",
+   "length": 51,
+   "raw": "00bc00a6012b00b100d30015018a002b0036000f002d004200ee00c7000900090018006ffe005d00600088000500ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     64
+    ]
+   ],
+   "source": "「一体、誰に教わったんだ？　ここのマ\nスターか？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215b89",
+   "offset": "0x215b89",
+   "length": 24,
+   "raw": "a01e00bc00a80001002300bb01e202550042002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     65
+    ]
+   ],
+   "source": "<FACE:1e>「…いや。親父だよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ba1",
+   "offset": "0x215ba1",
+   "length": 34,
+   "raw": "a00100bc000400210031001801e20255000a002d00b1019f00af0042001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     66
+    ]
+   ],
+   "source": "<FACE:01>「おめぇの親父さん、玄人だな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215bc3",
+   "offset": "0x215bc3",
+   "length": 53,
+   "raw": "00bc0014007f00b1029b002b000d00120007002900170031000500bb0004002100310018fe01e20255000a002d001500a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     67
+    ]
+   ],
+   "source": "「なァ、会わせてくれねぇか。おめぇの\n親父さんに…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215bf8",
+   "offset": "0x215bf8",
+   "length": 18,
+   "raw": "a01e00bc00a8010003120042002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     68
+    ]
+   ],
+   "source": "<FACE:1e>「…無駄だよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215c0a",
+   "offset": "0x215c0a",
+   "length": 28,
+   "raw": "a00100bc018b0020002500a8029b002b000d00120007002900befeff",
+   "refs": [
+    [
+     10,
+     0,
+     69
+    ]
+   ],
+   "source": "<FACE:01>「頼むよ…会わせてくれ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215c26",
+   "offset": "0x215c26",
+   "length": 31,
+   "raw": "216363a01e00bc0001002300a80022000200b101e20255001900a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     70
+    ]
+   ],
+   "source": "<PORTR:6363><FACE:1e>「いや…もう、親父は…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215c45",
+   "offset": "0x215c45",
+   "length": 31,
+   "raw": "30000100bc011900dd001900b10190000f00170031002d004200a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     71
+    ]
+   ],
+   "source": "<WIN:0001>「麻雀は、打たねぇんだ…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215c64",
+   "offset": "0x215c64",
+   "length": 33,
+   "raw": "13206363300e01113c21160012a01e00bc01e2025500a802370042002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     72
+    ]
+   ],
+   "source": "<PAGE2><PORTL:6363><WIN:0e01><WAIT:3c><PORTR:1600><PAGE><FACE:1e>「親父…客だよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215c85",
+   "offset": "0x215c85",
+   "length": 29,
+   "raw": "201502111e00bc00a801e2025500b102d000db0014002d004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     73
+    ]
+   ],
+   "source": "<PORTL:1502><WAIT:1e>「…親父、病気なんだ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ca2",
+   "offset": "0x215ca2",
+   "length": 23,
+   "raw": "210100a00100bc000e000200140018000500a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     74
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:01>「そうなのか…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215cb9",
+   "offset": "0x215cb9",
+   "length": 22,
+   "raw": "a01e00bc00a8010d0036001200220026000300befeff",
+   "refs": [
+    [
+     10,
+     0,
+     75
+    ]
+   ],
+   "source": "<FACE:1e>「…帰ってもらえ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ccf",
+   "offset": "0x215ccf",
+   "length": 26,
+   "raw": "00bc00d300150022029b0001000f00070017003100a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     76
+    ]
+   ],
+   "source": "「誰にも会いたくねぇ…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ce9",
+   "offset": "0x215ce9",
+   "length": 23,
+   "raw": "210101a00100bc00230036004c002700a800bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     77
+    ]
+   ],
+   "source": "<PORTR:0101><FACE:01>「やっぱり…！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215d00",
+   "offset": "0x215d00",
+   "length": 30,
+   "raw": "00bc00f500f6000a002d00a800f500f6000a002d0042001400bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     78
+    ]
+   ],
+   "source": "「房州さん…房州さんだな！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215d1e",
+   "offset": "0x215d1e",
+   "length": 40,
+   "raw": "a00500bc004b00a800ed0023000500a800bb0014002d00450009002d001400dc001500a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     79
+    ]
+   ],
+   "source": "<FACE:05>「ぼ…坊やか…。なんでこんな所に…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215d46",
+   "offset": "0x215d46",
+   "length": 43,
+   "raw": "00bc00a800460002000b0012000900090038002b00050036000f002d004200b100ed0023fe00ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     80
+    ]
+   ],
+   "source": "「…どうしてここがわかったんだ、坊や\n？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215d71",
+   "offset": "0x215d71",
+   "length": 77,
+   "raw": "a00100bc010101020045009c008800520018017e017f0240002300360012000f01b703720038fe00a80144001f0125001f001900140036001000330001001400050036000f0008004600befeff",
+   "refs": [
+    [
+     10,
+     0,
+     81
+    ]
+   ],
+   "source": "<FACE:01>「賭場でボーイの真似事やってた小憎が\n…積み込みはなっちゃいなかったけど」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215dbe",
+   "offset": "0x215dbe",
+   "length": 57,
+   "raw": "00bc005b0052002c01240036000f019300420008001900b100f500f6000a002d0015005ffe00870058007800420036000f002d004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     82
+    ]
+   ],
+   "source": "「サイを振った時だけは、房州さんにソ\nックリだったんだ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215df7",
+   "offset": "0x215df7",
+   "length": 30,
+   "raw": "00bc000e0029004500b10022000b00230013018200360012000a00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     83
+    ]
+   ],
+   "source": "「それで、もしやと思ってさ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215e15",
+   "offset": "0x215e15",
+   "length": 55,
+   "raw": "206363201500a00500bc00a800040021003100150009002d0014031300b10105002600290010001e00020013fe0019001400a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     84
+    ]
+   ],
+   "source": "<PORTL:6363><PORTL:1500><FACE:05>「…おめぇにこんな姿、見られちまうと\nはな…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215e4c",
+   "offset": "0x215e4c",
+   "length": 39,
+   "raw": "4101132163632063634010302c01110c12a00100bc00a80228000b004900270042001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     85
+    ]
+   ],
+   "source": "<BGM:01><PAGE2><PORTR:6363><PORTL:6363><SE:10><WIN:2c01><WAIT:0c><PAGE><FACE:01>「…久しぶりだな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215e73",
+   "offset": "0x215e73",
+   "length": 18,
+   "raw": "a00500bc00a8000e00020042001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     86
+    ]
+   ],
+   "source": "<FACE:05>「…そうだな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215e85",
+   "offset": "0x215e85",
+   "length": 55,
+   "raw": "a00100bc000000b100f500f6000a002d00b10009002900a800980088004502a3002900120036fe000f005b0052005a007b00a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     87
+    ]
+   ],
+   "source": "<FACE:01>「あ、房州さん、これ…バーで忘れてっ\nたサイコロ…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215ebc",
+   "offset": "0x215ebc",
+   "length": 32,
+   "raw": "00bc000100110005016e000e00020013018200360012000f002d004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     88
+    ]
+   ],
+   "source": "「いつか返そうと思ってたんだ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215edc",
+   "offset": "0x215edc",
+   "length": 32,
+   "raw": "a00500bc00a800010001002500bb000400210031001500230028002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     89
+    ]
+   ],
+   "source": "<FACE:05>「…いいよ。おめぇにやるよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215efc",
+   "offset": "0x215efc",
+   "length": 14,
+   "raw": "a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     90
+    ]
+   ],
+   "source": "<FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215f0a",
+   "offset": "0x215f0a",
+   "length": 61,
+   "raw": "00bc000e000200010023002e00b1009800880018006f006f0038029b0001000f00380036fe0012000f004000bb00750053000a002d002200a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     91
+    ]
+   ],
+   "source": "「そういやぁ、バーのママが会いたがっ\nてたぜ。ユウさんも…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215f47",
+   "offset": "0x215f47",
+   "length": 16,
+   "raw": "a00500bc00a8000e0002000500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     92
+    ]
+   ],
+   "source": "<FACE:05>「…そうか」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215f57",
+   "offset": "0x215f57",
+   "length": 20,
+   "raw": "a00100bc00a8028400200005000100ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     93
+    ]
+   ],
+   "source": "<FACE:01>「…飲むかい？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215f6b",
+   "offset": "0x215f6b",
+   "length": 16,
+   "raw": "a00500bc00a800010001002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     94
+    ]
+   ],
+   "source": "<FACE:05>「…いいよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215f7b",
+   "offset": "0x215f7b",
+   "length": 30,
+   "raw": "a00100bc000e00020042001400bb02d000db00420022002d001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     95
+    ]
+   ],
+   "source": "<FACE:01>「そうだな。病気だもんな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215f99",
+   "offset": "0x215f99",
+   "length": 16,
+   "raw": "00bc0072005c0045002200a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     96
+    ]
+   ],
+   "source": "「メシでも…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215fa9",
+   "offset": "0x215fa9",
+   "length": 14,
+   "raw": "a00500bc00010001002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     97
+    ]
+   ],
+   "source": "<FACE:05>「いいよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215fb7",
+   "offset": "0x215fb7",
+   "length": 14,
+   "raw": "a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     98
+    ]
+   ],
+   "source": "<FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215fc5",
+   "offset": "0x215fc5",
+   "length": 14,
+   "raw": "a00500bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     99
+    ]
+   ],
+   "source": "<FACE:05>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "215fd3",
+   "offset": "0x215fd3",
+   "length": 56,
+   "raw": "200b04a00b00bc00c40042000100a80184015f0062007a00170031003e003300170031000500b10004fe00210031001801e2025500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     100
+    ]
+   ],
+   "source": "<PORTL:0b04><FACE:0b>「何だい…全然ツレねぇじゃねぇか、お\nめぇの親父」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21600b",
+   "offset": "0x21600b",
+   "length": 32,
+   "raw": "00bc01bb0018016c01530038037600360012002d003e003300a800ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     101
+    ]
+   ],
+   "source": "「頭の回転が鈍ってんじゃ…？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21602b",
+   "offset": "0x21602b",
+   "length": 33,
+   "raw": "211600a01400bc00100035003600130166001e004501e20255001900a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     102
+    ]
+   ],
+   "source": "<PORTR:1600><FACE:14>「ちょっと前まで親父は…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21604c",
+   "offset": "0x21604c",
+   "length": 51,
+   "raw": "00bc01010102003e003300a600b701dd000500290028037702bc0018019f00af00420036fe000f002d0042004100bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     103
+    ]
+   ],
+   "source": "「賭場じゃ一目置かれる凄腕の玄人だっ\nたんだぞ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21607f",
+   "offset": "0x21607f",
+   "length": 49,
+   "raw": "a00b00bc00a80026000b0001001400bb01f600420008001900b1022f000a002d0015022d0001fe0012000f002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     104
+    ]
+   ],
+   "source": "<FACE:0b>「…らしいな。話だけは、哲さんに聞い\nてたよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2160b0",
+   "offset": "0x2160b0",
+   "length": 40,
+   "raw": "a01400bc00a80045002200b2003e0033000c00360005002700b100000018008e006f000a00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     105
+    ]
+   ],
+   "source": "<FACE:14>「…でも今じゃすっかり、あのザマさ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2160d8",
+   "offset": "0x2160d8",
+   "length": 41,
+   "raw": "a1216363206363a00100bc00a8012b001802a200fe0019004600020014002d0042000100ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     106
+    ]
+   ],
+   "source": "<NOFACE><PORTR:6363><PORTL:6363><FACE:01>「…体の具合はどうなんだい？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216101",
+   "offset": "0x216101",
+   "length": 38,
+   "raw": "00bc00100033002d00130378020d001500190379000d0012002800180005000100ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     107
+    ]
+   ],
+   "source": "「ちゃんと医者には診せてるのかい？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216127",
+   "offset": "0x216127",
+   "length": 14,
+   "raw": "a00500bc00a8026c001500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     108
+    ]
+   ],
+   "source": "<FACE:05>「…別に」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216135",
+   "offset": "0x216135",
+   "length": 40,
+   "raw": "a00100bc00930072003e003300170031000500bb00100033002d00130378020d001500a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     109
+    ]
+   ],
+   "source": "<FACE:01>「ダメじゃねぇか。ちゃんと医者に…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21615d",
+   "offset": "0x21615d",
+   "length": 32,
+   "raw": "a00500bc00010001002d0042002500a8113c00010001002d004200a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     110
+    ]
+   ],
+   "source": "<FACE:05>「いいんだよ…<WAIT:3c>いいんだ…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21617d",
+   "offset": "0x21617d",
+   "length": 14,
+   "raw": "a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     111
+    ]
+   ],
+   "source": "<FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21618b",
+   "offset": "0x21618b",
+   "length": 16,
+   "raw": "00bc00a800f500f6000a002d00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     112
+    ]
+   ],
+   "source": "「…房州さん」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21619b",
+   "offset": "0x21619b",
+   "length": 14,
+   "raw": "a00500bc002d00a800ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     113
+    ]
+   ],
+   "source": "<FACE:05>「ん…？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2161a9",
+   "offset": "0x2161a9",
+   "length": 14,
+   "raw": "a00100bc00a80001002300befeff",
+   "refs": [
+    [
+     10,
+     0,
+     114
+    ]
+   ],
+   "source": "<FACE:01>「…いや」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2161b7",
+   "offset": "0x2161b7",
+   "length": 55,
+   "raw": "00f800220036001301f6000b000f000100090013003800000036000f0018001500b100c4fe00220106000300170031002300a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     115
+    ]
+   ],
+   "source": "（もっと話したいことがあったのに、何\nも言えねぇや…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2161ee",
+   "offset": "0x2161ee",
+   "length": 22,
+   "raw": "00f80000001800ba00b100c3000f001000a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     116
+    ]
+   ],
+   "source": "（あの頃、俺たち…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216204",
+   "offset": "0x216204",
+   "length": 45,
+   "raw": "00f800d800d90045018f029b0036001200a80001002a002d001400090013018a002b0036fe001200a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     117
+    ]
+   ],
+   "source": "（新宿で出会って…いろんなこと教わっ\nて…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216231",
+   "offset": "0x216231",
+   "length": 59,
+   "raw": "00f80001002a002d0014019f00af000f00100013000c003b0031011900dd019000360012fe00a8000c003b0031010a00fb000b001200a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     118
+    ]
+   ],
+   "source": "（いろんな玄人たちとすげぇ麻雀打って\n…すげぇ勝負して…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21626c",
+   "offset": "0x21626c",
+   "length": 38,
+   "raw": "00f80000001800ba001800c3000f0010001900a8013000d400420036000f0025001400fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     119
+    ]
+   ],
+   "source": "（あの頃の俺たちは…最高だったよな）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216292",
+   "offset": "0x216292",
+   "length": 24,
+   "raw": "00f800420005002600a800f500f6000a002d00a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     120
+    ]
+   ],
+   "source": "（だから…房州さん…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2162aa",
+   "offset": "0x2162aa",
+   "length": 38,
+   "raw": "00f800a800c4000500b101060036001200070029002500a800f500f6000a002d00a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     121
+    ]
+   ],
+   "source": "（…何か、言ってくれよ…房州さん…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2162d0",
+   "offset": "0x2162d0",
+   "length": 14,
+   "raw": "a00500bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     122
+    ]
+   ],
+   "source": "<FACE:05>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2162de",
+   "offset": "0x2162de",
+   "length": 26,
+   "raw": "410113300f01113c20010012a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     123
+    ]
+   ],
+   "source": "<BGM:01><PAGE2><WIN:0f01><WAIT:3c><PORTL:0100><PAGE><FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2162f8",
+   "offset": "0x2162f8",
+   "length": 18,
+   "raw": "00bc00a800c300b1010d0028002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     124
+    ]
+   ],
+   "source": "「…俺、帰るよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21630a",
+   "offset": "0x21630a",
+   "length": 17,
+   "raw": "211500a00500bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     125
+    ]
+   ],
+   "source": "<PORTR:1500><FACE:05>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21631b",
+   "offset": "0x21631b",
+   "length": 55,
+   "raw": "a00100bc00090018005b0052005a007b00b100230036004c002700f500f6000a002d003800ecfe00360012001200070029002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     126
+    ]
+   ],
+   "source": "<FACE:01>「このサイコロ、やっぱり房州さんが持\nっててくれよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216352",
+   "offset": "0x216352",
+   "length": 17,
+   "raw": "206363a00500bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     127
+    ]
+   ],
+   "source": "<PORTL:6363><FACE:05>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216363",
+   "offset": "0x216363",
+   "length": 12,
+   "raw": "00bc00a800ed002300befeff",
+   "refs": [
+    [
+     10,
+     0,
+     128
+    ]
+   ],
+   "source": "「…坊や」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21636f",
+   "offset": "0x21636f",
+   "length": 20,
+   "raw": "00bc00a6012f00a8019000130002000500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     129
+    ]
+   ],
+   "source": "「一局…打とうか」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216383",
+   "offset": "0x216383",
+   "length": 15,
+   "raw": "200100a00100bc00a800bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     130
+    ]
+   ],
+   "source": "<PORTL:0100><FACE:01>「…！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216392",
+   "offset": "0x216392",
+   "length": 17,
+   "raw": "20010100bc00a80000000000bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     131
+    ]
+   ],
+   "source": "<PORTL:0101>「…ああ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2163a3",
+   "offset": "0x2163a3",
+   "length": 58,
+   "raw": "4002206363a00500bc0004000100b1015800bb02f8037a0015025b00270125002d00460001000f013c00b1fe00ec003600120103000100befeff",
+   "refs": [
+    [
+     10,
+     0,
+     132
+    ]
+   ],
+   "source": "<SE:02><PORTL:6363><FACE:05>「おい、中。納屋に放り込んどいた牌、\n持って来い」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2163dd",
+   "offset": "0x2163dd",
+   "length": 17,
+   "raw": "201601a01400bc0002002d00bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     133
+    ]
+   ],
+   "source": "<PORTL:1601><FACE:14>「うん！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2163ee",
+   "offset": "0x2163ee",
+   "length": 23,
+   "raw": "200101a00100f800f500f6000a002d00a800bd00fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     134
+    ]
+   ],
+   "source": "<PORTL:0101><FACE:01>（房州さん…！）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216405",
+   "offset": "0x216405",
+   "length": 14,
+   "raw": "a00500bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     135
+    ]
+   ],
+   "source": "<FACE:05>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216413",
+   "offset": "0x216413",
+   "length": 25,
+   "raw": "201601a01400bc00a800ec003600120103000f002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     136
+    ]
+   ],
+   "source": "<PORTL:1601><FACE:14>「…持って来たよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21642c",
+   "offset": "0x21642c",
+   "length": 22,
+   "raw": "a00500bc0025000b00a8022e00210028000500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     137
+    ]
+   ],
+   "source": "<FACE:05>「よし…始めるか」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216442",
+   "offset": "0x216442",
+   "length": 17,
+   "raw": "200101a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     138
+    ]
+   ],
+   "source": "<PORTL:0101><FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216453",
+   "offset": "0x216453",
+   "length": 55,
+   "raw": "00f8000e000200420025001400b100f500f6000a002d00a800c3000f001000150106036ffe0014002d0005031701cf0017003100fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     139
+    ]
+   ],
+   "source": "（そうだよな、房州さん…俺たちに言業\nなんか必要ねぇ）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21648a",
+   "offset": "0x21648a",
+   "length": 65,
+   "raw": "00f800e900ae0045013c002c037b002d00450027003300b1000e002900420008004500a8fe00c3000f001000190206003e00fe00030028002d004200bd00fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     140
+    ]
+   ],
+   "source": "（卓上で牌を囲んでりゃ、それだけで…\n俺たちは通じ合えるんだ！）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2164cb",
+   "offset": "0x2164cb",
+   "length": 36,
+   "raw": "a00500bc00ed002300a800090029003800c30018013000aa0018010a00fb004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     141
+    ]
+   ],
+   "source": "<FACE:05>「坊や…これが俺の最後の勝負だ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2164ef",
+   "offset": "0x2164ef",
+   "length": 31,
+   "raw": "21150100bc00b2021d001900a8001300090013002d01900011004000befeff",
+   "refs": [
+    [
+     10,
+     0,
+     142
+    ]
+   ],
+   "source": "<PORTR:1501>「今夜は…とことん打つぜ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21650e",
+   "offset": "0x21650e",
+   "length": 28,
+   "raw": "a00100bc00a800a800a800be1013216363206363b00eb201b102feff",
+   "refs": [
+    [
+     10,
+     0,
+     143
+    ]
+   ],
+   "source": "<FACE:01>「………」<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0e><C_B2:01><SETF:02>\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21652a",
+   "offset": "0x21652a",
+   "length": 59,
+   "raw": "400a300f0221010020150112a00100f800230036004c0027000c003b0031002500a80009002900450009000e00f500f6000afe002d00a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     144
+    ]
+   ],
+   "source": "<SE:0a><WIN:0f02><PORTR:0100><PORTL:1501><PAGE><FACE:01>（やっぱりすげぇよ…これでこそ房州さ\nん…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216565",
+   "offset": "0x216565",
+   "length": 65,
+   "raw": "00f8000e00290042000500260009000e00b100c3003801ed00030014000600330014002dfe0017003101ec00450000002700a800b702a40014002d004200fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     145
+    ]
+   ],
+   "source": "（それだからこそ、俺が越えなきゃなん\nねぇ壁であり…目標なんだ）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2165a6",
+   "offset": "0x2165a6",
+   "length": 41,
+   "raw": "21010300f8010a00100012003100a800f500f6000a002d0015010a00100012003100a800bd00fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     146
+    ]
+   ],
+   "source": "<PORTR:0103>（勝ちてぇ…房州さんに勝ちてぇ…！）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2165cf",
+   "offset": "0x2165cf",
+   "length": 70,
+   "raw": "210b02a00b00f8022f000a002d002c00090009001e004502820001037c002100280013001900b1fe0009001800550087005b007e0019000f0042020d003e003300a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     147
+    ]
+   ],
+   "source": "<PORTR:0b02><FACE:0b>（哲さんをここまで追い詰めるとは、\nこのオッサンはただ者じゃ…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216615",
+   "offset": "0x216615",
+   "length": 28,
+   "raw": "00f8000900180188001800af0118003e00330017003100a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     148
+    ]
+   ],
+   "source": "（この世の人間じゃねぇ…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216631",
+   "offset": "0x216631",
+   "length": 32,
+   "raw": "216363a00500bc00a8008100a8205858008d006e008d006e008700bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     149
+    ]
+   ],
+   "source": "<PORTR:6363><FACE:05>「…ゥ…<PORTL:5858>ゴホゴホッ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216651",
+   "offset": "0x216651",
+   "length": 25,
+   "raw": "210102a00100bc004b00b100f500f6000a002d00bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     150
+    ]
+   ],
+   "source": "<PORTR:0102><FACE:01>「ぼ、房州さん！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21666a",
+   "offset": "0x21666a",
+   "length": 17,
+   "raw": "201600a01400bc01e2025500bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     151
+    ]
+   ],
+   "source": "<PORTL:1600><FACE:14>「親父！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21667b",
+   "offset": "0x21667b",
+   "length": 43,
+   "raw": "00bc0009001802b80015000b00130009000200a801000148000c00280013012b00150299fe004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     152
+    ]
+   ],
+   "source": "「この辺にしとこう…無理すると体に毒\nだ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2166a6",
+   "offset": "0x2166a6",
+   "length": 54,
+   "raw": "201501a00500bc00a800c401060036001200230038002800a8010a00360012002800020010001900b1fe002300210017003100befeff",
+   "refs": [
+    [
+     10,
+     0,
+     153
+    ]
+   ],
+   "source": "<PORTL:1501><FACE:05>「…何言ってやがる…勝ってるうちは、\nやめねぇ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2166dc",
+   "offset": "0x2166dc",
+   "length": 55,
+   "raw": "00bc000e00360010001800a800fb0008001200280168003800b100230021002800360012fe01060002001e00450019001400a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     154
+    ]
+   ],
+   "source": "「そっちの…負けてる方が、やめるって\n言うまではな…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216713",
+   "offset": "0x216713",
+   "length": 14,
+   "raw": "a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     155
+    ]
+   ],
+   "source": "<FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216721",
+   "offset": "0x216721",
+   "length": 63,
+   "raw": "00f800a800f500f6000a002d001900b10009002d0014008a0078008a00780018012b0045fe00c30013011900dd002c0190003600120001002800a800fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     156
+    ]
+   ],
+   "source": "（…房州さんは、こんなギリギリの体で\n俺と麻雀を打っている…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216760",
+   "offset": "0x216760",
+   "length": 46,
+   "raw": "21010000f800090029003800b100f500f6000a002d001301900012002800a8013000aa00180119fe00dd00fcfeff",
+   "refs": [
+    [
+     10,
+     0,
+     157
+    ]
+   ],
+   "source": "<PORTR:0100>（これが、房州さんと打てる…最後の麻\n雀）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21678e",
+   "offset": "0x21678e",
+   "length": 59,
+   "raw": "00bc00a800090036001000420036001200b1002300210028001100220027001900170031fe00a8010a0011001e0045002300210017003100befeff",
+   "refs": [
+    [
+     10,
+     0,
+     158
+    ]
+   ],
+   "source": "「…こっちだって、やめるつもりはねぇ\n…勝つまでやめねぇ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2167c9",
+   "offset": "0x2167c9",
+   "length": 28,
+   "raw": "a00500bc00a800a800a800be1013216363206363b00eb201b102feff",
+   "refs": [
+    [
+     10,
+     0,
+     159
+    ]
+   ],
+   "source": "<FACE:05>「………」<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0e><C_B2:01><SETF:02>\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2167e5",
+   "offset": "0x2167e5",
+   "length": 52,
+   "raw": "401330000021010120150012a00500bc00ed002300a800040021003100b100010001019f00af001500140036000f001400befeff",
+   "refs": [
+    [
+     10,
+     0,
+     160
+    ]
+   ],
+   "source": "<SE:13><WIN:0000><PORTR:0101><PORTL:1500><PAGE><FACE:05>「坊や…おめぇ、いい玄人になったな」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216819",
+   "offset": "0x216819",
+   "length": 34,
+   "raw": "a00100bc00fa00f1003800f500f6000a002d0042000500260009000e00a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     161
+    ]
+   ],
+   "source": "<FACE:01>「相手が房州さんだからこそ…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "21683b",
+   "offset": "0x21683b",
+   "length": 71,
+   "raw": "00bc013000d40018019f00af003800fa00f100420036000f000500260009000e00a8fe00c30015004500060028013000d40018011900dd003801900012000f002d004200befeff",
+   "refs": [
+    [
+     10,
+     0,
+     162
+    ]
+   ],
+   "source": "「最高の玄人が相手だったからこそ…\n俺にできる最高の麻雀が打てたんだ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216882",
+   "offset": "0x216882",
+   "length": 76,
+   "raw": "210100a00500bc0001002300a80190001000fb0008001200b100020029000b0001001301820036000ffe019301d6004500c300190022000200a8019f00af003e003300170031002500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     163
+    ]
+   ],
+   "source": "<PORTR:0100><FACE:05>「いや…打ち負けて、うれしいと思った\n時点で俺はもう…玄人じゃねぇよ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2168ce",
+   "offset": "0x2168ce",
+   "length": 22,
+   "raw": "00bc010a00fb00a800000036000f001400a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     164
+    ]
+   ],
+   "source": "「勝負…あったな…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2168e4",
+   "offset": "0x2168e4",
+   "length": 14,
+   "raw": "a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     165
+    ]
+   ],
+   "source": "<FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2168f2",
+   "offset": "0x2168f2",
+   "length": 47,
+   "raw": "a00500bc00ed002300a800090002000b00120004002100310013011900dd0190003600120028fe001300a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     166
+    ]
+   ],
+   "source": "<FACE:05>「坊や…こうしておめぇと麻雀打ってる\nと…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216921",
+   "offset": "0x216921",
+   "length": 49,
+   "raw": "00bc0009001800a601c6004500b10022000200c400a500a7002200b40006000f00db0038fe000c0028004000a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     167
+    ]
+   ],
+   "source": "「この一瞬で、もう何十年も生きた気が\nするぜ…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216952",
+   "offset": "0x216952",
+   "length": 38,
+   "raw": "00bc002d00a8037d0042001400bb015800b1037e01ba002c026e000800120007002900befeff",
+   "refs": [
+    [
+     10,
+     0,
+     168
+    ]
+   ],
+   "source": "「ん…朝だな。中、障子を開けてくれ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216978",
+   "offset": "0x216978",
+   "length": 15,
+   "raw": "211600a01400bc0000000000befeff",
+   "refs": [
+    [
+     10,
+     0,
+     169
+    ]
+   ],
+   "source": "<PORTR:1600><FACE:14>「ああ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216987",
+   "offset": "0x216987",
+   "length": 35,
+   "raw": "134101300d02113c12a00500bc00a801b5003800a8113c010300280014007f00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     170
+    ]
+   ],
+   "source": "<PAGE2><BGM:01><WIN:0d02><WAIT:3c><PAGE><FACE:05>「…両が…<WAIT:3c>来るなァ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2169aa",
+   "offset": "0x2169aa",
+   "length": 53,
+   "raw": "a01400bc00c4010600360012002d004201e2025500bb0009002d0014001502a5002900120028fe003e003300170031000500befeff",
+   "refs": [
+    [
+     10,
+     0,
+     171
+    ]
+   ],
+   "source": "<FACE:14>「何言ってんだ親父。こんなに晴れてる\nじゃねぇか」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "2169df",
+   "offset": "0x2169df",
+   "length": 33,
+   "raw": "2163634101a00500bc0001002300a8113c00e000010038000c002800a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     172
+    ]
+   ],
+   "source": "<PORTR:6363><BGM:01><FACE:05>「いや…<WAIT:3c>匂いがする…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216a00",
+   "offset": "0x216a00",
+   "length": 28,
+   "raw": "1320636330000512a00100bc00a800f500f6000a002d039d00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     173
+    ]
+   ],
+   "source": "<PAGE2><PORTL:6363><WIN:0005><PAGE><FACE:01>「…房州さん⁉」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216a1c",
+   "offset": "0x216a1c",
+   "length": 16,
+   "raw": "a01400bc00a801e2025500ee00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     174
+    ]
+   ],
+   "source": "<FACE:14>「…親父？」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216a2c",
+   "offset": "0x216a2c",
+   "length": 41,
+   "raw": "1330370412a01400bc01e2025500a800bd00c7113c01e202550088008800880088003600bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     175
+    ]
+   ],
+   "source": "<PAGE2><WIN:3704><PAGE><FACE:14>「親父…！　<WAIT:3c>親父ーーーーっ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216a55",
+   "offset": "0x216a55",
+   "length": 48,
+   "raw": "13300d01113c200b0412a00b00bc011900dd0023003600120012011b002d003e001e00020014002d001200a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     176
+    ]
+   ],
+   "source": "<PAGE2><WIN:0d01><WAIT:3c><PORTL:0b04><PAGE><FACE:0b>「麻雀やってて死んじまうなんて…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216a85",
+   "offset": "0x216a85",
+   "length": 41,
+   "raw": "200b0200bc000000a80000002900b1022f000a002d00a8000900b1000900a80009002900bd00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     177
+    ]
+   ],
+   "source": "<PORTL:0b02>「あ…あれ、哲さん…こ、こ…これ！」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216aae",
+   "offset": "0x216aae",
+   "length": 41,
+   "raw": "210104a00100bc00a8002b0005003600120028002500bb0051008900360012002d0042002a00befeff",
+   "refs": [
+    [
+     10,
+     0,
+     178
+    ]
+   ],
+   "source": "<PORTR:0104><FACE:01>「…わかってるよ。アガってんだろ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216ad7",
+   "offset": "0x216ad7",
+   "length": 54,
+   "raw": "20636300bc00f500f6000a002d0019010a00fb00180000001300b1003f00360013006b00770045fe019000360012000f00a800befeff",
+   "refs": [
+    [
+     10,
+     0,
+     179
+    ]
+   ],
+   "source": "<PORTL:6363>「房州さんは勝負のあと、ずっとヒラで\n打ってた…」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216b0d",
+   "offset": "0x216b0d",
+   "length": 68,
+   "raw": "300001401400bc00420005002600b1000e0029001900a801e300050026002200260036000f00b1fe023f017e023f037f001801e300a3000a00a800be101321636380feff",
+   "refs": [
+    [
+     10,
+     0,
+     180
+    ]
+   ],
+   "source": "<WIN:0001><SE:14>「だから、それは…天からもらった、\n正真正銘の天和さ…」<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216e28",
+   "offset": "0x216e28",
+   "length": 42,
+   "raw": "c001200b0112a00b00bc00a8000c003b0031010a00fb00420036000f001700b1022f000a002d00befeff",
+   "refs": [
+    [
+     10,
+     1,
+     0
+    ]
+   ],
+   "source": "<C_C0:01><PORTL:0b01><PAGE><FACE:0b>「…すげぇ勝負だったね、哲さん」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216e52",
+   "offset": "0x216e52",
+   "length": 18,
+   "raw": "210104a001200b0400bc0000000000befeff",
+   "refs": [
+    [
+     10,
+     1,
+     1
+    ]
+   ],
+   "source": "<PORTR:0104><FACE:01><PORTL:0b04>「ああ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216e64",
+   "offset": "0x216e64",
+   "length": 48,
+   "raw": "200b01a00b00bc00a80045002200b10014002d000500b10380000b0001011900dd00420036000f0025fe001700befeff",
+   "refs": [
+    [
+     10,
+     1,
+     2
+    ]
+   ],
+   "source": "<PORTL:0b01><FACE:0b>「…でも、なんか、悲しい麻雀だったよ\nね」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216e94",
+   "offset": "0x216e94",
+   "length": 15,
+   "raw": "a001200b0400bc0000000000befeff",
+   "refs": [
+    [
+     10,
+     1,
+     3
+    ]
+   ],
+   "source": "<FACE:01><PORTL:0b04>「ああ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216ea3",
+   "offset": "0x216ea3",
+   "length": 43,
+   "raw": "200b01a00b00bc0000001800550087005b007e00a800010001019f00af00420036000f0025001700befeff",
+   "refs": [
+    [
+     10,
+     1,
+     4
+    ]
+   ],
+   "source": "<PORTL:0b01><FACE:0b>「あのオッサン…いい玄人だったよね」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216ece",
+   "offset": "0x216ece",
+   "length": 17,
+   "raw": "a001200b0400bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     1,
+     5
+    ]
+   ],
+   "source": "<FACE:01><PORTL:0b04>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216edf",
+   "offset": "0x216edf",
+   "length": 38,
+   "raw": "a00b00f801bd00010012002800ee00c7022f000a002d003800a800fc1013216363206363fefd",
+   "refs": [
+    [
+     10,
+     1,
+     6
+    ]
+   ],
+   "source": "<FACE:0b>（泣いてる？　哲さんが…）<CLR><PAGE2><PORTR:6363><PORTL:6363>\n<NEXT>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216f05",
+   "offset": "0x216f05",
+   "length": 24,
+   "raw": "d001200b0412a00b00f8000000a801b5000500a800fcfeff",
+   "refs": [
+    [
+     10,
+     1,
+     7
+    ]
+   ],
+   "source": "<C_D0:01><PORTL:0b04><PAGE><FACE:0b>（あ…両か…）\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216f1d",
+   "offset": "0x216f1d",
+   "length": 43,
+   "raw": "200b01a00b00bc022f000a002d00b101b50036005d002500b101b500a802200027001e000b003500befeff",
+   "refs": [
+    [
+     10,
+     1,
+     8
+    ]
+   ],
+   "source": "<PORTL:0b01><FACE:0b>「哲さん、両っスよ、両…戻りましょ」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216f48",
+   "offset": "0x216f48",
+   "length": 14,
+   "raw": "a00100bc00a800a800a800befeff",
+   "refs": [
+    [
+     10,
+     1,
+     9
+    ]
+   ],
+   "source": "<FACE:01>「………」\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216f56",
+   "offset": "0x216f56",
+   "length": 22,
+   "raw": "200b04a00b00bc00a800a800a800be1013206363fefd",
+   "refs": [
+    [
+     10,
+     1,
+     10
+    ]
+   ],
+   "source": "<PORTL:0b04><FACE:0b>「………」<CLR><PAGE2><PORTL:6363>\n<NEXT>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  },
+  {
+   "id": "216f6c",
+   "offset": "0x216f6c",
+   "length": 42,
+   "raw": "c002303000d1113c113c1200f800000047002500a800f500f6000a002d00a800fc10134102c00380feff",
+   "refs": [
+    [
+     10,
+     1,
+     11
+    ]
+   ],
+   "source": "<C_C0:02><WIN:3000><C_D1><WAIT:3c><WAIT:3c><PAGE>（あばよ…房州さん…）<CLR><PAGE2><BGM:02><C_C0:03><RESET>\n<END>",
+   "target": "",
+   "state": "untranslated",
+   "notes": ""
+  }
+ ]
+}

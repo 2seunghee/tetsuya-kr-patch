@@ -1,0 +1,3911 @@
+{
+ "source": "originals/Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan).gba",
+ "source_sha256": "65e8eb749a88c18c02ea8bf783b62f0cd7a39f0e38f550e7be124172016c08bd",
+ "glyph_bank_table": "0x0821b1b8",
+ "glyph_format": "16x16 8bpp, four 8x8 tiles (TL,TR,BL,BR), 256 bytes per glyph, drawn at a 12px pitch",
+ "note": "Identity established by visual transcription of rendered glyphs. Tokens in braces are icon/blank glyphs.",
+ "duplicates": {
+  "着": [
+   "0f4",
+   "278"
+  ],
+  "速": [
+   "197",
+   "2de"
+  ],
+  "両": [
+   "1b5",
+   "355"
+  ],
+  "浪": [
+   "1c7",
+   "2df"
+  ],
+  "業": [
+   "1ca",
+   "36f"
+  ],
+  "壁": [
+   "1ec",
+   "394"
+  ],
+  "貧": [
+   "201",
+   "33d"
+  ],
+  "者": [
+   "20d",
+   "388"
+  ],
+  "腰": [
+   "279",
+   "354"
+  ]
+ },
+ "codes": {
+  "000": {
+   "text": "あ",
+   "glyph_offset": "0x44eafc"
+  },
+  "001": {
+   "text": "い",
+   "glyph_offset": "0x44ebfc"
+  },
+  "002": {
+   "text": "う",
+   "glyph_offset": "0x44ecfc"
+  },
+  "003": {
+   "text": "え",
+   "glyph_offset": "0x44edfc"
+  },
+  "004": {
+   "text": "お",
+   "glyph_offset": "0x44eefc"
+  },
+  "005": {
+   "text": "か",
+   "glyph_offset": "0x44effc"
+  },
+  "006": {
+   "text": "き",
+   "glyph_offset": "0x44f0fc"
+  },
+  "007": {
+   "text": "く",
+   "glyph_offset": "0x44f1fc"
+  },
+  "008": {
+   "text": "け",
+   "glyph_offset": "0x44f2fc"
+  },
+  "009": {
+   "text": "こ",
+   "glyph_offset": "0x44f3fc"
+  },
+  "00a": {
+   "text": "さ",
+   "glyph_offset": "0x44f4fc"
+  },
+  "00b": {
+   "text": "し",
+   "glyph_offset": "0x44f5fc"
+  },
+  "00c": {
+   "text": "す",
+   "glyph_offset": "0x44f6fc"
+  },
+  "00d": {
+   "text": "せ",
+   "glyph_offset": "0x44f7fc"
+  },
+  "00e": {
+   "text": "そ",
+   "glyph_offset": "0x44f8fc"
+  },
+  "00f": {
+   "text": "た",
+   "glyph_offset": "0x44f9fc"
+  },
+  "010": {
+   "text": "ち",
+   "glyph_offset": "0x44fafc"
+  },
+  "011": {
+   "text": "つ",
+   "glyph_offset": "0x44fbfc"
+  },
+  "012": {
+   "text": "て",
+   "glyph_offset": "0x44fcfc"
+  },
+  "013": {
+   "text": "と",
+   "glyph_offset": "0x44fdfc"
+  },
+  "014": {
+   "text": "な",
+   "glyph_offset": "0x44fefc"
+  },
+  "015": {
+   "text": "に",
+   "glyph_offset": "0x44fffc"
+  },
+  "016": {
+   "text": "ぬ",
+   "glyph_offset": "0x4500fc"
+  },
+  "017": {
+   "text": "ね",
+   "glyph_offset": "0x4501fc"
+  },
+  "018": {
+   "text": "の",
+   "glyph_offset": "0x4502fc"
+  },
+  "019": {
+   "text": "は",
+   "glyph_offset": "0x4503fc"
+  },
+  "01a": {
+   "text": "ひ",
+   "glyph_offset": "0x4504fc"
+  },
+  "01b": {
+   "text": "ふ",
+   "glyph_offset": "0x4505fc"
+  },
+  "01c": {
+   "text": "へ",
+   "glyph_offset": "0x4506fc"
+  },
+  "01d": {
+   "text": "ほ",
+   "glyph_offset": "0x4507fc"
+  },
+  "01e": {
+   "text": "ま",
+   "glyph_offset": "0x4508fc"
+  },
+  "01f": {
+   "text": "み",
+   "glyph_offset": "0x4509fc"
+  },
+  "020": {
+   "text": "む",
+   "glyph_offset": "0x450afc"
+  },
+  "021": {
+   "text": "め",
+   "glyph_offset": "0x450bfc"
+  },
+  "022": {
+   "text": "も",
+   "glyph_offset": "0x450cfc"
+  },
+  "023": {
+   "text": "や",
+   "glyph_offset": "0x450dfc"
+  },
+  "024": {
+   "text": "ゆ",
+   "glyph_offset": "0x450efc"
+  },
+  "025": {
+   "text": "よ",
+   "glyph_offset": "0x450ffc"
+  },
+  "026": {
+   "text": "ら",
+   "glyph_offset": "0x4510fc"
+  },
+  "027": {
+   "text": "り",
+   "glyph_offset": "0x4511fc"
+  },
+  "028": {
+   "text": "る",
+   "glyph_offset": "0x4512fc"
+  },
+  "029": {
+   "text": "れ",
+   "glyph_offset": "0x4513fc"
+  },
+  "02a": {
+   "text": "ろ",
+   "glyph_offset": "0x4514fc"
+  },
+  "02b": {
+   "text": "わ",
+   "glyph_offset": "0x4515fc"
+  },
+  "02c": {
+   "text": "を",
+   "glyph_offset": "0x4516fc"
+  },
+  "02d": {
+   "text": "ん",
+   "glyph_offset": "0x4517fc"
+  },
+  "02e": {
+   "text": "ぁ",
+   "glyph_offset": "0x4518fc"
+  },
+  "02f": {
+   "text": "ぃ",
+   "glyph_offset": "0x4519fc"
+  },
+  "030": {
+   "text": "ぅ",
+   "glyph_offset": "0x451afc"
+  },
+  "031": {
+   "text": "ぇ",
+   "glyph_offset": "0x451bfc"
+  },
+  "032": {
+   "text": "ぉ",
+   "glyph_offset": "0x451cfc"
+  },
+  "033": {
+   "text": "ゃ",
+   "glyph_offset": "0x451dfc"
+  },
+  "034": {
+   "text": "ゅ",
+   "glyph_offset": "0x451efc"
+  },
+  "035": {
+   "text": "ょ",
+   "glyph_offset": "0x451ffc"
+  },
+  "036": {
+   "text": "っ",
+   "glyph_offset": "0x4520fc"
+  },
+  "037": {
+   "text": "～",
+   "glyph_offset": "0x4521fc"
+  },
+  "038": {
+   "text": "が",
+   "glyph_offset": "0x4522fc"
+  },
+  "039": {
+   "text": "ぎ",
+   "glyph_offset": "0x4523fc"
+  },
+  "03a": {
+   "text": "ぐ",
+   "glyph_offset": "0x4524fc"
+  },
+  "03b": {
+   "text": "げ",
+   "glyph_offset": "0x4525fc"
+  },
+  "03c": {
+   "text": "ご",
+   "glyph_offset": "0x4526fc"
+  },
+  "03d": {
+   "text": "ざ",
+   "glyph_offset": "0x4527fc"
+  },
+  "03e": {
+   "text": "じ",
+   "glyph_offset": "0x4528fc"
+  },
+  "03f": {
+   "text": "ず",
+   "glyph_offset": "0x4529fc"
+  },
+  "040": {
+   "text": "ぜ",
+   "glyph_offset": "0x452afc"
+  },
+  "041": {
+   "text": "ぞ",
+   "glyph_offset": "0x452bfc"
+  },
+  "042": {
+   "text": "だ",
+   "glyph_offset": "0x452cfc"
+  },
+  "043": {
+   "text": "ぢ",
+   "glyph_offset": "0x452dfc"
+  },
+  "044": {
+   "text": "づ",
+   "glyph_offset": "0x452efc"
+  },
+  "045": {
+   "text": "で",
+   "glyph_offset": "0x452ffc"
+  },
+  "046": {
+   "text": "ど",
+   "glyph_offset": "0x4530fc"
+  },
+  "047": {
+   "text": "ば",
+   "glyph_offset": "0x4531fc"
+  },
+  "048": {
+   "text": "び",
+   "glyph_offset": "0x4532fc"
+  },
+  "049": {
+   "text": "ぶ",
+   "glyph_offset": "0x4533fc"
+  },
+  "04a": {
+   "text": "べ",
+   "glyph_offset": "0x4534fc"
+  },
+  "04b": {
+   "text": "ぼ",
+   "glyph_offset": "0x4535fc"
+  },
+  "04c": {
+   "text": "ぱ",
+   "glyph_offset": "0x4536fc"
+  },
+  "04d": {
+   "text": "ぴ",
+   "glyph_offset": "0x4537fc"
+  },
+  "04e": {
+   "text": "ぷ",
+   "glyph_offset": "0x4538fc"
+  },
+  "04f": {
+   "text": "ぺ",
+   "glyph_offset": "0x4539fc"
+  },
+  "050": {
+   "text": "ぽ",
+   "glyph_offset": "0x453afc"
+  },
+  "051": {
+   "text": "ア",
+   "glyph_offset": "0x453bfc"
+  },
+  "052": {
+   "text": "イ",
+   "glyph_offset": "0x453cfc"
+  },
+  "053": {
+   "text": "ウ",
+   "glyph_offset": "0x453dfc"
+  },
+  "054": {
+   "text": "エ",
+   "glyph_offset": "0x453efc"
+  },
+  "055": {
+   "text": "オ",
+   "glyph_offset": "0x453ffc"
+  },
+  "056": {
+   "text": "カ",
+   "glyph_offset": "0x4540fc"
+  },
+  "057": {
+   "text": "キ",
+   "glyph_offset": "0x4541fc"
+  },
+  "058": {
+   "text": "ク",
+   "glyph_offset": "0x4542fc"
+  },
+  "059": {
+   "text": "ケ",
+   "glyph_offset": "0x4543fc"
+  },
+  "05a": {
+   "text": "コ",
+   "glyph_offset": "0x4544fc"
+  },
+  "05b": {
+   "text": "サ",
+   "glyph_offset": "0x4545fc"
+  },
+  "05c": {
+   "text": "シ",
+   "glyph_offset": "0x4546fc"
+  },
+  "05d": {
+   "text": "ス",
+   "glyph_offset": "0x4547fc"
+  },
+  "05e": {
+   "text": "セ",
+   "glyph_offset": "0x4548fc"
+  },
+  "05f": {
+   "text": "ソ",
+   "glyph_offset": "0x4549fc"
+  },
+  "060": {
+   "text": "タ",
+   "glyph_offset": "0x454afc"
+  },
+  "061": {
+   "text": "チ",
+   "glyph_offset": "0x454bfc"
+  },
+  "062": {
+   "text": "ツ",
+   "glyph_offset": "0x454cfc"
+  },
+  "063": {
+   "text": "テ",
+   "glyph_offset": "0x454dfc"
+  },
+  "064": {
+   "text": "ト",
+   "glyph_offset": "0x454efc"
+  },
+  "065": {
+   "text": "ナ",
+   "glyph_offset": "0x454ffc"
+  },
+  "066": {
+   "text": "ニ",
+   "glyph_offset": "0x4550fc"
+  },
+  "067": {
+   "text": "ヌ",
+   "glyph_offset": "0x4551fc"
+  },
+  "068": {
+   "text": "ネ",
+   "glyph_offset": "0x4552fc"
+  },
+  "069": {
+   "text": "ノ",
+   "glyph_offset": "0x4553fc"
+  },
+  "06a": {
+   "text": "ハ",
+   "glyph_offset": "0x4554fc"
+  },
+  "06b": {
+   "text": "ヒ",
+   "glyph_offset": "0x4555fc"
+  },
+  "06c": {
+   "text": "フ",
+   "glyph_offset": "0x4556fc"
+  },
+  "06d": {
+   "text": "ヘ",
+   "glyph_offset": "0x4557fc"
+  },
+  "06e": {
+   "text": "ホ",
+   "glyph_offset": "0x4558fc"
+  },
+  "06f": {
+   "text": "マ",
+   "glyph_offset": "0x4559fc"
+  },
+  "070": {
+   "text": "ミ",
+   "glyph_offset": "0x455afc"
+  },
+  "071": {
+   "text": "ム",
+   "glyph_offset": "0x455bfc"
+  },
+  "072": {
+   "text": "メ",
+   "glyph_offset": "0x455cfc"
+  },
+  "073": {
+   "text": "モ",
+   "glyph_offset": "0x455dfc"
+  },
+  "074": {
+   "text": "ヤ",
+   "glyph_offset": "0x455efc"
+  },
+  "075": {
+   "text": "ユ",
+   "glyph_offset": "0x455ffc"
+  },
+  "076": {
+   "text": "ヨ",
+   "glyph_offset": "0x4560fc"
+  },
+  "077": {
+   "text": "ラ",
+   "glyph_offset": "0x4561fc"
+  },
+  "078": {
+   "text": "リ",
+   "glyph_offset": "0x4562fc"
+  },
+  "079": {
+   "text": "ル",
+   "glyph_offset": "0x4563fc"
+  },
+  "07a": {
+   "text": "レ",
+   "glyph_offset": "0x4564fc"
+  },
+  "07b": {
+   "text": "ロ",
+   "glyph_offset": "0x4565fc"
+  },
+  "07c": {
+   "text": "ワ",
+   "glyph_offset": "0x4566fc"
+  },
+  "07d": {
+   "text": "ヲ",
+   "glyph_offset": "0x4567fc"
+  },
+  "07e": {
+   "text": "ン",
+   "glyph_offset": "0x4568fc"
+  },
+  "07f": {
+   "text": "ァ",
+   "glyph_offset": "0x4569fc"
+  },
+  "080": {
+   "text": "ィ",
+   "glyph_offset": "0x456afc"
+  },
+  "081": {
+   "text": "ゥ",
+   "glyph_offset": "0x456bfc"
+  },
+  "082": {
+   "text": "ェ",
+   "glyph_offset": "0x456cfc"
+  },
+  "083": {
+   "text": "ォ",
+   "glyph_offset": "0x456dfc"
+  },
+  "084": {
+   "text": "ャ",
+   "glyph_offset": "0x456efc"
+  },
+  "085": {
+   "text": "ュ",
+   "glyph_offset": "0x456ffc"
+  },
+  "086": {
+   "text": "ョ",
+   "glyph_offset": "0x4570fc"
+  },
+  "087": {
+   "text": "ッ",
+   "glyph_offset": "0x4571fc"
+  },
+  "088": {
+   "text": "ー",
+   "glyph_offset": "0x4572fc"
+  },
+  "089": {
+   "text": "ガ",
+   "glyph_offset": "0x4573fc"
+  },
+  "08a": {
+   "text": "ギ",
+   "glyph_offset": "0x4574fc"
+  },
+  "08b": {
+   "text": "グ",
+   "glyph_offset": "0x4575fc"
+  },
+  "08c": {
+   "text": "ゲ",
+   "glyph_offset": "0x4576fc"
+  },
+  "08d": {
+   "text": "ゴ",
+   "glyph_offset": "0x4577fc"
+  },
+  "08e": {
+   "text": "ザ",
+   "glyph_offset": "0x4578fc"
+  },
+  "08f": {
+   "text": "ジ",
+   "glyph_offset": "0x4579fc"
+  },
+  "090": {
+   "text": "ズ",
+   "glyph_offset": "0x457afc"
+  },
+  "091": {
+   "text": "ゼ",
+   "glyph_offset": "0x457bfc"
+  },
+  "092": {
+   "text": "ゾ",
+   "glyph_offset": "0x457cfc"
+  },
+  "093": {
+   "text": "ダ",
+   "glyph_offset": "0x457dfc"
+  },
+  "094": {
+   "text": "ヂ",
+   "glyph_offset": "0x457efc"
+  },
+  "095": {
+   "text": "ヅ",
+   "glyph_offset": "0x457ffc"
+  },
+  "096": {
+   "text": "デ",
+   "glyph_offset": "0x4580fc"
+  },
+  "097": {
+   "text": "ド",
+   "glyph_offset": "0x4581fc"
+  },
+  "098": {
+   "text": "バ",
+   "glyph_offset": "0x4582fc"
+  },
+  "099": {
+   "text": "ビ",
+   "glyph_offset": "0x4583fc"
+  },
+  "09a": {
+   "text": "ブ",
+   "glyph_offset": "0x4584fc"
+  },
+  "09b": {
+   "text": "ベ",
+   "glyph_offset": "0x4585fc"
+  },
+  "09c": {
+   "text": "ボ",
+   "glyph_offset": "0x4586fc"
+  },
+  "09d": {
+   "text": "パ",
+   "glyph_offset": "0x4587fc"
+  },
+  "09e": {
+   "text": "ピ",
+   "glyph_offset": "0x4588fc"
+  },
+  "09f": {
+   "text": "プ",
+   "glyph_offset": "0x4589fc"
+  },
+  "0a0": {
+   "text": "ペ",
+   "glyph_offset": "0x458afc"
+  },
+  "0a1": {
+   "text": "ポ",
+   "glyph_offset": "0x458bfc"
+  },
+  "0a2": {
+   "text": "昭",
+   "glyph_offset": "0x458cfc"
+  },
+  "0a3": {
+   "text": "和",
+   "glyph_offset": "0x458dfc"
+  },
+  "0a4": {
+   "text": "二",
+   "glyph_offset": "0x458efc"
+  },
+  "0a5": {
+   "text": "十",
+   "glyph_offset": "0x458ffc"
+  },
+  "0a6": {
+   "text": "一",
+   "glyph_offset": "0x4590fc"
+  },
+  "0a7": {
+   "text": "年",
+   "glyph_offset": "0x4591fc"
+  },
+  "0a8": {
+   "text": "…",
+   "glyph_offset": "0x4592fc"
+  },
+  "0a9": {
+   "text": "戦",
+   "glyph_offset": "0x4593fc"
+  },
+  "0aa": {
+   "text": "後",
+   "glyph_offset": "0x4594fc"
+  },
+  "0ab": {
+   "text": "焼",
+   "glyph_offset": "0x4595fc"
+  },
+  "0ac": {
+   "text": "跡",
+   "glyph_offset": "0x4596fc"
+  },
+  "0ad": {
+   "text": "立",
+   "glyph_offset": "0x4597fc"
+  },
+  "0ae": {
+   "text": "上",
+   "glyph_offset": "0x4598fc"
+  },
+  "0af": {
+   "text": "人",
+   "glyph_offset": "0x4599fc"
+  },
+  "0b0": {
+   "text": "々",
+   "glyph_offset": "0x459afc"
+  },
+  "0b1": {
+   "text": "、",
+   "glyph_offset": "0x459bfc"
+  },
+  "0b2": {
+   "text": "今",
+   "glyph_offset": "0x459cfc"
+  },
+  "0b3": {
+   "text": "日",
+   "glyph_offset": "0x459dfc"
+  },
+  "0b4": {
+   "text": "生",
+   "glyph_offset": "0x459efc"
+  },
+  "0b5": {
+   "text": "復",
+   "glyph_offset": "0x459ffc"
+  },
+  "0b6": {
+   "text": "興",
+   "glyph_offset": "0x45a0fc"
+  },
+  "0b7": {
+   "text": "目",
+   "glyph_offset": "0x45a1fc"
+  },
+  "0b8": {
+   "text": "指",
+   "glyph_offset": "0x45a2fc"
+  },
+  "0b9": {
+   "text": "苦",
+   "glyph_offset": "0x45a3fc"
+  },
+  "0ba": {
+   "text": "頃",
+   "glyph_offset": "0x45a4fc"
+  },
+  "0bb": {
+   "text": "。",
+   "glyph_offset": "0x45a5fc"
+  },
+  "0bc": {
+   "text": "「",
+   "glyph_offset": "0x45a6fc"
+  },
+  "0bd": {
+   "text": "！",
+   "glyph_offset": "0x45a7fc"
+  },
+  "0be": {
+   "text": "」",
+   "glyph_offset": "0x45a8fc"
+  },
+  "0bf": {
+   "text": "汁",
+   "glyph_offset": "0x45a9fc"
+  },
+  "0c0": {
+   "text": "粉",
+   "glyph_offset": "0x45aafc"
+  },
+  "0c1": {
+   "text": "酒",
+   "glyph_offset": "0x45abfc"
+  },
+  "0c2": {
+   "text": "杯",
+   "glyph_offset": "0x45acfc"
+  },
+  "0c3": {
+   "text": "俺",
+   "glyph_offset": "0x45adfc"
+  },
+  "0c4": {
+   "text": "何",
+   "glyph_offset": "0x45aefc"
+  },
+  "0c5": {
+   "text": "浮",
+   "glyph_offset": "0x45affc"
+  },
+  "0c6": {
+   "text": "知",
+   "glyph_offset": "0x45b0fc"
+  },
+  "0c7": {
+   "text": "　",
+   "glyph_offset": "0x45b1fc"
+  },
+  "0c8": {
+   "text": "米",
+   "glyph_offset": "0x45b2fc"
+  },
+  "0c9": {
+   "text": "軍",
+   "glyph_offset": "0x45b3fc"
+  },
+  "0ca": {
+   "text": "払",
+   "glyph_offset": "0x45b4fc"
+  },
+  "0cb": {
+   "text": "下",
+   "glyph_offset": "0x45b5fc"
+  },
+  "0cc": {
+   "text": "食",
+   "glyph_offset": "0x45b6fc"
+  },
+  "0cd": {
+   "text": "禁",
+   "glyph_offset": "0x45b7fc"
+  },
+  "0ce": {
+   "text": "制",
+   "glyph_offset": "0x45b8fc"
+  },
+  "0cf": {
+   "text": "本",
+   "glyph_offset": "0x45b9fc"
+  },
+  "0d0": {
+   "text": "物",
+   "glyph_offset": "0x45bafc"
+  },
+  "0d1": {
+   "text": "寿",
+   "glyph_offset": "0x45bbfc"
+  },
+  "0d2": {
+   "text": "司",
+   "glyph_offset": "0x45bcfc"
+  },
+  "0d3": {
+   "text": "誰",
+   "glyph_offset": "0x45bdfc"
+  },
+  "0d4": {
+   "text": "高",
+   "glyph_offset": "0x45befc"
+  },
+  "0d5": {
+   "text": "雑",
+   "glyph_offset": "0x45bffc"
+  },
+  "0d6": {
+   "text": "炊",
+   "glyph_offset": "0x45c0fc"
+  },
+  "0d7": {
+   "text": "等",
+   "glyph_offset": "0x45c1fc"
+  },
+  "0d8": {
+   "text": "新",
+   "glyph_offset": "0x45c2fc"
+  },
+  "0d9": {
+   "text": "宿",
+   "glyph_offset": "0x45c3fc"
+  },
+  "0da": {
+   "text": "活",
+   "glyph_offset": "0x45c4fc"
+  },
+  "0db": {
+   "text": "気",
+   "glyph_offset": "0x45c5fc"
+  },
+  "0dc": {
+   "text": "所",
+   "glyph_offset": "0x45c6fc"
+  },
+  "0dd": {
+   "text": "雀",
+   "glyph_offset": "0x45c7fc"
+  },
+  "0de": {
+   "text": "荘",
+   "glyph_offset": "0x45c8fc"
+  },
+  "0df": {
+   "text": "多",
+   "glyph_offset": "0x45c9fc"
+  },
+  "0e0": {
+   "text": "匂",
+   "glyph_offset": "0x45cafc"
+  },
+  "0e1": {
+   "text": "入",
+   "glyph_offset": "0x45cbfc"
+  },
+  "0e2": {
+   "text": "兄",
+   "glyph_offset": "0x45ccfc"
+  },
+  "0e3": {
+   "text": "初",
+   "glyph_offset": "0x45cdfc"
+  },
+  "0e4": {
+   "text": "顔",
+   "glyph_offset": "0x45cefc"
+  },
+  "0e5": {
+   "text": "楽",
+   "glyph_offset": "0x45cffc"
+  },
+  "0e6": {
+   "text": "丁",
+   "glyph_offset": "0x45d0fc"
+  },
+  "0e7": {
+   "text": "度",
+   "glyph_offset": "0x45d1fc"
+  },
+  "0e8": {
+   "text": "奥",
+   "glyph_offset": "0x45d2fc"
+  },
+  "0e9": {
+   "text": "卓",
+   "glyph_offset": "0x45d3fc"
+  },
+  "0ea": {
+   "text": "空",
+   "glyph_offset": "0x45d4fc"
+  },
+  "0eb": {
+   "text": "待",
+   "glyph_offset": "0x45d5fc"
+  },
+  "0ec": {
+   "text": "持",
+   "glyph_offset": "0x45d6fc"
+  },
+  "0ed": {
+   "text": "坊",
+   "glyph_offset": "0x45d7fc"
+  },
+  "0ee": {
+   "text": "？",
+   "glyph_offset": "0x45d8fc"
+  },
+  "0ef": {
+   "text": "早",
+   "glyph_offset": "0x45d9fc"
+  },
+  "0f0": {
+   "text": "座",
+   "glyph_offset": "0x45dafc"
+  },
+  "0f1": {
+   "text": "手",
+   "glyph_offset": "0x45dbfc"
+  },
+  "0f2": {
+   "text": "柔",
+   "glyph_offset": "0x45dcfc"
+  },
+  "0f3": {
+   "text": "願",
+   "glyph_offset": "0x45ddfc"
+  },
+  "0f4": {
+   "text": "着",
+   "glyph_offset": "0x45defc"
+  },
+  "0f5": {
+   "text": "房",
+   "glyph_offset": "0x45dffc"
+  },
+  "0f6": {
+   "text": "州",
+   "glyph_offset": "0x45e0fc"
+  },
+  "0f7": {
+   "text": "満",
+   "glyph_offset": "0x45e1fc"
+  },
+  "0f8": {
+   "text": "（",
+   "glyph_offset": "0x45e2fc"
+  },
+  "0f9": {
+   "text": "奴",
+   "glyph_offset": "0x45e3fc"
+  },
+  "0fa": {
+   "text": "相",
+   "glyph_offset": "0x45e4fc"
+  },
+  "0fb": {
+   "text": "負",
+   "glyph_offset": "0x45e5fc"
+  },
+  "0fc": {
+   "text": "）",
+   "glyph_offset": "0x45e6fc"
+  },
+  "0fd": {
+   "text": "付",
+   "glyph_offset": "0x45e7fc"
+  },
+  "0fe": {
+   "text": "合",
+   "glyph_offset": "0x45e8fc"
+  },
+  "0ff": {
+   "text": "金",
+   "glyph_offset": "0x45e9fc"
+  },
+  "100": {
+   "text": "無",
+   "glyph_offset": "0x45ecfc"
+  },
+  "101": {
+   "text": "賭",
+   "glyph_offset": "0x45edfc"
+  },
+  "102": {
+   "text": "場",
+   "glyph_offset": "0x45eefc"
+  },
+  "103": {
+   "text": "来",
+   "glyph_offset": "0x45effc"
+  },
+  "104": {
+   "text": "了",
+   "glyph_offset": "0x45f0fc"
+  },
+  "105": {
+   "text": "見",
+   "glyph_offset": "0x45f1fc"
+  },
+  "106": {
+   "text": "言",
+   "glyph_offset": "0x45f2fc"
+  },
+  "107": {
+   "text": "野",
+   "glyph_offset": "0x45f3fc"
+  },
+  "108": {
+   "text": "郎",
+   "glyph_offset": "0x45f4fc"
+  },
+  "109": {
+   "text": "戯",
+   "glyph_offset": "0x45f5fc"
+  },
+  "10a": {
+   "text": "勝",
+   "glyph_offset": "0x45f6fc"
+  },
+  "10b": {
+   "text": "勘",
+   "glyph_offset": "0x45f7fc"
+  },
+  "10c": {
+   "text": "弁",
+   "glyph_offset": "0x45f8fc"
+  },
+  "10d": {
+   "text": "帰",
+   "glyph_offset": "0x45f9fc"
+  },
+  "10e": {
+   "text": "取",
+   "glyph_offset": "0x45fafc"
+  },
+  "10f": {
+   "text": "損",
+   "glyph_offset": "0x45fbfc"
+  },
+  "110": {
+   "text": "直",
+   "glyph_offset": "0x45fcfc"
+  },
+  "111": {
+   "text": "分",
+   "glyph_offset": "0x45fdfc"
+  },
+  "112": {
+   "text": "五",
+   "glyph_offset": "0x45fefc"
+  },
+  "113": {
+   "text": "拾",
+   "glyph_offset": "0x45fffc"
+  },
+  "114": {
+   "text": "匹",
+   "glyph_offset": "0x4600fc"
+  },
+  "115": {
+   "text": "馬",
+   "glyph_offset": "0x4601fc"
+  },
+  "116": {
+   "text": "強",
+   "glyph_offset": "0x4602fc"
+  },
+  "117": {
+   "text": "昼",
+   "glyph_offset": "0x4603fc"
+  },
+  "118": {
+   "text": "間",
+   "glyph_offset": "0x4604fc"
+  },
+  "119": {
+   "text": "麻",
+   "glyph_offset": "0x4605fc"
+  },
+  "11a": {
+   "text": "甘",
+   "glyph_offset": "0x4606fc"
+  },
+  "11b": {
+   "text": "死",
+   "glyph_offset": "0x4607fc"
+  },
+  "11c": {
+   "text": "百",
+   "glyph_offset": "0x4608fc"
+  },
+  "11d": {
+   "text": "ヶ",
+   "glyph_offset": "0x4609fc"
+  },
+  "11e": {
+   "text": "月",
+   "glyph_offset": "0x460afc"
+  },
+  "11f": {
+   "text": "給",
+   "glyph_offset": "0x460bfc"
+  },
+  "120": {
+   "text": "引",
+   "glyph_offset": "0x460cfc"
+  },
+  "121": {
+   "text": "受",
+   "glyph_offset": "0x460dfc"
+  },
+  "122": {
+   "text": "貫",
+   "glyph_offset": "0x460efc"
+  },
+  "123": {
+   "text": "運",
+   "glyph_offset": "0x460ffc"
+  },
+  "124": {
+   "text": "振",
+   "glyph_offset": "0x4610fc"
+  },
+  "125": {
+   "text": "込",
+   "glyph_offset": "0x4611fc"
+  },
+  "126": {
+   "text": "大",
+   "glyph_offset": "0x4612fc"
+  },
+  "127": {
+   "text": "力",
+   "glyph_offset": "0x4613fc"
+  },
+  "128": {
+   "text": "算",
+   "glyph_offset": "0x4614fc"
+  },
+  "129": {
+   "text": "額",
+   "glyph_offset": "0x4615fc"
+  },
+  "12a": {
+   "text": "倍",
+   "glyph_offset": "0x4616fc"
+  },
+  "12b": {
+   "text": "体",
+   "glyph_offset": "0x4617fc"
+  },
+  "12c": {
+   "text": "考",
+   "glyph_offset": "0x4618fc"
+  },
+  "12d": {
+   "text": "南",
+   "glyph_offset": "0x4619fc"
+  },
+  "12e": {
+   "text": "四",
+   "glyph_offset": "0x461afc"
+  },
+  "12f": {
+   "text": "局",
+   "glyph_offset": "0x461bfc"
+  },
+  "130": {
+   "text": "最",
+   "glyph_offset": "0x461cfc"
+  },
+  "131": {
+   "text": "国",
+   "glyph_offset": "0x461dfc"
+  },
+  "132": {
+   "text": "士",
+   "glyph_offset": "0x461efc"
+  },
+  "133": {
+   "text": "双",
+   "glyph_offset": "0x461ffc"
+  },
+  "134": {
+   "text": "『",
+   "glyph_offset": "0x4620fc"
+  },
+  "135": {
+   "text": "發",
+   "glyph_offset": "0x4621fc"
+  },
+  "136": {
+   "text": "』",
+   "glyph_offset": "0x4622fc"
+  },
+  "137": {
+   "text": "違",
+   "glyph_offset": "0x4623fc"
+  },
+  "138": {
+   "text": "三",
+   "glyph_offset": "0x4624fc"
+  },
+  "139": {
+   "text": "枚",
+   "glyph_offset": "0x4625fc"
+  },
+  "13a": {
+   "text": "切",
+   "glyph_offset": "0x4626fc"
+  },
+  "13b": {
+   "text": "当",
+   "glyph_offset": "0x4627fc"
+  },
+  "13c": {
+   "text": "牌",
+   "glyph_offset": "0x4628fc"
+  },
+  "13d": {
+   "text": "残",
+   "glyph_offset": "0x4629fc"
+  },
+  "13e": {
+   "text": "自",
+   "glyph_offset": "0x462afc"
+  },
+  "13f": {
+   "text": "山",
+   "glyph_offset": "0x462bfc"
+  },
+  "140": {
+   "text": "右",
+   "glyph_offset": "0x462cfc"
+  },
+  "141": {
+   "text": "端",
+   "glyph_offset": "0x462dfc"
+  },
+  "142": {
+   "text": "次",
+   "glyph_offset": "0x462efc"
+  },
+  "143": {
+   "text": "巡",
+   "glyph_offset": "0x462ffc"
+  },
+  "144": {
+   "text": "積",
+   "glyph_offset": "0x4630fc"
+  },
+  "145": {
+   "text": "嫌",
+   "glyph_offset": "0x4631fc"
+  },
+  "146": {
+   "text": "感",
+   "glyph_offset": "0x4632fc"
+  },
+  "147": {
+   "text": "読",
+   "glyph_offset": "0x4633fc"
+  },
+  "148": {
+   "text": "理",
+   "glyph_offset": "0x4634fc"
+  },
+  "149": {
+   "text": "鳴",
+   "glyph_offset": "0x4635fc"
+  },
+  "14a": {
+   "text": "変",
+   "glyph_offset": "0x4636fc"
+  },
+  "14b": {
+   "text": "期",
+   "glyph_offset": "0x4637fc"
+  },
+  "14c": {
+   "text": "及",
+   "glyph_offset": "0x4638fc"
+  },
+  "14d": {
+   "text": "迷",
+   "glyph_offset": "0x4639fc"
+  },
+  "14e": {
+   "text": "九",
+   "glyph_offset": "0x463afc"
+  },
+  "14f": {
+   "text": "萬",
+   "glyph_offset": "0x463bfc"
+  },
+  "150": {
+   "text": "動",
+   "glyph_offset": "0x463cfc"
+  },
+  "151": {
+   "text": "揺",
+   "glyph_offset": "0x463dfc"
+  },
+  "152": {
+   "text": "逆",
+   "glyph_offset": "0x463efc"
+  },
+  "153": {
+   "text": "転",
+   "glyph_offset": "0x463ffc"
+  },
+  "154": {
+   "text": "諦",
+   "glyph_offset": "0x4640fc"
+  },
+  "155": {
+   "text": "足",
+   "glyph_offset": "0x4641fc"
+  },
+  "156": {
+   "text": "文",
+   "glyph_offset": "0x4642fc"
+  },
+  "157": {
+   "text": "毎",
+   "glyph_offset": "0x4643fc"
+  },
+  "158": {
+   "text": "中",
+   "glyph_offset": "0x4644fc"
+  },
+  "159": {
+   "text": "怖",
+   "glyph_offset": "0x4645fc"
+  },
+  "15a": {
+   "text": "以",
+   "glyph_offset": "0x4646fc"
+  },
+  "15b": {
+   "text": "外",
+   "glyph_offset": "0x4647fc"
+  },
+  "15c": {
+   "text": "信",
+   "glyph_offset": "0x4648fc"
+  },
+  "15d": {
+   "text": "道",
+   "glyph_offset": "0x4649fc"
+  },
+  "15e": {
+   "text": "同",
+   "glyph_offset": "0x464afc"
+  },
+  "15f": {
+   "text": "然",
+   "glyph_offset": "0x464bfc"
+  },
+  "160": {
+   "text": "粗",
+   "glyph_offset": "0x464cfc"
+  },
+  "161": {
+   "text": "欲",
+   "glyph_offset": "0x464dfc"
+  },
+  "162": {
+   "text": "六",
+   "glyph_offset": "0x464efc"
+  },
+  "163": {
+   "text": "筒",
+   "glyph_offset": "0x464ffc"
+  },
+  "164": {
+   "text": "安",
+   "glyph_offset": "0x4650fc"
+  },
+  "165": {
+   "text": "助",
+   "glyph_offset": "0x4651fc"
+  },
+  "166": {
+   "text": "前",
+   "glyph_offset": "0x4652fc"
+  },
+  "167": {
+   "text": "狂",
+   "glyph_offset": "0x4653fc"
+  },
+  "168": {
+   "text": "方",
+   "glyph_offset": "0x4654fc"
+  },
+  "169": {
+   "text": "逃",
+   "glyph_offset": "0x4655fc"
+  },
+  "16a": {
+   "text": "用",
+   "glyph_offset": "0x4656fc"
+  },
+  "16b": {
+   "text": "作",
+   "glyph_offset": "0x4657fc"
+  },
+  "16c": {
+   "text": "回",
+   "glyph_offset": "0x4658fc"
+  },
+  "16d": {
+   "text": "貸",
+   "glyph_offset": "0x4659fc"
+  },
+  "16e": {
+   "text": "返",
+   "glyph_offset": "0x465afc"
+  },
+  "16f": {
+   "text": "並",
+   "glyph_offset": "0x465bfc"
+  },
+  "170": {
+   "text": "春",
+   "glyph_offset": "0x465cfc"
+  },
+  "171": {
+   "text": "銭",
+   "glyph_offset": "0x465dfc"
+  },
+  "172": {
+   "text": "箱",
+   "glyph_offset": "0x465efc"
+  },
+  "173": {
+   "text": "乗",
+   "glyph_offset": "0x465ffc"
+  },
+  "174": {
+   "text": "選",
+   "glyph_offset": "0x4660fc"
+  },
+  "175": {
+   "text": "寄",
+   "glyph_offset": "0x4661fc"
+  },
+  "176": {
+   "text": "心",
+   "glyph_offset": "0x4662fc"
+  },
+  "177": {
+   "text": "深",
+   "glyph_offset": "0x4663fc"
+  },
+  "178": {
+   "text": "服",
+   "glyph_offset": "0x4664fc"
+  },
+  "179": {
+   "text": "装",
+   "glyph_offset": "0x4665fc"
+  },
+  "17a": {
+   "text": "裕",
+   "glyph_offset": "0x4666fc"
+  },
+  "17b": {
+   "text": "福",
+   "glyph_offset": "0x4667fc"
+  },
+  "17c": {
+   "text": "投",
+   "glyph_offset": "0x4668fc"
+  },
+  "17d": {
+   "text": "汚",
+   "glyph_offset": "0x4669fc"
+  },
+  "17e": {
+   "text": "真",
+   "glyph_offset": "0x466afc"
+  },
+  "17f": {
+   "text": "似",
+   "glyph_offset": "0x466bfc"
+  },
+  "180": {
+   "text": "博",
+   "glyph_offset": "0x466cfc"
+  },
+  "181": {
+   "text": "奕",
+   "glyph_offset": "0x466dfc"
+  },
+  "182": {
+   "text": "思",
+   "glyph_offset": "0x466efc"
+  },
+  "183": {
+   "text": "互",
+   "glyph_offset": "0x466ffc"
+  },
+  "184": {
+   "text": "全",
+   "glyph_offset": "0x4670fc"
+  },
+  "185": {
+   "text": "限",
+   "glyph_offset": "0x4671fc"
+  },
+  "186": {
+   "text": "詮",
+   "glyph_offset": "0x4672fc"
+  },
+  "187": {
+   "text": "遊",
+   "glyph_offset": "0x4673fc"
+  },
+  "188": {
+   "text": "世",
+   "glyph_offset": "0x4674fc"
+  },
+  "189": {
+   "text": "界",
+   "glyph_offset": "0x4675fc"
+  },
+  "18a": {
+   "text": "教",
+   "glyph_offset": "0x4676fc"
+  },
+  "18b": {
+   "text": "頼",
+   "glyph_offset": "0x4677fc"
+  },
+  "18c": {
+   "text": "他",
+   "glyph_offset": "0x4678fc"
+  },
+  "18d": {
+   "text": "身",
+   "glyph_offset": "0x4679fc"
+  },
+  "18e": {
+   "text": "部",
+   "glyph_offset": "0x467afc"
+  },
+  "18f": {
+   "text": "出",
+   "glyph_offset": "0x467bfc"
+  },
+  "190": {
+   "text": "打",
+   "glyph_offset": "0x467cfc"
+  },
+  "191": {
+   "text": "問",
+   "glyph_offset": "0x467dfc"
+  },
+  "192": {
+   "text": "題",
+   "glyph_offset": "0x467efc"
+  },
+  "193": {
+   "text": "時",
+   "glyph_offset": "0x467ffc"
+  },
+  "194": {
+   "text": "半",
+   "glyph_offset": "0x4680fc"
+  },
+  "195": {
+   "text": "精",
+   "glyph_offset": "0x4681fc"
+  },
+  "196": {
+   "text": "即",
+   "glyph_offset": "0x4682fc"
+  },
+  "197": {
+   "text": "速",
+   "glyph_offset": "0x4683fc"
+  },
+  "198": {
+   "text": "意",
+   "glyph_offset": "0x4684fc"
+  },
+  "199": {
+   "text": "関",
+   "glyph_offset": "0x4685fc"
+  },
+  "19a": {
+   "text": "係",
+   "glyph_offset": "0x4686fc"
+  },
+  "19b": {
+   "text": "悪",
+   "glyph_offset": "0x4687fc"
+  },
+  "19c": {
+   "text": "痛",
+   "glyph_offset": "0x4688fc"
+  },
+  "19d": {
+   "text": "覚",
+   "glyph_offset": "0x4689fc"
+  },
+  "19e": {
+   "text": "恨",
+   "glyph_offset": "0x468afc"
+  },
+  "19f": {
+   "text": "玄",
+   "glyph_offset": "0x468bfc"
+  },
+  "1a0": {
+   "text": "飯",
+   "glyph_offset": "0x468cfc"
+  },
+  "1a1": {
+   "text": "３",
+   "glyph_offset": "0x468dfc"
+  },
+  "1a2": {
+   "text": "弱",
+   "glyph_offset": "0x468efc"
+  },
+  "1a3": {
+   "text": "嗅",
+   "glyph_offset": "0x468ffc"
+  },
+  "1a4": {
+   "text": "斉",
+   "glyph_offset": "0x4690fc"
+  },
+  "1a5": {
+   "text": "襲",
+   "glyph_offset": "0x4691fc"
+  },
+  "1a6": {
+   "text": "第",
+   "glyph_offset": "0x4692fc"
+  },
+  "1a7": {
+   "text": "緩",
+   "glyph_offset": "0x4693fc"
+  },
+  "1a8": {
+   "text": "衝",
+   "glyph_offset": "0x4694fc"
+  },
+  "1a9": {
+   "text": "材",
+   "glyph_offset": "0x4695fc"
+  },
+  "1aa": {
+   "text": "守",
+   "glyph_offset": "0x4696fc"
+  },
+  "1ab": {
+   "text": "傷",
+   "glyph_offset": "0x4697fc"
+  },
+  "1ac": {
+   "text": "餌",
+   "glyph_offset": "0x4698fc"
+  },
+  "1ad": {
+   "text": "消",
+   "glyph_offset": "0x4699fc"
+  },
+  "1ae": {
+   "text": "配",
+   "glyph_offset": "0x469afc"
+  },
+  "1af": {
+   "text": "遠",
+   "glyph_offset": "0x469bfc"
+  },
+  "1b0": {
+   "text": "続",
+   "glyph_offset": "0x469cfc"
+  },
+  "1b1": {
+   "text": "殴",
+   "glyph_offset": "0x469dfc"
+  },
+  "1b2": {
+   "text": "結",
+   "glyph_offset": "0x469efc"
+  },
+  "1b3": {
+   "text": "対",
+   "glyph_offset": "0x469ffc"
+  },
+  "1b4": {
+   "text": "主",
+   "glyph_offset": "0x46a0fc"
+  },
+  "1b5": {
+   "text": "両",
+   "glyph_offset": "0x46a1fc"
+  },
+  "1b6": {
+   "text": "使",
+   "glyph_offset": "0x46a2fc"
+  },
+  "1b7": {
+   "text": "小",
+   "glyph_offset": "0x46a3fc"
+  },
+  "1b8": {
+   "text": "遣",
+   "glyph_offset": "0x46a4fc"
+  },
+  "1b9": {
+   "text": "玉",
+   "glyph_offset": "0x46a5fc"
+  },
+  "1ba": {
+   "text": "子",
+   "glyph_offset": "0x46a6fc"
+  },
+  "1bb": {
+   "text": "頭",
+   "glyph_offset": "0x46a7fc"
+  },
+  "1bc": {
+   "text": "固",
+   "glyph_offset": "0x46a8fc"
+  },
+  "1bd": {
+   "text": "泣",
+   "glyph_offset": "0x46a9fc"
+  },
+  "1be": {
+   "text": "代",
+   "glyph_offset": "0x46aafc"
+  },
+  "1bf": {
+   "text": "止",
+   "glyph_offset": "0x46abfc"
+  },
+  "1c0": {
+   "text": "叩",
+   "glyph_offset": "0x46acfc"
+  },
+  "1c1": {
+   "text": "割",
+   "glyph_offset": "0x46adfc"
+  },
+  "1c2": {
+   "text": "腹",
+   "glyph_offset": "0x46aefc"
+  },
+  "1c3": {
+   "text": "便",
+   "glyph_offset": "0x46affc"
+  },
+  "1c4": {
+   "text": "窓",
+   "glyph_offset": "0x46b0fc"
+  },
+  "1c5": {
+   "text": "殺",
+   "glyph_offset": "0x46b1fc"
+  },
+  "1c6": {
+   "text": "瞬",
+   "glyph_offset": "0x46b2fc"
+  },
+  "1c7": {
+   "text": "浪",
+   "glyph_offset": "0x46b3fc"
+  },
+  "1c8": {
+   "text": "預",
+   "glyph_offset": "0x46b4fc"
+  },
+  "1c9": {
+   "text": "授",
+   "glyph_offset": "0x46b5fc"
+  },
+  "1ca": {
+   "text": "業",
+   "glyph_offset": "0x46b6fc"
+  },
+  "1cb": {
+   "text": "料",
+   "glyph_offset": "0x46b7fc"
+  },
+  "1cc": {
+   "text": "左",
+   "glyph_offset": "0x46b8fc"
+  },
+  "1cd": {
+   "text": "芸",
+   "glyph_offset": "0x46b9fc"
+  },
+  "1ce": {
+   "text": "不",
+   "glyph_offset": "0x46bafc"
+  },
+  "1cf": {
+   "text": "要",
+   "glyph_offset": "0x46bbfc"
+  },
+  "1d0": {
+   "text": "抜",
+   "glyph_offset": "0x46bcfc"
+  },
+  "1d1": {
+   "text": "音",
+   "glyph_offset": "0x46bdfc"
+  },
+  "1d2": {
+   "text": "技",
+   "glyph_offset": "0x46befc"
+  },
+  "1d3": {
+   "text": "家",
+   "glyph_offset": "0x46bffc"
+  },
+  "1d4": {
+   "text": "陰",
+   "glyph_offset": "0x46c0fc"
+  },
+  "1d5": {
+   "text": "盲",
+   "glyph_offset": "0x46c1fc"
+  },
+  "1d6": {
+   "text": "点",
+   "glyph_offset": "0x46c2fc"
+  },
+  "1d7": {
+   "text": "由",
+   "glyph_offset": "0x46c3fc"
+  },
+  "1d8": {
+   "text": "発",
+   "glyph_offset": "0x46c4fc"
+  },
+  "1d9": {
+   "text": "看",
+   "glyph_offset": "0x46c5fc"
+  },
+  "1da": {
+   "text": "破",
+   "glyph_offset": "0x46c6fc"
+  },
+  "1db": {
+   "text": "師",
+   "glyph_offset": "0x46c7fc"
+  },
+  "1dc": {
+   "text": "握",
+   "glyph_offset": "0x46c8fc"
+  },
+  "1dd": {
+   "text": "置",
+   "glyph_offset": "0x46c9fc"
+  },
+  "1de": {
+   "text": "素",
+   "glyph_offset": "0x46cafc"
+  },
+  "1df": {
+   "text": "卑",
+   "glyph_offset": "0x46cbfc"
+  },
+  "1e0": {
+   "text": "術",
+   "glyph_offset": "0x46ccfc"
+  },
+  "1e1": {
+   "text": "黙",
+   "glyph_offset": "0x46cdfc"
+  },
+  "1e2": {
+   "text": "親",
+   "glyph_offset": "0x46cefc"
+  },
+  "1e3": {
+   "text": "天",
+   "glyph_offset": "0x46cffc"
+  },
+  "1e4": {
+   "text": "骨",
+   "glyph_offset": "0x46d0fc"
+  },
+  "1e5": {
+   "text": "頂",
+   "glyph_offset": "0x46d1fc"
+  },
+  "1e6": {
+   "text": "勇",
+   "glyph_offset": "0x46d2fc"
+  },
+  "1e7": {
+   "text": "触",
+   "glyph_offset": "0x46d3fc"
+  },
+  "1e8": {
+   "text": "支",
+   "glyph_offset": "0x46d4fc"
+  },
+  "1e9": {
+   "text": "低",
+   "glyph_offset": "0x46d5fc"
+  },
+  "1ea": {
+   "text": "確",
+   "glyph_offset": "0x46d6fc"
+  },
+  "1eb": {
+   "text": "喰",
+   "glyph_offset": "0x46d7fc"
+  },
+  "1ec": {
+   "text": "壁",
+   "glyph_offset": "0x46d8fc"
+  },
+  "1ed": {
+   "text": "越",
+   "glyph_offset": "0x46d9fc"
+  },
+  "1ee": {
+   "text": "終",
+   "glyph_offset": "0x46dafc"
+  },
+  "1ef": {
+   "text": "段",
+   "glyph_offset": "0x46dbfc"
+  },
+  "1f0": {
+   "text": "厳",
+   "glyph_offset": "0x46dcfc"
+  },
+  "1f1": {
+   "text": "調",
+   "glyph_offset": "0x46ddfc"
+  },
+  "1f2": {
+   "text": "豚",
+   "glyph_offset": "0x46defc"
+  },
+  "1f3": {
+   "text": "行",
+   "glyph_offset": "0x46dffc"
+  },
+  "1f4": {
+   "text": "血",
+   "glyph_offset": "0x46e0fc"
+  },
+  "1f5": {
+   "text": "決",
+   "glyph_offset": "0x46e1fc"
+  },
+  "1f6": {
+   "text": "話",
+   "glyph_offset": "0x46e2fc"
+  },
+  "1f7": {
+   "text": "少",
+   "glyph_offset": "0x46e3fc"
+  },
+  "1f8": {
+   "text": "組",
+   "glyph_offset": "0x46e4fc"
+  },
+  "1f9": {
+   "text": "稼",
+   "glyph_offset": "0x46e5fc"
+  },
+  "1fa": {
+   "text": "絶",
+   "glyph_offset": "0x46e6fc"
+  },
+  "1fb": {
+   "text": "若",
+   "glyph_offset": "0x46e7fc"
+  },
+  "1fc": {
+   "text": "浅",
+   "glyph_offset": "0x46e8fc"
+  },
+  "1fd": {
+   "text": "草",
+   "glyph_offset": "0x46e9fc"
+  },
+  "1fe": {
+   "text": "職",
+   "glyph_offset": "0x46eafc"
+  },
+  "1ff": {
+   "text": "店",
+   "glyph_offset": "0x46ebfc"
+  },
+  "200": {
+   "text": "長",
+   "glyph_offset": "0x46eefc"
+  },
+  "201": {
+   "text": "貧",
+   "glyph_offset": "0x46effc"
+  },
+  "202": {
+   "text": "捨",
+   "glyph_offset": "0x46f0fc"
+  },
+  "203": {
+   "text": "好",
+   "glyph_offset": "0x46f1fc"
+  },
+  "204": {
+   "text": "弟",
+   "glyph_offset": "0x46f2fc"
+  },
+  "205": {
+   "text": "役",
+   "glyph_offset": "0x46f3fc"
+  },
+  "206": {
+   "text": "通",
+   "glyph_offset": "0x46f4fc"
+  },
+  "207": {
+   "text": "構",
+   "glyph_offset": "0x46f5fc"
+  },
+  "208": {
+   "text": "八",
+   "glyph_offset": "0x46f6fc"
+  },
+  "209": {
+   "text": "索",
+   "glyph_offset": "0x46f7fc"
+  },
+  "20a": {
+   "text": "渡",
+   "glyph_offset": "0x46f8fc"
+  },
+  "20b": {
+   "text": "未",
+   "glyph_offset": "0x46f9fc"
+  },
+  "20c": {
+   "text": "熟",
+   "glyph_offset": "0x46fafc"
+  },
+  "20d": {
+   "text": "者",
+   "glyph_offset": "0x46fbfc"
+  },
+  "20e": {
+   "text": "千",
+   "glyph_offset": "0x46fcfc"
+  },
+  "20f": {
+   "text": "失",
+   "glyph_offset": "0x46fdfc"
+  },
+  "210": {
+   "text": "礼",
+   "glyph_offset": "0x46fefc"
+  },
+  "211": {
+   "text": "揃",
+   "glyph_offset": "0x46fffc"
+  },
+  "212": {
+   "text": "可",
+   "glyph_offset": "0x4700fc"
+  },
+  "213": {
+   "text": "能",
+   "glyph_offset": "0x4701fc"
+  },
+  "214": {
+   "text": "性",
+   "glyph_offset": "0x4702fc"
+  },
+  "215": {
+   "text": "緒",
+   "glyph_offset": "0x4703fc"
+  },
+  "216": {
+   "text": "伏",
+   "glyph_offset": "0x4704fc"
+  },
+  "217": {
+   "text": "倒",
+   "glyph_offset": "0x4705fc"
+  },
+  "218": {
+   "text": "先",
+   "glyph_offset": "0x4706fc"
+  },
+  "219": {
+   "text": "器",
+   "glyph_offset": "0x4707fc"
+  },
+  "21a": {
+   "text": "張",
+   "glyph_offset": "0x4708fc"
+  },
+  "21b": {
+   "text": "良",
+   "glyph_offset": "0x4709fc"
+  },
+  "21c": {
+   "text": "底",
+   "glyph_offset": "0x470afc"
+  },
+  "21d": {
+   "text": "夜",
+   "glyph_offset": "0x470bfc"
+  },
+  "21e": {
+   "text": "誕",
+   "glyph_offset": "0x470cfc"
+  },
+  "21f": {
+   "text": "原",
+   "glyph_offset": "0x470dfc"
+  },
+  "220": {
+   "text": "戻",
+   "glyph_offset": "0x470efc"
+  },
+  "221": {
+   "text": "女",
+   "glyph_offset": "0x470ffc"
+  },
+  "222": {
+   "text": "財",
+   "glyph_offset": "0x4710fc"
+  },
+  "223": {
+   "text": "産",
+   "glyph_offset": "0x4711fc"
+  },
+  "224": {
+   "text": "冗",
+   "glyph_offset": "0x4712fc"
+  },
+  "225": {
+   "text": "談",
+   "glyph_offset": "0x4713fc"
+  },
+  "226": {
+   "text": "噂",
+   "glyph_offset": "0x4714fc"
+  },
+  "227": {
+   "text": "景",
+   "glyph_offset": "0x4715fc"
+  },
+  "228": {
+   "text": "久",
+   "glyph_offset": "0x4716fc"
+  },
+  "229": {
+   "text": "旅",
+   "glyph_offset": "0x4717fc"
+  },
+  "22a": {
+   "text": "昔",
+   "glyph_offset": "0x4718fc"
+  },
+  "22b": {
+   "text": "馴",
+   "glyph_offset": "0x4719fc"
+  },
+  "22c": {
+   "text": "染",
+   "glyph_offset": "0x471afc"
+  },
+  "22d": {
+   "text": "聞",
+   "glyph_offset": "0x471bfc"
+  },
+  "22e": {
+   "text": "始",
+   "glyph_offset": "0x471cfc"
+  },
+  "22f": {
+   "text": "哲",
+   "glyph_offset": "0x471dfc"
+  },
+  "230": {
+   "text": "威",
+   "glyph_offset": "0x471efc"
+  },
+  "231": {
+   "text": "勢",
+   "glyph_offset": "0x471ffc"
+  },
+  "232": {
+   "text": "柄",
+   "glyph_offset": "0x4720fc"
+  },
+  "233": {
+   "text": "沈",
+   "glyph_offset": "0x4721fc"
+  },
+  "234": {
+   "text": "歌",
+   "glyph_offset": "0x4722fc"
+  },
+  "235": {
+   "text": "句",
+   "glyph_offset": "0x4723fc"
+  },
+  "236": {
+   "text": "徳",
+   "glyph_offset": "0x4724fc"
+  },
+  "237": {
+   "text": "客",
+   "glyph_offset": "0x4725fc"
+  },
+  "238": {
+   "text": "邪",
+   "glyph_offset": "0x4726fc"
+  },
+  "239": {
+   "text": "魔",
+   "glyph_offset": "0x4727fc"
+  },
+  "23a": {
+   "text": "懐",
+   "glyph_offset": "0x4728fc"
+  },
+  "23b": {
+   "text": "捉",
+   "glyph_offset": "0x4729fc"
+  },
+  "23c": {
+   "text": "借",
+   "glyph_offset": "0x472afc"
+  },
+  "23d": {
+   "text": "揉",
+   "glyph_offset": "0x472bfc"
+  },
+  "23e": {
+   "text": "仇",
+   "glyph_offset": "0x472cfc"
+  },
+  "23f": {
+   "text": "正",
+   "glyph_offset": "0x472dfc"
+  },
+  "240": {
+   "text": "事",
+   "glyph_offset": "0x472efc"
+  },
+  "241": {
+   "text": "包",
+   "glyph_offset": "0x472ffc"
+  },
+  "242": {
+   "text": "余",
+   "glyph_offset": "0x4730fc"
+  },
+  "243": {
+   "text": "計",
+   "glyph_offset": "0x4731fc"
+  },
+  "244": {
+   "text": "歩",
+   "glyph_offset": "0x4732fc"
+  },
+  "245": {
+   "text": "譲",
+   "glyph_offset": "0x4733fc"
+  },
+  "246": {
+   "text": "陸",
+   "glyph_offset": "0x4734fc"
+  },
+  "247": {
+   "text": "敵",
+   "glyph_offset": "0x4735fc"
+  },
+  "248": {
+   "text": "東",
+   "glyph_offset": "0x4736fc"
+  },
+  "249": {
+   "text": "洋",
+   "glyph_offset": "0x4737fc"
+  },
+  "24a": {
+   "text": "命",
+   "glyph_offset": "0x4738fc"
+  },
+  "24b": {
+   "text": "懸",
+   "glyph_offset": "0x4739fc"
+  },
+  "24c": {
+   "text": "敗",
+   "glyph_offset": "0x473afc"
+  },
+  "24d": {
+   "text": "兵",
+   "glyph_offset": "0x473bfc"
+  },
+  "24e": {
+   "text": "延",
+   "glyph_offset": "0x473cfc"
+  },
+  "24f": {
+   "text": "地",
+   "glyph_offset": "0x473dfc"
+  },
+  "250": {
+   "text": "踏",
+   "glyph_offset": "0x473efc"
+  },
+  "251": {
+   "text": "内",
+   "glyph_offset": "0x473ffc"
+  },
+  "252": {
+   "text": "根",
+   "glyph_offset": "0x4740fc"
+  },
+  "253": {
+   "text": "途",
+   "glyph_offset": "0x4741fc"
+  },
+  "254": {
+   "text": "降",
+   "glyph_offset": "0x4742fc"
+  },
+  "255": {
+   "text": "父",
+   "glyph_offset": "0x4743fc"
+  },
+  "256": {
+   "text": "儲",
+   "glyph_offset": "0x4744fc"
+  },
+  "257": {
+   "text": "元",
+   "glyph_offset": "0x4745fc"
+  },
+  "258": {
+   "text": "万",
+   "glyph_offset": "0x4746fc"
+  },
+  "259": {
+   "text": "極",
+   "glyph_offset": "0x4747fc"
+  },
+  "25a": {
+   "text": "周",
+   "glyph_offset": "0x4748fc"
+  },
+  "25b": {
+   "text": "放",
+   "glyph_offset": "0x4749fc"
+  },
+  "25c": {
+   "text": "究",
+   "glyph_offset": "0x474afc"
+  },
+  "25d": {
+   "text": "仕",
+   "glyph_offset": "0x474bfc"
+  },
+  "25e": {
+   "text": "掛",
+   "glyph_offset": "0x474cfc"
+  },
+  "25f": {
+   "text": "喜",
+   "glyph_offset": "0x474dfc"
+  },
+  "260": {
+   "text": "売",
+   "glyph_offset": "0x474efc"
+  },
+  "261": {
+   "text": "肩",
+   "glyph_offset": "0x474ffc"
+  },
+  "262": {
+   "text": "認",
+   "glyph_offset": "0x4750fc"
+  },
+  "263": {
+   "text": "徹",
+   "glyph_offset": "0x4751fc"
+  },
+  "264": {
+   "text": "的",
+   "glyph_offset": "0x4752fc"
+  },
+  "265": {
+   "text": "棒",
+   "glyph_offset": "0x4753fc"
+  },
+  "266": {
+   "text": "視",
+   "glyph_offset": "0x4754fc"
+  },
+  "267": {
+   "text": "冷",
+   "glyph_offset": "0x4755fc"
+  },
+  "268": {
+   "text": "探",
+   "glyph_offset": "0x4756fc"
+  },
+  "269": {
+   "text": "応",
+   "glyph_offset": "0x4757fc"
+  },
+  "26a": {
+   "text": "証",
+   "glyph_offset": "0x4758fc"
+  },
+  "26b": {
+   "text": "明",
+   "glyph_offset": "0x4759fc"
+  },
+  "26c": {
+   "text": "別",
+   "glyph_offset": "0x475afc"
+  },
+  "26d": {
+   "text": "曇",
+   "glyph_offset": "0x475bfc"
+  },
+  "26e": {
+   "text": "開",
+   "glyph_offset": "0x475cfc"
+  },
+  "26f": {
+   "text": "答",
+   "glyph_offset": "0x475dfc"
+  },
+  "270": {
+   "text": "悟",
+   "glyph_offset": "0x475efc"
+  },
+  "271": {
+   "text": "試",
+   "glyph_offset": "0x475ffc"
+  },
+  "272": {
+   "text": "境",
+   "glyph_offset": "0x4760fc"
+  },
+  "273": {
+   "text": "到",
+   "glyph_offset": "0x4761fc"
+  },
+  "274": {
+   "text": "捜",
+   "glyph_offset": "0x4762fc"
+  },
+  "275": {
+   "text": "求",
+   "glyph_offset": "0x4763fc"
+  },
+  "276": {
+   "text": "尽",
+   "glyph_offset": "0x4764fc"
+  },
+  "277": {
+   "text": "寝",
+   "glyph_offset": "0x4765fc"
+  },
+  "278": {
+   "text": "着",
+   "glyph_offset": "0x4766fc"
+  },
+  "279": {
+   "text": "腰",
+   "glyph_offset": "0x4767fc"
+  },
+  "27a": {
+   "text": "面",
+   "glyph_offset": "0x4768fc"
+  },
+  "27b": {
+   "text": "白",
+   "glyph_offset": "0x4769fc"
+  },
+  "27c": {
+   "text": "静",
+   "glyph_offset": "0x476afc"
+  },
+  "27d": {
+   "text": "落",
+   "glyph_offset": "0x476bfc"
+  },
+  "27e": {
+   "text": "形",
+   "glyph_offset": "0x476cfc"
+  },
+  "27f": {
+   "text": "約",
+   "glyph_offset": "0x476dfc"
+  },
+  "280": {
+   "text": "束",
+   "glyph_offset": "0x476efc"
+  },
+  "281": {
+   "text": "荒",
+   "glyph_offset": "0x476ffc"
+  },
+  "282": {
+   "text": "追",
+   "glyph_offset": "0x4770fc"
+  },
+  "283": {
+   "text": "茶",
+   "glyph_offset": "0x4771fc"
+  },
+  "284": {
+   "text": "飲",
+   "glyph_offset": "0x4772fc"
+  },
+  "285": {
+   "text": "利",
+   "glyph_offset": "0x4773fc"
+  },
+  "286": {
+   "text": "減",
+   "glyph_offset": "0x4774fc"
+  },
+  "287": {
+   "text": "因",
+   "glyph_offset": "0x4775fc"
+  },
+  "288": {
+   "text": "果",
+   "glyph_offset": "0x4776fc"
+  },
+  "289": {
+   "text": "京",
+   "glyph_offset": "0x4777fc"
+  },
+  "28a": {
+   "text": "疲",
+   "glyph_offset": "0x4778fc"
+  },
+  "28b": {
+   "text": "常",
+   "glyph_offset": "0x4779fc"
+  },
+  "28c": {
+   "text": "実",
+   "glyph_offset": "0x477afc"
+  },
+  "28d": {
+   "text": "敷",
+   "glyph_offset": "0x477bfc"
+  },
+  "28e": {
+   "text": "宇",
+   "glyph_offset": "0x477cfc"
+  },
+  "28f": {
+   "text": "加",
+   "glyph_offset": "0x477dfc"
+  },
+  "290": {
+   "text": "訓",
+   "glyph_offset": "0x477efc"
+  },
+  "291": {
+   "text": "練",
+   "glyph_offset": "0x477ffc"
+  },
+  "292": {
+   "text": "議",
+   "glyph_offset": "0x4780fc"
+  },
+  "293": {
+   "text": "種",
+   "glyph_offset": "0x4781fc"
+  },
+  "294": {
+   "text": "勤",
+   "glyph_offset": "0x4782fc"
+  },
+  "295": {
+   "text": "勉",
+   "glyph_offset": "0x4783fc"
+  },
+  "296": {
+   "text": "怠",
+   "glyph_offset": "0x4784fc"
+  },
+  "297": {
+   "text": "惰",
+   "glyph_offset": "0x4785fc"
+  },
+  "298": {
+   "text": "昨",
+   "glyph_offset": "0x4786fc"
+  },
+  "299": {
+   "text": "毒",
+   "glyph_offset": "0x4787fc"
+  },
+  "29a": {
+   "text": "休",
+   "glyph_offset": "0x4788fc"
+  },
+  "29b": {
+   "text": "会",
+   "glyph_offset": "0x4789fc"
+  },
+  "29c": {
+   "text": "恐",
+   "glyph_offset": "0x478afc"
+  },
+  "29d": {
+   "text": "哀",
+   "glyph_offset": "0x478bfc"
+  },
+  "29e": {
+   "text": "架",
+   "glyph_offset": "0x478cfc"
+  },
+  "29f": {
+   "text": "丈",
+   "glyph_offset": "0x478dfc"
+  },
+  "2a0": {
+   "text": "夫",
+   "glyph_offset": "0x478efc"
+  },
+  "2a1": {
+   "text": "商",
+   "glyph_offset": "0x478ffc"
+  },
+  "2a2": {
+   "text": "具",
+   "glyph_offset": "0x4790fc"
+  },
+  "2a3": {
+   "text": "忘",
+   "glyph_offset": "0x4791fc"
+  },
+  "2a4": {
+   "text": "標",
+   "glyph_offset": "0x4792fc"
+  },
+  "2a5": {
+   "text": "晴",
+   "glyph_offset": "0x4793fc"
+  },
+  "2a6": {
+   "text": "完",
+   "glyph_offset": "0x4794fc"
+  },
+  "2a7": {
+   "text": "璧",
+   "glyph_offset": "0x4795fc"
+  },
+  "2a8": {
+   "text": "駆",
+   "glyph_offset": "0x4796fc"
+  },
+  "2a9": {
+   "text": "流",
+   "glyph_offset": "0x4797fc"
+  },
+  "2aa": {
+   "text": "据",
+   "glyph_offset": "0x4798fc"
+  },
+  "2ab": {
+   "text": "奇",
+   "glyph_offset": "0x4799fc"
+  },
+  "2ac": {
+   "text": "起",
+   "glyph_offset": "0x479afc"
+  },
+  "2ad": {
+   "text": "味",
+   "glyph_offset": "0x479bfc"
+  },
+  "2ae": {
+   "text": "魅",
+   "glyph_offset": "0x479cfc"
+  },
+  "2af": {
+   "text": "与",
+   "glyph_offset": "0x479dfc"
+  },
+  "2b0": {
+   "text": "概",
+   "glyph_offset": "0x479efc"
+  },
+  "2b1": {
+   "text": "念",
+   "glyph_offset": "0x479ffc"
+  },
+  "2b2": {
+   "text": "表",
+   "glyph_offset": "0x47a0fc"
+  },
+  "2b3": {
+   "text": "裏",
+   "glyph_offset": "0x47a1fc"
+  },
+  "2b4": {
+   "text": "欠",
+   "glyph_offset": "0x47a2fc"
+  },
+  "2b5": {
+   "text": "価",
+   "glyph_offset": "0x47a3fc"
+  },
+  "2b6": {
+   "text": "値",
+   "glyph_offset": "0x47a4fc"
+  },
+  "2b7": {
+   "text": "兆",
+   "glyph_offset": "0x47a5fc"
+  },
+  "2b8": {
+   "text": "辺",
+   "glyph_offset": "0x47a6fc"
+  },
+  "2b9": {
+   "text": "角",
+   "glyph_offset": "0x47a7fc"
+  },
+  "2ba": {
+   "text": "名",
+   "glyph_offset": "0x47a8fc"
+  },
+  "2bb": {
+   "text": "男",
+   "glyph_offset": "0x47a9fc"
+  },
+  "2bc": {
+   "text": "腕",
+   "glyph_offset": "0x47aafc"
+  },
+  "2bd": {
+   "text": "様",
+   "glyph_offset": "0x47abfc"
+  },
+  "2be": {
+   "text": "晩",
+   "glyph_offset": "0x47acfc"
+  },
+  "2bf": {
+   "text": "宝",
+   "glyph_offset": "0x47adfc"
+  },
+  "2c0": {
+   "text": "燈",
+   "glyph_offset": "0x47aefc"
+  },
+  "2c1": {
+   "text": "七",
+   "glyph_offset": "0x47affc"
+  },
+  "2c2": {
+   "text": "位",
+   "glyph_offset": "0x47b0fc"
+  },
+  "2c3": {
+   "text": "背",
+   "glyph_offset": "0x47b1fc"
+  },
+  "2c4": {
+   "text": "予",
+   "glyph_offset": "0x47b2fc"
+  },
+  "2c5": {
+   "text": "神",
+   "glyph_offset": "0x47b3fc"
+  },
+  "2c6": {
+   "text": "告",
+   "glyph_offset": "0x47b4fc"
+  },
+  "2c7": {
+   "text": "印",
+   "glyph_offset": "0x47b5fc"
+  },
+  "2c8": {
+   "text": "近",
+   "glyph_offset": "0x47b6fc"
+  },
+  "2c9": {
+   "text": "薄",
+   "glyph_offset": "0x47b7fc"
+  },
+  "2ca": {
+   "text": "簡",
+   "glyph_offset": "0x47b8fc"
+  },
+  "2cb": {
+   "text": "単",
+   "glyph_offset": "0x47b9fc"
+  },
+  "2cc": {
+   "text": "透",
+   "glyph_offset": "0x47bafc"
+  },
+  "2cd": {
+   "text": "土",
+   "glyph_offset": "0x47bbfc"
+  },
+  "2ce": {
+   "text": "夕",
+   "glyph_offset": "0x47bcfc"
+  },
+  "2cf": {
+   "text": "疫",
+   "glyph_offset": "0x47bdfc"
+  },
+  "2d0": {
+   "text": "病",
+   "glyph_offset": "0x47befc"
+  },
+  "2d1": {
+   "text": "横",
+   "glyph_offset": "0x47bffc"
+  },
+  "2d2": {
+   "text": "黒",
+   "glyph_offset": "0x47c0fc"
+  },
+  "2d3": {
+   "text": "送",
+   "glyph_offset": "0x47c1fc"
+  },
+  "2d4": {
+   "text": "社",
+   "glyph_offset": "0x47c2fc"
+  },
+  "2d5": {
+   "text": "碁",
+   "glyph_offset": "0x47c3fc"
+  },
+  "2d6": {
+   "text": "胸",
+   "glyph_offset": "0x47c4fc"
+  },
+  "2d7": {
+   "text": "路",
+   "glyph_offset": "0x47c5fc"
+  },
+  "2d8": {
+   "text": "皮",
+   "glyph_offset": "0x47c6fc"
+  },
+  "2d9": {
+   "text": "慢",
+   "glyph_offset": "0x47c7fc"
+  },
+  "2da": {
+   "text": "紙",
+   "glyph_offset": "0x47c8fc"
+  },
+  "2db": {
+   "text": "壱",
+   "glyph_offset": "0x47c9fc"
+  },
+  "2dc": {
+   "text": "巻",
+   "glyph_offset": "0x47cafc"
+  },
+  "2dd": {
+   "text": "鼻",
+   "glyph_offset": "0x47cbfc"
+  },
+  "2de": {
+   "text": "速",
+   "glyph_offset": "0x47ccfc"
+  },
+  "2df": {
+   "text": "浪",
+   "glyph_offset": "0x47cdfc"
+  },
+  "2e0": {
+   "text": "花",
+   "glyph_offset": "0x47cefc"
+  },
+  "2e1": {
+   "text": "節",
+   "glyph_offset": "0x47cffc"
+  },
+  "2e2": {
+   "text": "闘",
+   "glyph_offset": "0x47d0fc"
+  },
+  "2e3": {
+   "text": "導",
+   "glyph_offset": "0x47d1fc"
+  },
+  "2e4": {
+   "text": "俱",
+   "glyph_offset": "0x47d2fc"
+  },
+  "2e5": {
+   "text": "特",
+   "glyph_offset": "0x47d3fc"
+  },
+  "2e6": {
+   "text": "徴",
+   "glyph_offset": "0x47d4fc"
+  },
+  "2e7": {
+   "text": "普",
+   "glyph_offset": "0x47d5fc"
+  },
+  "2e8": {
+   "text": "竹",
+   "glyph_offset": "0x47d6fc"
+  },
+  "2e9": {
+   "text": "微",
+   "glyph_offset": "0x47d7fc"
+  },
+  "2ea": {
+   "text": "妙",
+   "glyph_offset": "0x47d8fc"
+  },
+  "2eb": {
+   "text": "個",
+   "glyph_offset": "0x47d9fc"
+  },
+  "2ec": {
+   "text": "室",
+   "glyph_offset": "0x47dafc"
+  },
+  "2ed": {
+   "text": "保",
+   "glyph_offset": "0x47dbfc"
+  },
+  "2ee": {
+   "text": "髪",
+   "glyph_offset": "0x47dcfc"
+  },
+  "2ef": {
+   "text": "毛",
+   "glyph_offset": "0x47ddfc"
+  },
+  "2f0": {
+   "text": "我",
+   "glyph_offset": "0x47defc"
+  },
+  "2f1": {
+   "text": "呼",
+   "glyph_offset": "0x47dffc"
+  },
+  "2f2": {
+   "text": "遅",
+   "glyph_offset": "0x47e0fc"
+  },
+  "2f3": {
+   "text": "傑",
+   "glyph_offset": "0x47e1fc"
+  },
+  "2f4": {
+   "text": "幸",
+   "glyph_offset": "0x47e2fc"
+  },
+  "2f5": {
+   "text": "紋",
+   "glyph_offset": "0x47e3fc"
+  },
+  "2f6": {
+   "text": "想",
+   "glyph_offset": "0x47e4fc"
+  },
+  "2f7": {
+   "text": "達",
+   "glyph_offset": "0x47e5fc"
+  },
+  "2f8": {
+   "text": "納",
+   "glyph_offset": "0x47e6fc"
+  },
+  "2f9": {
+   "text": "得",
+   "glyph_offset": "0x47e7fc"
+  },
+  "2fa": {
+   "text": "重",
+   "glyph_offset": "0x47e8fc"
+  },
+  "2fb": {
+   "text": "漆",
+   "glyph_offset": "0x47e9fc"
+  },
+  "2fc": {
+   "text": "闇",
+   "glyph_offset": "0x47eafc"
+  },
+  "2fd": {
+   "text": "去",
+   "glyph_offset": "0x47ebfc"
+  },
+  "2fe": {
+   "text": "雪",
+   "glyph_offset": "0x47ecfc"
+  },
+  "2ff": {
+   "text": "也",
+   "glyph_offset": "0x47edfc"
+  },
+  "300": {
+   "text": "労",
+   "glyph_offset": "0x47f0fc"
+  },
+  "301": {
+   "text": "週",
+   "glyph_offset": "0x47f1fc"
+  },
+  "302": {
+   "text": "討",
+   "glyph_offset": "0x47f2fc"
+  },
+  "303": {
+   "text": "熊",
+   "glyph_offset": "0x47f3fc"
+  },
+  "304": {
+   "text": "・",
+   "glyph_offset": "0x47f4fc"
+  },
+  "305": {
+   "text": "許",
+   "glyph_offset": "0x47f5fc"
+  },
+  "306": {
+   "text": "銃",
+   "glyph_offset": "0x47f6fc"
+  },
+  "307": {
+   "text": "警",
+   "glyph_offset": "0x47f7fc"
+  },
+  "308": {
+   "text": "察",
+   "glyph_offset": "0x47f8fc"
+  },
+  "309": {
+   "text": "員",
+   "glyph_offset": "0x47f9fc"
+  },
+  "30a": {
+   "text": "為",
+   "glyph_offset": "0x47fafc"
+  },
+  "30b": {
+   "text": "現",
+   "glyph_offset": "0x47fbfc"
+  },
+  "30c": {
+   "text": "犯",
+   "glyph_offset": "0x47fcfc"
+  },
+  "30d": {
+   "text": "逮",
+   "glyph_offset": "0x47fdfc"
+  },
+  "30e": {
+   "text": "捕",
+   "glyph_offset": "0x47fefc"
+  },
+  "30f": {
+   "text": "危",
+   "glyph_offset": "0x47fffc"
+  },
+  "310": {
+   "text": "紹",
+   "glyph_offset": "0x4800fc"
+  },
+  "311": {
+   "text": "介",
+   "glyph_offset": "0x4801fc"
+  },
+  "312": {
+   "text": "駄",
+   "glyph_offset": "0x4802fc"
+  },
+  "313": {
+   "text": "姿",
+   "glyph_offset": "0x4803fc"
+  },
+  "314": {
+   "text": "口",
+   "glyph_offset": "0x4804fc"
+  },
+  "315": {
+   "text": "声",
+   "glyph_offset": "0x4805fc"
+  },
+  "316": {
+   "text": "換",
+   "glyph_offset": "0x4806fc"
+  },
+  "317": {
+   "text": "必",
+   "glyph_offset": "0x4807fc"
+  },
+  "318": {
+   "text": "困",
+   "glyph_offset": "0x4808fc"
+  },
+  "319": {
+   "text": "彼",
+   "glyph_offset": "0x4809fc"
+  },
+  "31a": {
+   "text": "氏",
+   "glyph_offset": "0x480afc"
+  },
+  "31b": {
+   "text": "暇",
+   "glyph_offset": "0x480bfc"
+  },
+  "31c": {
+   "text": "典",
+   "glyph_offset": "0x480cfc"
+  },
+  "31d": {
+   "text": "型",
+   "glyph_offset": "0x480dfc"
+  },
+  "31e": {
+   "text": "程",
+   "glyph_offset": "0x480efc"
+  },
+  "31f": {
+   "text": "虚",
+   "glyph_offset": "0x480ffc"
+  },
+  "320": {
+   "text": "資",
+   "glyph_offset": "0x4810fc"
+  },
+  "321": {
+   "text": "色",
+   "glyph_offset": "0x4811fc"
+  },
+  "322": {
+   "text": "痔",
+   "glyph_offset": "0x4812fc"
+  },
+  "323": {
+   "text": "姉",
+   "glyph_offset": "0x4813fc"
+  },
+  "324": {
+   "text": "馳",
+   "glyph_offset": "0x4814fc"
+  },
+  "325": {
+   "text": "走",
+   "glyph_offset": "0x4815fc"
+  },
+  "326": {
+   "text": "義",
+   "glyph_offset": "0x4816fc"
+  },
+  "327": {
+   "text": "率",
+   "glyph_offset": "0x4817fc"
+  },
+  "328": {
+   "text": "優",
+   "glyph_offset": "0x4818fc"
+  },
+  "329": {
+   "text": "才",
+   "glyph_offset": "0x4819fc"
+  },
+  "32a": {
+   "text": "敏",
+   "glyph_offset": "0x481afc"
+  },
+  "32b": {
+   "text": "反",
+   "glyph_offset": "0x481bfc"
+  },
+  "32c": {
+   "text": "離",
+   "glyph_offset": "0x481cfc"
+  },
+  "32d": {
+   "text": "脳",
+   "glyph_offset": "0x481dfc"
+  },
+  "32e": {
+   "text": "壊",
+   "glyph_offset": "0x481efc"
+  },
+  "32f": {
+   "text": "済",
+   "glyph_offset": "0x481ffc"
+  },
+  "330": {
+   "text": "居",
+   "glyph_offset": "0x4820fc"
+  },
+  "331": {
+   "text": "収",
+   "glyph_offset": "0x4821fc"
+  },
+  "332": {
+   "text": "緑",
+   "glyph_offset": "0x4822fc"
+  },
+  "333": {
+   "text": "腐",
+   "glyph_offset": "0x4823fc"
+  },
+  "334": {
+   "text": "難",
+   "glyph_offset": "0x4824fc"
+  },
+  "335": {
+   "text": "夢",
+   "glyph_offset": "0x4825fc"
+  },
+  "336": {
+   "text": "機",
+   "glyph_offset": "0x4826fc"
+  },
+  "337": {
+   "text": "赤",
+   "glyph_offset": "0x4827fc"
+  },
+  "338": {
+   "text": "眼",
+   "glyph_offset": "0x4828fc"
+  },
+  "339": {
+   "text": "鏡",
+   "glyph_offset": "0x4829fc"
+  },
+  "33a": {
+   "text": "向",
+   "glyph_offset": "0x482afc"
+  },
+  "33b": {
+   "text": "庭",
+   "glyph_offset": "0x482bfc"
+  },
+  "33c": {
+   "text": "緊",
+   "glyph_offset": "0x482cfc"
+  },
+  "33d": {
+   "text": "貧",
+   "glyph_offset": "0x482dfc"
+  },
+  "33e": {
+   "text": "婦",
+   "glyph_offset": "0x482efc"
+  },
+  "33f": {
+   "text": "鼠",
+   "glyph_offset": "0x482ffc"
+  },
+  "340": {
+   "text": "暗",
+   "glyph_offset": "0x4830fc"
+  },
+  "341": {
+   "text": "刻",
+   "glyph_offset": "0x4831fc"
+  },
+  "342": {
+   "text": "平",
+   "glyph_offset": "0x4832fc"
+  },
+  "343": {
+   "text": "私",
+   "glyph_offset": "0x4833fc"
+  },
+  "344": {
+   "text": "説",
+   "glyph_offset": "0x4834fc"
+  },
+  "345": {
+   "text": "怒",
+   "glyph_offset": "0x4835fc"
+  },
+  "346": {
+   "text": "供",
+   "glyph_offset": "0x4836fc"
+  },
+  "347": {
+   "text": "喫",
+   "glyph_offset": "0x4837fc"
+  },
+  "348": {
+   "text": "笑",
+   "glyph_offset": "0x4838fc"
+  },
+  "349": {
+   "text": "争",
+   "glyph_offset": "0x4839fc"
+  },
+  "34a": {
+   "text": "津",
+   "glyph_offset": "0x483afc"
+  },
+  "34b": {
+   "text": "誘",
+   "glyph_offset": "0x483bfc"
+  },
+  "34c": {
+   "text": "靴",
+   "glyph_offset": "0x483cfc"
+  },
+  "34d": {
+   "text": "磨",
+   "glyph_offset": "0x483dfc"
+  },
+  "34e": {
+   "text": "滅",
+   "glyph_offset": "0x483efc"
+  },
+  "34f": {
+   "text": "情",
+   "glyph_offset": "0x483ffc"
+  },
+  "350": {
+   "text": "過",
+   "glyph_offset": "0x4840fc"
+  },
+  "351": {
+   "text": "掘",
+   "glyph_offset": "0x4841fc"
+  },
+  "352": {
+   "text": "働",
+   "glyph_offset": "0x4842fc"
+  },
+  "353": {
+   "text": "突",
+   "glyph_offset": "0x4843fc"
+  },
+  "354": {
+   "text": "腰",
+   "glyph_offset": "0x4844fc"
+  },
+  "355": {
+   "text": "両",
+   "glyph_offset": "0x4845fc"
+  },
+  "356": {
+   "text": "解",
+   "glyph_offset": "0x4846fc"
+  },
+  "357": {
+   "text": "散",
+   "glyph_offset": "0x4847fc"
+  },
+  "358": {
+   "text": "騎",
+   "glyph_offset": "0x4848fc"
+  },
+  "359": {
+   "text": "図",
+   "glyph_offset": "0x4849fc"
+  },
+  "35a": {
+   "text": "公",
+   "glyph_offset": "0x484afc"
+  },
+  "35b": {
+   "text": "責",
+   "glyph_offset": "0x484bfc"
+  },
+  "35c": {
+   "text": "任",
+   "glyph_offset": "0x484cfc"
+  },
+  "35d": {
+   "text": "折",
+   "glyph_offset": "0x484dfc"
+  },
+  "35e": {
+   "text": "備",
+   "glyph_offset": "0x484efc"
+  },
+  "35f": {
+   "text": "乱",
+   "glyph_offset": "0x484ffc"
+  },
+  "360": {
+   "text": "件",
+   "glyph_offset": "0x4850fc"
+  },
+  "361": {
+   "text": "棚",
+   "glyph_offset": "0x4851fc"
+  },
+  "362": {
+   "text": "扱",
+   "glyph_offset": "0x4852fc"
+  },
+  "363": {
+   "text": "袋",
+   "glyph_offset": "0x4853fc"
+  },
+  "364": {
+   "text": "舞",
+   "glyph_offset": "0x4854fc"
+  },
+  "365": {
+   "text": "車",
+   "glyph_offset": "0x4855fc"
+  },
+  "366": {
+   "text": "品",
+   "glyph_offset": "0x4856fc"
+  },
+  "367": {
+   "text": "派",
+   "glyph_offset": "0x4857fc"
+  },
+  "368": {
+   "text": "断",
+   "glyph_offset": "0x4858fc"
+  },
+  "369": {
+   "text": "漁",
+   "glyph_offset": "0x4859fc"
+  },
+  "36a": {
+   "text": "総",
+   "glyph_offset": "0x485afc"
+  },
+  "36b": {
+   "text": "海",
+   "glyph_offset": "0x485bfc"
+  },
+  "36c": {
+   "text": "鍛",
+   "glyph_offset": "0x485cfc"
+  },
+  "36d": {
+   "text": "基",
+   "glyph_offset": "0x485dfc"
+  },
+  "36e": {
+   "text": "格",
+   "glyph_offset": "0x485efc"
+  },
+  "36f": {
+   "text": "業",
+   "glyph_offset": "0x485ffc"
+  },
+  "370": {
+   "text": "征",
+   "glyph_offset": "0x4860fc"
+  },
+  "371": {
+   "text": "美",
+   "glyph_offset": "0x4861fc"
+  },
+  "372": {
+   "text": "憎",
+   "glyph_offset": "0x4862fc"
+  },
+  "373": {
+   "text": "禄",
+   "glyph_offset": "0x4863fc"
+  },
+  "374": {
+   "text": "煙",
+   "glyph_offset": "0x4864fc"
+  },
+  "375": {
+   "text": "吸",
+   "glyph_offset": "0x4865fc"
+  },
+  "376": {
+   "text": "鈍",
+   "glyph_offset": "0x4866fc"
+  },
+  "377": {
+   "text": "凄",
+   "glyph_offset": "0x4867fc"
+  },
+  "378": {
+   "text": "医",
+   "glyph_offset": "0x4868fc"
+  },
+  "379": {
+   "text": "診",
+   "glyph_offset": "0x4869fc"
+  },
+  "37a": {
+   "text": "屋",
+   "glyph_offset": "0x486afc"
+  },
+  "37b": {
+   "text": "囲",
+   "glyph_offset": "0x486bfc"
+  },
+  "37c": {
+   "text": "詰",
+   "glyph_offset": "0x486cfc"
+  },
+  "37d": {
+   "text": "朝",
+   "glyph_offset": "0x486dfc"
+  },
+  "37e": {
+   "text": "障",
+   "glyph_offset": "0x486efc"
+  },
+  "37f": {
+   "text": "銘",
+   "glyph_offset": "0x486ffc"
+  },
+  "380": {
+   "text": "悲",
+   "glyph_offset": "0x4870fc"
+  },
+  "381": {
+   "text": "辛",
+   "glyph_offset": "0x4871fc"
+  },
+  "382": {
+   "text": "臭",
+   "glyph_offset": "0x4872fc"
+  },
+  "383": {
+   "text": "拝",
+   "glyph_offset": "0x4873fc"
+  },
+  "384": {
+   "text": "香",
+   "glyph_offset": "0x4874fc"
+  },
+  "385": {
+   "text": "墓",
+   "glyph_offset": "0x4875fc"
+  },
+  "386": {
+   "text": "建",
+   "glyph_offset": "0x4876fc"
+  },
+  "387": {
+   "text": "弔",
+   "glyph_offset": "0x4877fc"
+  },
+  "388": {
+   "text": "者",
+   "glyph_offset": "0x4878fc"
+  },
+  "389": {
+   "text": "友",
+   "glyph_offset": "0x4879fc"
+  },
+  "38a": {
+   "text": "集",
+   "glyph_offset": "0x487afc"
+  },
+  "38b": {
+   "text": "群",
+   "glyph_offset": "0x487bfc"
+  },
+  "38c": {
+   "text": "裸",
+   "glyph_offset": "0x487cfc"
+  },
+  "38d": {
+   "text": "層",
+   "glyph_offset": "0x487dfc"
+  },
+  "38e": {
+   "text": "冥",
+   "glyph_offset": "0x487efc"
+  },
+  "38f": {
+   "text": "應",
+   "glyph_offset": "0x487ffc"
+  },
+  "390": {
+   "text": "爛",
+   "glyph_offset": "0x4880fc"
+  },
+  "391": {
+   "text": "耳",
+   "glyph_offset": "0x4881fc"
+  },
+  "392": {
+   "text": "属",
+   "glyph_offset": "0x4882fc"
+  },
+  "393": {
+   "text": "堂",
+   "glyph_offset": "0x4883fc"
+  },
+  "394": {
+   "text": "壁",
+   "glyph_offset": "0x4884fc"
+  },
+  "395": {
+   "text": "細",
+   "glyph_offset": "0x4885fc"
+  },
+  "396": {
+   "text": "線",
+   "glyph_offset": "0x4886fc"
+  },
+  "397": {
+   "text": "石",
+   "glyph_offset": "0x4887fc"
+  },
+  "398": {
+   "text": "充",
+   "glyph_offset": "0x4888fc"
+  },
+  "399": {
+   "text": "急",
+   "glyph_offset": "0x4889fc"
+  },
+  "39a": {
+   "text": "札",
+   "glyph_offset": "0x488afc"
+  },
+  "39b": {
+   "text": "【",
+   "glyph_offset": "0x488bfc"
+  },
+  "39c": {
+   "text": "】",
+   "glyph_offset": "0x488cfc"
+  },
+  "39d": {
+   "text": "⁉",
+   "glyph_offset": "0x488dfc"
+  },
+  "39e": {
+   "text": "{BLK0}",
+   "glyph_offset": "0x488efc"
+  },
+  "39f": {
+   "text": "{BLK1}",
+   "glyph_offset": "0x488ffc"
+  },
+  "3a0": {
+   "text": "{BLK2}",
+   "glyph_offset": "0x4890fc"
+  },
+  "3a1": {
+   "text": "{BLK3}",
+   "glyph_offset": "0x4891fc"
+  },
+  "3a2": {
+   "text": "{BLK4}",
+   "glyph_offset": "0x4892fc"
+  },
+  "3a3": {
+   "text": "{BLK5}",
+   "glyph_offset": "0x4893fc"
+  },
+  "3a4": {
+   "text": "{BLK6}",
+   "glyph_offset": "0x4894fc"
+  },
+  "3a5": {
+   "text": "{BLK7}",
+   "glyph_offset": "0x4895fc"
+  },
+  "3a6": {
+   "text": "{BLK8}",
+   "glyph_offset": "0x4896fc"
+  },
+  "3a7": {
+   "text": "{BLK9}",
+   "glyph_offset": "0x4897fc"
+  },
+  "3a8": {
+   "text": "{BLK10}",
+   "glyph_offset": "0x4898fc"
+  },
+  "3a9": {
+   "text": "替",
+   "glyph_offset": "0x4899fc"
+  },
+  "3aa": {
+   "text": "末",
+   "glyph_offset": "0x489afc"
+  },
+  "3ab": {
+   "text": "習",
+   "glyph_offset": "0x489bfc"
+  },
+  "3ac": {
+   "text": "有",
+   "glyph_offset": "0x489cfc"
+  },
+  "3ad": {
+   "text": "{A}",
+   "glyph_offset": "0x489dfc"
+  },
+  "3ae": {
+   "text": "{B}",
+   "glyph_offset": "0x489efc"
+  },
+  "3af": {
+   "text": "{L}",
+   "glyph_offset": "0x489ffc"
+  },
+  "3b0": {
+   "text": "{R}",
+   "glyph_offset": "0x48a0fc"
+  },
+  "3b1": {
+   "text": "{UP}",
+   "glyph_offset": "0x48a1fc"
+  },
+  "3b2": {
+   "text": "{DOWN}",
+   "glyph_offset": "0x48a2fc"
+  },
+  "3b3": {
+   "text": "{LEFT}",
+   "glyph_offset": "0x48a3fc"
+  },
+  "3b4": {
+   "text": "{RIGHT}",
+   "glyph_offset": "0x48a4fc"
+  },
+  "3b5": {
+   "text": "{START1}",
+   "glyph_offset": "0x48a5fc"
+  },
+  "3b6": {
+   "text": "{START2}",
+   "glyph_offset": "0x48a6fc"
+  },
+  "3b7": {
+   "text": "{SELECT1}",
+   "glyph_offset": "0x48a7fc"
+  },
+  "3b8": {
+   "text": "{SELECT2}",
+   "glyph_offset": "0x48a8fc"
+  },
+  "3b9": {
+   "text": "風",
+   "glyph_offset": "0x48a9fc"
+  },
+  "3ba": {
+   "text": "汗",
+   "glyph_offset": "0x48aafc"
+  },
+  "3bb": {
+   "text": "銀",
+   "glyph_offset": "0x48abfc"
+  },
+  "3bc": {
+   "text": "火",
+   "glyph_offset": "0x48acfc"
+  },
+  "3bd": {
+   "text": "牛",
+   "glyph_offset": "0x48adfc"
+  },
+  "3be": {
+   "text": "庫",
+   "glyph_offset": "0x48aefc"
+  },
+  "3bf": {
+   "text": "貼",
+   "glyph_offset": "0x48affc"
+  },
+  "3c0": {
+   "text": "善",
+   "glyph_offset": "0x48b0fc"
+  },
+  "3c1": {
+   "text": "台",
+   "glyph_offset": "0x48b1fc"
+  },
+  "3c2": {
+   "text": "館",
+   "glyph_offset": "0x48b2fc"
+  },
+  "3c3": {
+   "text": "木",
+   "glyph_offset": "0x48b3fc"
+  },
+  "3c4": {
+   "text": "階",
+   "glyph_offset": "0x48b4fc"
+  },
+  "3c5": {
+   "text": "布",
+   "glyph_offset": "0x48b5fc"
+  }
+ }
+}
