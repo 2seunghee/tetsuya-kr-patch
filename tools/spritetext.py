@@ -87,7 +87,7 @@ def retext_box(px, text, font, fill=15, outline=1, inner=(2, 2), bg_col=2):
     return px
 
 
-def retext_clear(px, text, font, fill=15, outline=2, x_pad=0):
+def retext_clear(px, text, font, fill=15, outline=2, x_pad=0, scale=1):
     """Transparent sprite text: clear the region, draw text left-aligned at x_pad (or centered if x_pad<0)."""
     h = len(px)
     w = len(px[0])
@@ -102,22 +102,25 @@ def retext_clear(px, text, font, fill=15, outline=2, x_pad=0):
             raise KeyError(ch)
         glyphs.append(g)
         total += g[1]
-    if total > w - 2:
-        raise ValueError("text too wide: %r (%d px)" % (text, total))
     ink = [[0] * w for _ in range(h)]
+    total *= scale
+    if total > w:
+        raise ValueError("text too wide: %r (%d px)" % (text, total))
     cx = x_pad if x_pad >= 0 else (w - total) // 2
-    base = (h + font.ascent - font.descent) // 2
+    base = (h + (font.ascent - font.descent) * scale) // 2
     for (gw, gh, xoff, yoff), dw, rows in glyphs:
-        top = base - (yoff + gh)
+        top = base - (yoff + gh) * scale
         for r, rowhex in enumerate(rows):
             bits = int(rowhex, 16)
             nb = len(rowhex) * 4
             for c in range(gw):
                 if (bits >> (nb - 1 - c)) & 1:
-                    x, y = cx + xoff + c, top + r
-                    if 0 <= x < w and 0 <= y < h:
-                        ink[y][x] = 1
-        cx += dw
+                    for sy in range(scale):
+                        for sx in range(scale):
+                            x, y = cx + (xoff + c) * scale + sx, top + r * scale + sy
+                            if 0 <= x < w and 0 <= y < h:
+                                ink[y][x] = 1
+        cx += dw * scale
     for y in range(h):
         for x in range(w):
             if ink[y][x]:
@@ -135,7 +138,7 @@ def retext_clear(px, text, font, fill=15, outline=2, x_pad=0):
 
 def apply_item(px, it, fonts):
     if it.get("mode", "box") == "clear":
-        return retext_clear(px, it["text"], fonts[it["font"]], fill=it.get("fill", 15), outline=it.get("outline", 2), x_pad=it.get("x_pad", -1))
+        return retext_clear(px, it["text"], fonts[it["font"]], fill=it.get("fill", 15), outline=it.get("outline", 2), x_pad=it.get("x_pad", -1), scale=it.get("scale", 1))
     return retext_box(px, it["text"], fonts[it["font"]])
 
 

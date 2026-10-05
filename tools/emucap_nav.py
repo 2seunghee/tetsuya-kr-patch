@@ -34,6 +34,12 @@ def run(rom, outdir, script, keep=False):
             if r2.get("isError"):
                 log.append((step, "STEP ERROR " + str(r2)[:200])); break
             log.append((step, (r2["text"][0].get("frame") if r2["text"] and isinstance(r2["text"][0], dict) else str(r2)[:120])))
+        elif parts[0] == "tapa":  # tap with emucap-internal after_frames (survives scene transitions better)
+            btns = parts[1].split("+"); press = int(parts[2]) if len(parts) > 2 else 4; after = int(parts[3]) if len(parts) > 3 else 30
+            r = c.call("tap", {"buttons": btns, "press_frames": press, "after_frames": after}, timeout=180)
+            if r.get("isError"):
+                log.append((step, "TAP ERROR " + str(r)[:200])); break
+            log.append((step, "ok"))
         elif parts[0] == "shot":
             p = os.path.join(outdir, parts[1] + ".png"); r = c.call("screenshot", {"save_path": p}); log.append((step, p if not r.get("isError") else r))
         elif parts[0] == "save":
