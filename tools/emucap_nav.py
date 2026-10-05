@@ -28,6 +28,7 @@ def run(rom, outdir, script, keep=False):
         elif parts[0] == "shot":
             p = os.path.join(outdir, parts[1] + ".png"); r = c.call("screenshot", {"save_path": p}); log.append((step, p if not r.get("isError") else r))
         elif parts[0] == "save":
+            c.call("step", {"count": 1, "unit": "instructions"})
             p = os.path.join(outdir, parts[1] + ".mss"); r = c.call("save_state", {"path": p}); log.append((step, str(r.get("text"))[:160]))
         elif parts[0] == "load":
             r = c.call("load_state", {"path": os.path.abspath(parts[1])}); log.append((step, str(r.get("text"))[:160]))

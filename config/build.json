@@ -39,11 +39,13 @@
   "pitch_px": 12
  },
  "font": {
-  "path": "work/fonts/Galmuri11.bdf",
+  "path": "assets/fonts/sources/galmuri/Galmuri11.bdf",
   "sha256": "98716d08aa5762e6ce440d5a757d107cb5d3f32a53861878be06c00aacc23304",
   "name": "Galmuri11 v2.40.4 (SIL OFL 1.1, quiple/galmuri)",
   "x_shift": 0,
-  "y_shift": 0
+  "y_shift": 0,
+  "license": "SIL OFL 1.1 (assets/fonts/sources/galmuri/LICENSE.txt)",
+  "origin": "https://github.com/quiple/galmuri/releases/tag/v2.40.4 (Galmuri-v2.40.4.zip sha256 c8b3d9861a62ae73c8b1178091401cd79994812437ef386413f6dd54856e60e7)"
  },
  "output": {
   "rom": "tetsuya-kr.gba",
