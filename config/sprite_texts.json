@@ -31,6 +31,54 @@
    "h": 4,
    "text": "옵션",
    "font": "b11"
+  },
+  {
+   "id": "slot_new",
+   "base": 4371932,
+   "tile": 1,
+   "w": 10,
+   "h": 3,
+   "text": "처음부터",
+   "font": "b11",
+   "mode": "clear",
+   "fill": 15,
+   "outline": 2
+  },
+  {
+   "id": "slot_continue",
+   "base": 4371932,
+   "tile": 11,
+   "w": 10,
+   "h": 3,
+   "text": "이어하기",
+   "font": "b11",
+   "mode": "clear",
+   "fill": 15,
+   "outline": 2
+  },
+  {
+   "id": "slot_scenario",
+   "base": 4371932,
+   "tile": 138,
+   "w": 10,
+   "h": 3,
+   "text": "시나리오 선택",
+   "font": "b11",
+   "mode": "clear",
+   "fill": 15,
+   "outline": 2
+  },
+  {
+   "id": "slot_playing",
+   "base": 4371932,
+   "tile": 452,
+   "w": 8,
+   "h": 2,
+   "text": "대국 중...",
+   "font": "b11",
+   "mode": "clear",
+   "fill": 15,
+   "outline": 2
   }
  ]
 }
