@@ -198,6 +198,27 @@ def main():
             ptr_writes[toff] = (old_ptr, new_ptr, "msgptr:%s" % e["id"])
     for toff, (old_ptr, new_ptr, w) in sorted(ptr_writes.items()):
         plan.add(toff, old_ptr, new_ptr, w)
+    # --- speaker name plates (in-place OBJ graphics, fixed size) ---
+    plates_cfg = os.path.join(ROOT, "config", "plates.json")
+    n_plates = 0
+    if os.path.exists(plates_cfg):
+        from plategen import build_plates
+        pf = [BdfFont(os.path.join(ROOT, p)) for p in spec.get("plate_fonts", [])]
+        if pf:
+            names = json.load(open(plates_cfg, encoding="utf-8"))["plates"]
+            for p_off, p_exp, p_new, p_w in build_plates(src, names, pf):
+                plan.add(p_off, p_exp, p_new, p_w)
+                n_plates += 1
+    # --- title menu sprite texts (in-place OBJ tile sheet edits) ---
+    st_cfg = os.path.join(ROOT, "config", "sprite_texts.json")
+    n_sprites = 0
+    if os.path.exists(st_cfg):
+        from spritetext import build_sprite_texts
+        st = json.load(open(st_cfg, encoding="utf-8"))
+        sfonts = {k: BdfFont(os.path.join(ROOT, v)) for k, v in st["fonts"].items()}
+        for s_off, s_exp, s_new, s_w in build_sprite_texts(src, st["items"], sfonts):
+            plan.add(s_off, s_exp, s_new, s_w)
+            n_sprites += 1
     # --- code literal patches for the relocated glyph bank table ---
     for site in spec["glyphs"]["bank_table_literal_sites"]:
         plan.add(site, struct.pack("<I", ROMBASE + spec["glyphs"]["bank_table"]),
@@ -242,7 +263,7 @@ def main():
         "font": {"path": spec["font"]["path"], "sha256": font.sha256},
         "messages_selected": len(selected), "messages_skipped": dict(skipped), "failed_checks": [f[0] for f in failing],
         "new_glyphs": len(new_codes), "glyph_banks": sorted(bank_tables), "expansion_bytes": len(exp),
-        "writes": len(plan.writes), "changed_source_bytes": len(changed),
+        "writes": len(plan.writes), "changed_source_bytes": len(changed), "plates": n_plates, "sprite_tiles": n_sprites,
         "bank_table": "0x%08x" % (ROMBASE + bank_table_off),
         "reused_original_glyph_chars": sorted(set(c for c in need if c not in new_codes)),
     }

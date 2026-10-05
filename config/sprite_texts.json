@@ -1,0 +1,36 @@
+{
+ "sheet_base": "0x0862923c",
+ "fonts": {
+  "b11": "assets/fonts/sources/galmuri/Galmuri11-Bold.bdf",
+  "g14": "assets/fonts/sources/galmuri/Galmuri14.bdf"
+ },
+ "items": [
+  {
+   "id": "menu_free",
+   "base": 6459964,
+   "tile": 660,
+   "w": 10,
+   "h": 4,
+   "text": "프리 대국",
+   "font": "b11"
+  },
+  {
+   "id": "menu_scenario",
+   "base": 6459964,
+   "tile": 788,
+   "w": 10,
+   "h": 4,
+   "text": "시나리오대국",
+   "font": "b11"
+  },
+  {
+   "id": "menu_option",
+   "base": 6459964,
+   "tile": 916,
+   "w": 10,
+   "h": 4,
+   "text": "옵션",
+   "font": "b11"
+  }
+ ]
+}

@@ -50,5 +50,10 @@
  "output": {
   "rom": "tetsuya-kr.gba",
   "ips": "tetsuya-kr.ips"
- }
+ },
+ "plate_fonts": [
+  "assets/fonts/sources/galmuri/Galmuri11.bdf",
+  "assets/fonts/sources/galmuri/Galmuri9.bdf",
+  "assets/fonts/sources/galmuri/Galmuri7.bdf"
+ ]
 }

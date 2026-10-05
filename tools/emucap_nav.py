@@ -41,6 +41,18 @@ def run(rom, outdir, script, keep=False):
             p = os.path.join(outdir, parts[1] + ".mss"); r = c.call("save_state", {"path": p}); log.append((step, str(r.get("text"))[:160]))
         elif parts[0] == "load":
             r = c.call("load_state", {"path": os.path.abspath(parts[1])}); log.append((step, str(r.get("text"))[:160]))
+        elif parts[0] == "dump":
+            for mt, ln in (("gbaVideoRam", 0x18000), ("gbaPaletteRam", 0x400), ("gbaSpriteRam", 0x400)):
+                r = c.call("read_memory", {"memory_type": mt, "address": 0, "length": ln}, timeout=120)
+                t = r["text"][0] if r["text"] else {}
+                hx = t.get("hex") or t.get("data") if isinstance(t, dict) else None
+                if hx: open(os.path.join(outdir, parts[1] + "_" + mt + ".bin"), "wb").write(bytes.fromhex(hx))
+                log.append((step + ":" + mt, "ok" if hx else str(r)[:160]))
+            r = c.call("read_memory", {"memory_type": "gbaMemory", "address": 0x04000000, "length": 0x60}, timeout=60)
+            t = r["text"][0] if r["text"] else {}
+            hx = t.get("hex") or t.get("data") if isinstance(t, dict) else None
+            if hx: open(os.path.join(outdir, parts[1] + "_io.bin"), "wb").write(bytes.fromhex(hx))
+            log.append((step + ":io", "ok" if hx else str(r)[:160]))
         elif parts[0] == "mem":
             r = c.call("read_memory", {"memory_type": parts[1], "address": int(parts[2], 16), "length": int(parts[3], 16)}); log.append((step, str(r.get("text"))[:400]))
     for s, r in log: print(s, "->", r)
