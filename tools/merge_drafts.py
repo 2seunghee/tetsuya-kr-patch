@@ -14,13 +14,17 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), 
 def main():
     drafts = {}
     conflicts = set()
-    for path in sorted(glob.glob(os.path.join(ROOT, "assets", "translation", "drafts", "*.json"))):
+    paths = sorted(glob.glob(os.path.join(ROOT, "assets", "translation", "drafts", "*.json")))
+    # reviewed files take precedence over first-pass drafts; conflicts are only reported within the same tier
+    for path in [p for p in paths if not p.endswith(".reviewed.json")] + [p for p in paths if p.endswith(".reviewed.json")]:
         state = "reviewed" if path.endswith(".reviewed.json") else "translated"
         for k, v in json.load(open(path, encoding="utf-8")).items():
             if not isinstance(v, str) or not v:
                 continue
-            if k in drafts and drafts[k][0] != v:
+            if k in drafts and drafts[k][0] != v and drafts[k][1] == state:
                 conflicts.add(k)
+            if k in drafts and drafts[k][1] == "reviewed" and state != "reviewed":
+                continue
             drafts[k] = (v, state, os.path.basename(path))
     index = json.load(open(os.path.join(ROOT, "assets", "translation", "index.json"), encoding="utf-8"))
     applied = 0

@@ -190,8 +190,8 @@
    ],
    "source": "<BGM:00><WIN:0703><WAIT:3c><PORTR:1201><PAGE><FACE:0b>（俺は…）\n<END>",
    "target": "<BGM:00><WIN:0703><WAIT:3c><PORTR:1201><PAGE><FACE:0b>（나는…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213cb9",
@@ -382,8 +382,8 @@
    ],
    "source": "<PORTR:6363><WIN:2502>（俺は…根津夫婦に仕返しすることだけ\nを考えて…）\n<END>",
    "target": "<PORTR:6363><WIN:2502>（나는… 네즈 부부에게 복수할\n생각만 하다가…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213cf2",
@@ -574,8 +574,8 @@
    ],
    "source": "（私情にかられ…場を見ていなかったん\nだ…）\n<END>",
    "target": "（사사로운 감정에 휘둘려…\n판을 보지 못했던 거다…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213d1f",
@@ -766,8 +766,8 @@
    ],
    "source": "<WIN:2802>（俺は…勝負から降りていた…だから、\nあいつらに勝てなかったんだ…）\n<END>",
    "target": "<WIN:2802>（나는… 승부에서 내려 있었다…\n그러니 놈들을 못 이긴 거다…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213d67",
@@ -958,8 +958,8 @@
    ],
    "source": "（俺は、もう降りねぇ…！）\n<END>",
    "target": "（나는 이제 안 내린다…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213d83",
@@ -1150,8 +1150,8 @@
    ],
    "source": "<WIN:0001>（袋叩きにあってもかまわねぇ…！）\n<END>",
    "target": "<WIN:0001>（몰매를 맞아도 상관없어…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213daa",
@@ -1342,8 +1342,8 @@
    ],
    "source": "<PORTR:0b05>（あいつらは…俺が倒す！）<CLR><PAGE2><PORTR:6363><SE:0a><RESET>\n<END>",
    "target": "<PORTR:0b05>（그놈들은… 내가 쓰러뜨린다!）<CLR><PAGE2><PORTR:6363><SE:0a><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213df0",
@@ -1359,8 +1359,8 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（この雀荘じゃない…やつらが…根津\n夫婦が打ってる雀荘はおそらく…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（이 작장이 아냐… 놈들이… 네즈\n부부가 치는 작장은 아마도…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213e5a",
@@ -1376,8 +1376,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（ここにゃ根津夫婦はいねぇ…）\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（여긴 네즈 부부가 없군…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213e82",
@@ -1393,8 +1393,8 @@
    ],
    "source": "（おそらくオヤジの…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "（아마도 아버지의…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213ea6",
@@ -1410,8 +1410,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213ed4",
@@ -1427,8 +1427,8 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0203><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（この雀荘じゃない…やつらが…根津\n夫婦が打ってる雀荘はおそらく…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0203><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（이 작장이 아냐… 놈들이… 네즈\n부부가 치는 작장은 아마도…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213f3e",
@@ -1444,8 +1444,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（ここにゃ根津夫婦はいねぇ…）\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（여긴 네즈 부부가 없군…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213f66",
@@ -1461,8 +1461,8 @@
    ],
    "source": "（おそらくオヤジの…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "（아마도 아버지의…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213f8a",
@@ -1478,8 +1478,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213fb8",
@@ -1495,8 +1495,8 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0b05><PAGE><FACE:0b>「俺は根津夫婦と打つんだ」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0b05><PAGE><FACE:0b>「나는 네즈 부부와 칠 거다」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "213ff8",
@@ -1512,8 +1512,8 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（この雀荘じゃない…やつらが…根津\n夫婦が打ってる雀荘はおそらく…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（이 작장이 아냐… 놈들이… 네즈\n부부가 치는 작장은 아마도…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214062",
@@ -1529,8 +1529,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（ここにゃ根津夫婦はいねぇ…）\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（여긴 네즈 부부가 없군…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21408a",
@@ -1546,8 +1546,8 @@
    ],
    "source": "（おそらくオヤジの…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "（아마도 아버지의…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2140ae",
@@ -1563,8 +1563,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2140dc",
@@ -1580,8 +1580,8 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0503><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（この雀荘じゃない…やつらが…根津\n夫婦が打ってる雀荘はおそらく…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0503><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（이 작장이 아냐… 놈들이… 네즈\n부부가 치는 작장은 아마도…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214146",
@@ -1597,8 +1597,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（ここにゃ根津夫婦はいねぇ…）\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（여긴 네즈 부부가 없군…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21416e",
@@ -1614,8 +1614,8 @@
    ],
    "source": "（おそらくオヤジの…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "（아마도 아버지의…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214192",
@@ -1631,8 +1631,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2141c0",
@@ -1648,8 +1648,8 @@
    ],
    "source": "<WIN:0603><SE:08><WAIT:3c><SE:2c><WAIT:3c><PORTL:1000><PAGE><FACE:10>「いやぁ、家庭麻雀しかやったことない\nもんですから、緊張しますね」\n<END>",
    "target": "<WIN:0603><SE:08><WAIT:3c><SE:2c><WAIT:3c><PORTL:1000><PAGE><FACE:10>「아이고, 집안 마작밖에 안 해\n봐서 긴장되네요」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214214",
@@ -1665,8 +1665,8 @@
    ],
    "source": "<PORTR:1100><FACE:11>「あなた、あまり無茶しないで下さい」\n<END>",
    "target": "<PORTR:1100><FACE:11>「여보, 너무 무리하지 마세요」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21423f",
@@ -1682,8 +1682,8 @@
    ],
    "source": "「すみません。初心者なのでお手柔らか\nにお願いしますね」\n<END>",
    "target": "「죄송해요. 초보자니까 살살\n부탁드릴게요」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214278",
@@ -1699,8 +1699,8 @@
    ],
    "source": "<PORTR:6363><PORTL:6363><NOFACE>「てめぇら、トーシロ相手に何ブっこい\nてんだよ」\n<END>",
    "target": "<PORTR:6363><PORTL:6363><NOFACE>「네놈들, 초짜 상대로 뭔 헛소리\n지껄이는 거야」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2142b0",
@@ -1716,8 +1716,8 @@
    ],
    "source": "<PORTR:1101><PORTL:1001>「んぁ？」\n<END>",
    "target": "<PORTR:1101><PORTL:1001>「응?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2142c2",
@@ -1733,8 +1733,8 @@
    ],
    "source": "<PORTR:6363><PORTL:6363><PORTR:0b05><FACE:0b>「てめぇらの相手は…俺だ…」\n<END>",
    "target": "<PORTR:6363><PORTL:6363><PORTR:0b05><FACE:0b>「네놈들 상대는… 나다…」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2142eb",
@@ -1750,8 +1750,8 @@
    ],
    "source": "<PORTL:1d00><FACE:1d>「た…たつを…！」\n<END>",
    "target": "<PORTL:1d00><FACE:1d>「타… 타츠오…!」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214304",
@@ -1767,8 +1767,8 @@
    ],
    "source": "<PORTL:1001><FACE:10>「ほう、一人で俺たちを倒すだと？」\n<END>",
    "target": "<PORTL:1001><FACE:10>「호오, 혼자서 우리를\n쓰러뜨리겠다고?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21432d",
@@ -1784,8 +1784,8 @@
    ],
    "source": "<PORTR:1101><FACE:11>「こりない男だねぇ」\n<END>",
    "target": "<PORTR:1101><FACE:11>「정신 못 차리는 남자구먼」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214348",
@@ -1801,8 +1801,8 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTL:1d00><FACE:1d>（やめろ…その夫婦相手にお前一人で勝\nてるわけがない！）\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTL:1d00><FACE:1d>（그만둬… 그 부부를 상대로 너\n혼자 이길 리가 없어!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21438d",
@@ -1818,8 +1818,8 @@
    ],
    "source": "（このままじゃ、私の二の舞だぞ…たつ\nを…！）\n<END>",
    "target": "（이대로면 내 전철을 밟게 된다…\n타츠오…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2143bc",
@@ -1835,8 +1835,8 @@
    ],
    "source": "<PORTR:0b05><FACE:0b>「………」\n<END>",
    "target": "<PORTR:0b05><FACE:0b>「………」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2143cd",
@@ -1852,8 +1852,8 @@
    ],
    "source": "（…今の俺は、あんたの息子『早見たつ\nを』じゃねぇ…）\n<END>",
    "target": "（…지금의 나는 당신 아들\n『하야미 타츠오』가 아냐…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214404",
@@ -1869,8 +1869,8 @@
    ],
    "source": "（俺は…玄人だ…！！）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0c><C_B2:01><SETF:02>\n<END>",
    "target": "（나는… 바이닌이다…!!）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0c><C_B2:01><SETF:02>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21442a",
@@ -1886,8 +1886,8 @@
    ],
    "source": "<SE:08><WIN:0601><PORTL:1d00><PAGE><FACE:1d>（その夫婦が強すぎるんだ…）\n<END>",
    "target": "<SE:08><WIN:0601><PORTL:1d00><PAGE><FACE:1d>（그 부부는 너무 강하다…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214453",
@@ -1903,8 +1903,8 @@
    ],
    "source": "（傷口がひろがる前に…私みたいになる\n前に…）\n<END>",
    "target": "（상처가 더 벌어지기 전에…\n나처럼 되기 전에…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214482",
@@ -1920,8 +1920,8 @@
    ],
    "source": "（この場から立ち去れ…たつを…！）\n<END>",
    "target": "（이 판을 떠나라… 타츠오…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2144a6",
@@ -1937,8 +1937,8 @@
    ],
    "source": "<PORTL:1001><FACE:10>「さぁて、どうする？」\n<END>",
    "target": "<PORTL:1001><FACE:10>「자, 어쩔 거지?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2144c3",
@@ -1954,8 +1954,8 @@
    ],
    "source": "<PORTR:1101><FACE:11>「このまま親子二代でかっぱがれたまま\n終りにする気かい？」\n<END>",
    "target": "<PORTR:1101><FACE:11>「이대로 부자 2대가 털린 채로\n끝낼 셈인가?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214503",
@@ -1971,8 +1971,8 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:0b05><PORTL:1d00><FACE:0b>「………」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:0b05><PORTL:1d00><FACE:0b>「………」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21451e",
@@ -1988,8 +1988,8 @@
    ],
    "source": "<FACE:1d>（…や、やめろ…たつを…！）\n<END>",
    "target": "<FACE:1d>（…그, 그만둬… 타츠오…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21453e",
@@ -2005,8 +2005,8 @@
    ],
    "source": "（こいつらの口車に乗るな…）\n<END>",
    "target": "（이놈들 꾐에 넘어가지 마라…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21455c",
@@ -2022,8 +2022,8 @@
    ],
    "source": "<PORTL:1001><FACE:10>「それとも」\n<END>",
    "target": "<PORTL:1001><FACE:10>「아니면」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21456f",
@@ -2039,8 +2039,8 @@
    ],
    "source": "<PORTR:1101><FACE:11>「まだやるかい？」\n<END>",
    "target": "<PORTR:1101><FACE:11>「아직 더 할 텐가?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214588",
@@ -2056,8 +2056,8 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:0b05><FACE:0b>「博奕の負けは…博奕で返す」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:0b05><FACE:0b>「노름에서 진 건…\n노름으로 갚는다」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2145b2",
@@ -2073,8 +2073,8 @@
    ],
    "source": "「…そうだったよな、あんたら？」\n<END>",
    "target": "「…그랬었지, 당신들?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2145d4",
@@ -2090,8 +2090,8 @@
    ],
    "source": "<PORTL:1001><FACE:10>「よーし。上等だ」\n<END>",
    "target": "<PORTL:1001><FACE:10>「좋아. 바라던 바다」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2145ed",
@@ -2107,8 +2107,8 @@
    ],
    "source": "<PORTL:1d00><FACE:1d>（………）\n<END>",
    "target": "<PORTL:1d00><FACE:1d>（………）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2145fe",
@@ -2124,8 +2124,8 @@
    ],
    "source": "（…終った…）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0c><C_B2:01><SETF:02>\n<END>",
    "target": "（…끝났다…）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0c><C_B2:01><SETF:02>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21461c",
@@ -2141,8 +2141,8 @@
    ],
    "source": "<SE:0a><WIN:0601><PORTR:0b05><PAGE><FACE:0b>「てめぇらの麻雀は所詮、安い手品だ。\nトーシロはだませても…」\n<END>",
    "target": "<SE:0a><WIN:0601><PORTR:0b05><PAGE><FACE:0b>「네놈들 마작은 싸구려 마술이다.\n초짜는 속일 수 있어도…」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214666",
@@ -2158,8 +2158,8 @@
    ],
    "source": "「…玄人には通用しねぇんだよ」\n<END>",
    "target": "「…바이닌한텐 안 통한다고」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214686",
@@ -2175,8 +2175,8 @@
    ],
    "source": "<PORTL:1d01><FACE:1d>（………）\n<END>",
    "target": "<PORTL:1d01><FACE:1d>（………）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214697",
@@ -2192,8 +2192,8 @@
    ],
    "source": "（…たつを…ありがとうよ）\n<END>",
    "target": "（…타츠오… 고맙다）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2146b3",
@@ -2209,8 +2209,8 @@
    ],
    "source": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0901><WAIT:3c><PORTR:0100><PORTL:1400><PAGE><FACE:13>「…なるほど、そういう仕掛けだったの\nか。せこい博奕だ」\n<END>",
    "target": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0901><WAIT:3c><PORTR:0100><PORTL:1400><PAGE><FACE:13>「…과연, 그런 수법이었나.\n쩨쩨한 노름이군」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214701",
@@ -2226,8 +2226,8 @@
    ],
    "source": "<PORTL:1800><FACE:19>「その夫婦、最初は誰かにだまされて、\n身包みはがされたのね、きっと」\n<END>",
    "target": "<PORTL:1800><FACE:19>「그 부부도 분명 처음엔 누구한테\n속아서 홀랑 벗겨졌을 거야」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21474b",
@@ -2243,8 +2243,8 @@
    ],
    "source": "<PORTL:1400><FACE:13>「へぇ…女の勘かい？」\n<END>",
    "target": "<PORTL:1400><FACE:13>「허어… 여자의 감이냐?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214768",
@@ -2260,8 +2260,8 @@
    ],
    "source": "<PORTL:1800><FACE:19>「だまされた人間でなきゃ、人をだまし\nたりしないものよ」\n<END>",
    "target": "<PORTL:1800><FACE:19>「속아 본 사람이 아니면\n남을 속이진 않는 법이야」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2147a6",
@@ -2277,8 +2277,8 @@
    ],
    "source": "<PORTL:6363><FACE:01>「………」\n<END>",
    "target": "<PORTL:6363><FACE:01>「………」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2147b7",
@@ -2294,8 +2294,8 @@
    ],
    "source": "<PORTL:1400><FACE:13>「あのリーゼント…勝ったかな」\n<END>",
    "target": "<PORTL:1400><FACE:13>「그 리젠트… 이겼으려나」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2147dc",
@@ -2311,8 +2311,8 @@
    ],
    "source": "<FACE:01>「…負けるわけ無ぇよ」\n<END>",
    "target": "<FACE:01>「…질 리가 없어」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2147f6",
@@ -2328,8 +2328,8 @@
    ],
    "source": "「あいつだって…玄人だ」\n<END>",
    "target": "「그 녀석도… 바이닌이다」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214810",
@@ -2345,8 +2345,8 @@
    ],
    "source": "<FACE:13>「…そんなもんかね」\n<END>",
    "target": "<FACE:13>「…그런 건가」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214828",
@@ -2362,8 +2362,8 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><BGM:00><SE:2d><PORTL:0b01><FACE:0b>「哲さん！」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><BGM:00><SE:2d><PORTL:0b01><FACE:0b>「테쯔 형님!」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214846",
@@ -2379,8 +2379,8 @@
    ],
    "source": "<PORTR:0101><FACE:01>「………」\n<END>",
    "target": "<PORTR:0101><FACE:01>「………」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214857",
@@ -2396,8 +2396,8 @@
    ],
    "source": "<SE:10><FACE:0b>「探しましたよ！　ママ、俺ビールね」\n<END>",
    "target": "<SE:10><FACE:0b>「한참 찾았슴다!\n마담, 난 맥주요」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214881",
@@ -2413,8 +2413,8 @@
    ],
    "source": "<PORTL:1800><FACE:19>「…はいよ」\n<END>",
    "target": "<PORTL:1800><FACE:19>「…알았어」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214894",
@@ -2430,8 +2430,8 @@
    ],
    "source": "<PORTL:0b00><FACE:0b>「へへっ。実は哲さん、さっきいい話仕\n入れて来たんスけど…」\n<END>",
    "target": "<PORTL:0b00><FACE:0b>「헤헷. 실은 테쯔 형님, 아까\n좋은 얘길 물어 왔는데요…」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2148d6",
@@ -2447,8 +2447,8 @@
    ],
    "source": "<PORTR:1400><PORTL:0b02><FACE:0b>「どわっ！」\n<END>",
    "target": "<PORTR:1400><PORTL:0b02><FACE:0b>「으왓!」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2148ec",
@@ -2464,8 +2464,8 @@
    ],
    "source": "<PORTL:0b04>「ユ、ユウさん…！」\n<END>",
    "target": "<PORTL:0b04>「유, 유우 씨…!」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214905",
@@ -2481,8 +2481,8 @@
    ],
    "source": "<FACE:13>「…哲、おめぇの言った通りだったな」\n<END>",
    "target": "<FACE:13>「…테쯔, 네 말대로였군」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21492d",
@@ -2498,8 +2498,8 @@
    ],
    "source": "<PORTR:0101><FACE:01>「………」\n<END>",
    "target": "<PORTR:0101><FACE:01>「………」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "21493e",
@@ -2515,8 +2515,8 @@
    ],
    "source": "<PORTR:1401><FACE:13>「…じゃあな」\n<END>",
    "target": "<PORTR:1401><FACE:13>「…그럼 간다」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214953",
@@ -2532,8 +2532,8 @@
    ],
    "source": "<PORTL:0b00><FACE:0b>「ユウさん…」\n<END>",
    "target": "<PORTL:0b00><FACE:0b>「유우 씨…」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214968",
@@ -2549,8 +2549,8 @@
    ],
    "source": "<PAGE2><PORTR:6363><PORTL:6363><SE:2c><WIN:2a01><WAIT:0c><PAGE><FACE:01>「で、いい話ってのは？」\n<END>",
    "target": "<PAGE2><PORTR:6363><PORTL:6363><SE:2c><WIN:2a01><WAIT:0c><PAGE><FACE:01>「그래서, 좋은 얘기란 건?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214993",
@@ -2566,8 +2566,8 @@
    ],
    "source": "<FACE:0b>「あ、そうそうそう！」\n<END>",
    "target": "<FACE:0b>「아, 맞다 맞다 맞다!」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2149ad",
@@ -2583,8 +2583,8 @@
    ],
    "source": "<FACE:13>「…やれやれ」\n<END>",
    "target": "<FACE:13>「…나 원 참」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "2149bf",
@@ -2600,8 +2600,8 @@
    ],
    "source": "「…結局、元のサヤかよ」<CLR><BGM:01><PAGE2><WIN:0001><RESET>\n<END>",
    "target": "「…결국 원래대로냐」<CLR><BGM:01><PAGE2><WIN:0001><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214ac8",
@@ -2617,8 +2617,8 @@
    ],
    "source": "<WIN:0003><PORTR:0b05><PAGE><FACE:0b>（哲さんに会うのは、根津を倒してから\nだ…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
    "target": "<WIN:0003><PORTR:0b05><PAGE><FACE:0b>（테쯔 형님을 만나는 건 네즈를\n쓰러뜨린 다음이다…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214b08",
@@ -2634,8 +2634,8 @@
    ],
    "source": "<WIN:0b03><PORTR:0b05><PAGE><FACE:0b>（俺は…）\n<END>",
    "target": "<WIN:0b03><PORTR:0b05><PAGE><FACE:0b>（나는…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214b1d",
@@ -2651,8 +2651,8 @@
    ],
    "source": "（俺は…根津夫婦に仕返しすることだけ\nを考えて…）\n<END>",
    "target": "（나는… 네즈 부부에게 복수할\n생각만 하다가…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214b50",
@@ -2668,8 +2668,8 @@
    ],
    "source": "（私情にかられ…場を見ていなかったん\nだ…）\n<END>",
    "target": "（사사로운 감정에 휘둘려…\n판을 보지 못했던 거다…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214b7d",
@@ -2685,8 +2685,8 @@
    ],
    "source": "（俺は…勝負から降りていた…だから、\nあいつらに勝てなかったんだ…）\n<END>",
    "target": "（나는… 승부에서 내려 있었다…\n그러니 놈들을 못 이긴 거다…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214bc2",
@@ -2702,8 +2702,8 @@
    ],
    "source": "（俺は、もう降りねぇ…！）\n<END>",
    "target": "（나는 이제 안 내린다…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214bde",
@@ -2719,8 +2719,8 @@
    ],
    "source": "（袋叩きにあってもかまわねぇ…！）\n<END>",
    "target": "（몰매를 맞아도 상관없어…!）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214c02",
@@ -2736,8 +2736,8 @@
    ],
    "source": "（あいつらは…俺が倒す！）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
    "target": "（그놈들은… 내가 쓰러뜨린다!）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214c40",
@@ -2753,8 +2753,8 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（この雀荘じゃない…やつらが…根津\n夫婦が打ってる雀荘はおそらく…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:1e><JIF:0202><JIF:0101><FLAG:01><PORTR:0b05><PAGE><FACE:0b>（이 작장이 아냐… 놈들이… 네즈\n부부가 치는 작장은 아마도…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214caa",
@@ -2770,8 +2770,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（ここにゃ根津夫婦はいねぇ…）\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b><FLAG:02>（여긴 네즈 부부가 없군…）\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214cd2",
@@ -2787,8 +2787,8 @@
    ],
    "source": "（おそらくオヤジの…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "（아마도 아버지의…）<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214cf6",
@@ -2804,8 +2804,8 @@
    ],
    "source": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<PORTR:0b05><PAGE><FACE:0b>「………」<CLR><PAGE2><PORTR:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214d24",
@@ -2821,8 +2821,8 @@
    ],
    "source": "<PAGE>「え？　オッサンとオバハンの玄人？」\n<END>",
    "target": "<PAGE>「엥? 아저씨랑 아줌마 바이닌?」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214d4b",
@@ -2838,8 +2838,8 @@
    ],
    "source": "「この雀荘には、いなかったぜ」<CLR><PAGE2><RESET>\n<END>",
    "target": "「이 작장엔 없었어」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214d78",
@@ -2855,8 +2855,8 @@
    ],
    "source": "<PAGE>「…聞き込み中だ」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「…탐문 중이다」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214d94",
@@ -2872,8 +2872,8 @@
    ],
    "source": "<PAGE>「兄ちゃん、玉子立てられる？」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「형씨, 달걀 세울 수 있어?」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214dbc",
@@ -2889,8 +2889,8 @@
    ],
    "source": "<PAGE>「ん？　何だ、俺に用か？」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「응? 뭐야, 나한테 볼일이냐?」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214de0",
@@ -2906,8 +2906,8 @@
    ],
    "source": "<PAGE>「ああ…ヒマだな…」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「아아… 한가하군…」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214e00",
@@ -2923,8 +2923,8 @@
    ],
    "source": "<PAGE>「らっしゃい、らっしゃい」\n<END>",
    "target": "<PAGE>「어서 옵쇼, 어서 옵쇼」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214e1d",
@@ -2940,8 +2940,8 @@
    ],
    "source": "「ふかしパン二つで拾匹だよ！」<CLR><PAGE2><RESET>\n<END>",
    "target": "「찐빵 두 개에 10필이요!」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214e48",
@@ -2957,8 +2957,8 @@
    ],
    "source": "<PAGE>「らっしゃい、らっしゃい\n銀シャリ、みそ汁うまいよ～」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「어서 옵쇼, 어서 옵쇼\n흰쌀밥에 된장국, 맛있어요~」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214e88",
@@ -2974,8 +2974,8 @@
    ],
    "source": "<PAGE>「素ウドン一杯、拾匹だよ」\n<END>",
    "target": "<PAGE>「맨우동 한 그릇 10필이요」\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214ea5",
@@ -2991,8 +2991,8 @@
    ],
    "source": "「らっしゃい、らっしゃい！」<CLR><PAGE2><RESET>\n<END>",
    "target": "「어서 옵쇼, 어서 옵쇼!」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214ed0",
@@ -3008,8 +3008,8 @@
    ],
    "source": "<PAGE>「ご禁制の本物の寿司だよ！」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「금제품 진짜 초밥이요!」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214ef8",
@@ -3025,8 +3025,8 @@
    ],
    "source": "<PAGE>「うまい牛めし、いらんかね～」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「맛있는 규메시 안 사려우~」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214f20",
@@ -3042,8 +3042,8 @@
    ],
    "source": "<PAGE><FACE:0b>（あいつらは…いねぇな…）<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:0b>（그놈들은… 없군…）<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214f48",
@@ -3059,8 +3059,8 @@
    ],
    "source": "<PAGE><FACE:0b>（…ツボだ）<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:0b>（…항아리다）<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214f60",
@@ -3076,8 +3076,8 @@
    ],
    "source": "<PAGE>『カン、ビン　捨てるべからず』<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>『깡통・병 버리지 말 것』<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214f88",
@@ -3093,8 +3093,8 @@
    ],
    "source": "<PAGE>『火の用心』<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>『불조심』<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214fa0",
@@ -3110,8 +3110,8 @@
    ],
    "source": "<PAGE><FACE:0b>「…こんなところに用は無ぇ」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:0b>「…이런 데 볼일 없어」<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   },
   {
    "id": "214fc8",
@@ -3127,8 +3127,8 @@
    ],
    "source": "<PAGE><FACE:0b>（早く根津と打ちに行かないと…）<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:0b>（얼른 네즈랑 치러 가야지…）<CLR><PAGE2><RESET>\n<END>",
-   "state": "translated",
-   "notes": "draft:b09p0.json"
+   "state": "reviewed",
+   "notes": "draft:r09p0.reviewed.json"
   }
  ]
 }
