@@ -25,7 +25,11 @@ def run(rom, outdir, script, keep=False):
             btns = parts[1].split("+"); press = int(parts[2]) if len(parts) > 2 else 4; after = int(parts[3]) if len(parts) > 3 else 30
             r = c.call("tap", {"buttons": btns, "press_frames": press, "after_frames": 0}, timeout=180)
             if r.get("isError"):
-                log.append((step, "TAP ERROR " + str(r)[:200])); break
+                c.call("status"); c.call("step", {"count": 2, "unit": "frames"}, timeout=60)
+                r = c.call("tap", {"buttons": btns, "press_frames": press, "after_frames": 0}, timeout=180)
+                if r.get("isError"):
+                    log.append((step, "TAP ERROR " + str(r)[:200])); break
+                log.append((step, "retried ok"))
             r2 = c.call("step", {"count": after, "unit": "frames"}, timeout=180) if after else r
             if r2.get("isError"):
                 log.append((step, "STEP ERROR " + str(r2)[:200])); break
