@@ -95,6 +95,18 @@ def main():
                 skipped[e.get("state", "untranslated")] += 1
     if args.policy == "release" and skipped:
         raise SystemExit("release policy: ineligible entries remain: %s" % dict(skipped))
+    # mechanical checks: a failing entry is excluded under the development policy (source kept), fatal for release
+    from validate_translation import check_entry
+    _, txt2code_chk = load_glyph_table()
+    failing = []
+    for e in list(selected):
+        errs = check_entry(e, font, txt2code_chk)
+        if errs:
+            failing.append((e["id"], errs))
+            selected.remove(e)
+            skipped["failed_checks"] += 1
+    if failing and args.policy == "release":
+        raise SystemExit("release policy: entries fail mechanical checks: %s" % failing[:5])
     # protected-field check: raw bytes must still match the source at the recorded offset
     for e in selected:
         off = int(e["offset"], 16)
@@ -174,12 +186,18 @@ def main():
         msg_locs[e["id"]] = (exp_base + len(exp), len(data))
         exp += data
     tables = {(t["bank"], t["sub"]): t for t in index["tables"]}
+    ptr_writes = {}  # pointer slot offset -> (old, new, writer); shared sub-tables reference one slot several times
     for e in selected:
         new_ptr = struct.pack("<I", ROMBASE + msg_locs[e["id"]][0])
         old_ptr = struct.pack("<I", ROMBASE + int(e["offset"], 16))
         for bank, sub, mi in e["refs"]:
             toff = int(tables[(bank, sub)]["table_offset"], 16) + 4 * mi
-            plan.add(toff, old_ptr, new_ptr, "msgptr:%s" % e["id"])
+            prev = ptr_writes.get(toff)
+            if prev is not None and prev[1] != new_ptr:
+                raise SystemExit("conflicting pointer writes at %x" % toff)
+            ptr_writes[toff] = (old_ptr, new_ptr, "msgptr:%s" % e["id"])
+    for toff, (old_ptr, new_ptr, w) in sorted(ptr_writes.items()):
+        plan.add(toff, old_ptr, new_ptr, w)
     # --- code literal patches for the relocated glyph bank table ---
     for site in spec["glyphs"]["bank_table_literal_sites"]:
         plan.add(site, struct.pack("<I", ROMBASE + spec["glyphs"]["bank_table"]),
@@ -222,7 +240,7 @@ def main():
         "source_sha256": sha, "output_sha256": hashlib.sha256(img).hexdigest(), "output_size": len(img),
         "ips_sha256": hashlib.sha256(ips).hexdigest(),
         "font": {"path": spec["font"]["path"], "sha256": font.sha256},
-        "messages_selected": len(selected), "messages_skipped": dict(skipped),
+        "messages_selected": len(selected), "messages_skipped": dict(skipped), "failed_checks": [f[0] for f in failing],
         "new_glyphs": len(new_codes), "glyph_banks": sorted(bank_tables), "expansion_bytes": len(exp),
         "writes": len(plan.writes), "changed_source_bytes": len(changed),
         "bank_table": "0x%08x" % (ROMBASE + bank_table_off),

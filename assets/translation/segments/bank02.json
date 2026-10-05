@@ -214,9 +214,9 @@
     ]
    ],
    "source": "<SE:0f><SE:2c><WAIT:3c><SE:2d><WIN:0903><PORTL:1800><PAGE><FACE:19>「いらっしゃい…今日は勝ってるの？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:0f><SE:2c><WAIT:3c><SE:2d><WIN:0903><PORTL:1800><PAGE><FACE:19>「어서 와…\n오늘은 이기고 있어?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20077f",
@@ -431,9 +431,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0000><FACE:01>「ああ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0000><FACE:01>「그래」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200791",
@@ -648,9 +648,9 @@
     ]
    ],
    "source": "<PORTL:1800><FACE:19>「…ハイ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:1800><FACE:19>「…여기」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2007a2",
@@ -865,9 +865,9 @@
     ]
    ],
    "source": "<FACE:01>「ん？　何だいこれ…俺、こんなの頼ん\nでねぇよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「응? 뭐야 이거… 나 이런 거\n시킨 적 없다고」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2007d5",
@@ -1082,9 +1082,9 @@
     ]
    ],
    "source": "<FACE:19>「豚の生レバだよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:19>「돼지 생간이야」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2007eb",
@@ -1299,9 +1299,9 @@
     ]
    ],
    "source": "「あんた…ひどい顔してるから…また\nこれから打ちに行くんだろ？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「자네… 꼴이 말이 아니네… 또\n지금 치러 가는 거지?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20082c",
@@ -1516,9 +1516,9 @@
     ]
    ],
    "source": "「いいから、気にしないで食べな」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「됐으니 신경 쓰지 말고 먹어」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20084e",
@@ -1733,9 +1733,9 @@
     ]
    ],
    "source": "<PORTL:6363><FACE:01>「ああ…あんがとよ。じゃあ…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><FACE:01>「그래… 고맙다. 그럼…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200873",
@@ -1950,9 +1950,9 @@
     ]
    ],
    "source": "<PORTL:0501>「あ…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0501>「아…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200880",
@@ -2167,9 +2167,9 @@
     ]
    ],
    "source": "<FACE:05>「…んめぇ…。酒くれ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:05>「…맛있구먼… 술 줘」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20089a",
@@ -2384,9 +2384,9 @@
     ]
    ],
    "source": "<FACE:01>「房州さん」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「보슈 씨」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2008aa",
@@ -2601,9 +2601,9 @@
     ]
    ],
    "source": "<FACE:05>「食えよ。血になるぜ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:05>「먹어. 피가 된다고」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2008c4",
@@ -2818,9 +2818,9 @@
     ]
    ],
    "source": "<FACE:01>「ああ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「그래」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2008d0",
@@ -3035,9 +3035,9 @@
     ]
    ],
    "source": "<PORTL:0500><FACE:05>「…で、決めてくれたかい？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0500><FACE:05>「…그래서, 마음은 정했나?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2008f3",
@@ -3252,9 +3252,9 @@
     ]
    ],
    "source": "<FACE:01>「え？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「어?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2008ff",
@@ -3469,9 +3469,9 @@
     ]
    ],
    "source": "<FACE:05>「二人で打つって話だよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:05>「둘이서 친다는 얘기 말이야」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20091b",
@@ -3686,9 +3686,9 @@
     ]
    ],
    "source": "<FACE:01>「コンビ打ちのことか…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「콤비 마작 말인가…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200937",
@@ -3903,9 +3903,9 @@
     ]
    ],
    "source": "「…俺、もう少し一人で打つよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「…난 좀 더 혼자 칠 거야」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200957",
@@ -4120,9 +4120,9 @@
     ]
    ],
    "source": "<FACE:05>「組んだ方が勝てるし、稼げるぜ？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:05>「콤비로 치면 더 이기고\n더 벌 수 있잖아?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20097d",
@@ -4337,9 +4337,9 @@
     ]
    ],
    "source": "<FACE:01>「ああ、そりゃわかるけどさ…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「그래, 그건 알지만 말이야…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20099f",
@@ -4554,9 +4554,9 @@
     ]
    ],
    "source": "「絶対勝てる勝負なんて、やってもつま\nんねぇよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「무조건 이기는 승부 따위,\n해 봤자 재미없다고」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2009d0",
@@ -4771,9 +4771,9 @@
     ]
    ],
    "source": "<PORTR:6363><FACE:05>「博奕ってのは、つまるつまらねぇじゃ\nねぇ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><FACE:05>「노름이란 건 말이다, 재미가\n있고 없고가 아니야」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200a02",
@@ -4988,9 +4988,9 @@
     ]
    ],
    "source": "「勝つか負けるかだろう」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「이기느냐 지느냐잖아」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200a1c",
@@ -5205,9 +5205,9 @@
     ]
    ],
    "source": "「絶対勝てるってわかってる勝負の…\nどこが悪いんだ？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「무조건 이길 걸 아는 승부가…\n뭐가 나쁘다는 거지?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200a53",
@@ -5422,9 +5422,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0000><FACE:01>「…ちょっと打ってくる。ママ、ごちそ\nうさん」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0000><FACE:01>「…잠깐 치고 올게. 마담,\n잘 먹었어」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200a8a",
@@ -5639,9 +5639,9 @@
     ]
    ],
    "source": "<PORTL:1800><FACE:19>「銭はいいよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:1800><FACE:19>「돈은 됐어」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200a9f",
@@ -5856,9 +5856,9 @@
     ]
    ],
    "source": "<FACE:01>「え？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「어?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200aab",
@@ -6073,9 +6073,9 @@
     ]
    ],
    "source": "<FACE:19>「出銭はゲンが悪いだろ？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:19>「나가는 돈은 재수 없잖아?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200ac9",
@@ -6290,9 +6290,9 @@
     ]
    ],
    "source": "<FACE:01>「いいよ…俺はゲンなんて、かつがねぇ\nんだ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>「됐어… 나는 재수 따위\n안 따진다고」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200af8",
@@ -6507,9 +6507,9 @@
     ]
    ],
    "source": "<PAGE2><PORTR:6363><SE:2c><WAIT:3c><SE:2d><PAGE><FACE:19>「………」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE2><PORTR:6363><SE:2c><WAIT:3c><SE:2d><PAGE><FACE:19>「………」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200b11",
@@ -6724,9 +6724,9 @@
     ]
    ],
    "source": "<PORTR:0501><FACE:05>「…まったく」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0501><FACE:05>「…참 나」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200b26",
@@ -6941,9 +6941,9 @@
     ]
    ],
    "source": "「若けぇなァ…」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:0a><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「젊구먼…」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:0a><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200bc4",
@@ -6958,9 +6958,9 @@
     ]
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTL:1900><PAGE><FACE:1a>「いらっしゃい」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTL:1900><PAGE><FACE:1a>「어서 와」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200be7",
@@ -6975,9 +6975,9 @@
     ]
    ],
    "source": "「悪いけど、空いてる卓がないんだ…\nまた来ておくれ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「미안한데 빈 탁이 없어…\n다음에 와 줘」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200c1c",
@@ -6992,9 +6992,9 @@
     ]
    ],
    "source": "<PORTR:0000><FACE:01>「そうか…」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0000><FACE:01>「그런가…」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200c4c",
@@ -7009,9 +7009,9 @@
     ]
    ],
    "source": "<SE:03><SE:2c><WAIT:3c><WIN:0203><SE:2d><WAIT:3c><PORTL:1a00><PAGE><FACE:1b>「やあ、いらっしゃい坊や」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:03><SE:2c><WAIT:3c><WIN:0203><SE:2d><WAIT:3c><PORTL:1a00><PAGE><FACE:1b>「어이, 어서 와 꼬마」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200c7b",
@@ -7026,9 +7026,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0000><FACE:01>「…ここ、入るぜ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0000><FACE:01>「…여기, 내가 들어가지」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200c97",
@@ -7043,9 +7043,9 @@
     ]
    ],
    "source": "<PORTL:0800><NOFACE>「ああ…<WAIT:1e><PORTR:0700>どうぞ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0800><NOFACE>「아…<WAIT:1e><PORTR:0700>그러시죠」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200cb2",
@@ -7060,9 +7060,9 @@
     ]
    ],
    "source": "<PORTL:1a00><FACE:1b>「双子なんだってよ、この人たち」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:1a00><FACE:1b>「쌍둥이래, 이 사람들」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200cd9",
@@ -7077,9 +7077,9 @@
     ]
    ],
    "source": "「浅草で芸人やってんですよね？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「아사쿠사에서 예인 하신다죠?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200cfb",
@@ -7094,9 +7094,9 @@
     ]
    ],
    "source": "<PORTL:6363><FACE:07>「いやいや、そっちじゃ食えなくて…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><FACE:07>「아뇨 뭐, 그쪽으론 먹고살\n수가 없어서…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200d26",
@@ -7111,9 +7111,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:0800><FACE:08>「今じゃ、こっちが…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:0800><FACE:08>「지금은 이쪽이…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200d46",
@@ -7128,9 +7128,9 @@
     ]
    ],
    "source": "<PORTR:0700><NOFACE>「本職ですがね」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0700><NOFACE>「본업입니다만」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200d5c",
@@ -7145,9 +7145,9 @@
     ]
    ],
    "source": "<PORTR:0000><PORTL:6363><FACE:01>（まさか、こいつら…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0000><PORTL:6363><FACE:01>（설마, 이 녀석들…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200d7c",
@@ -7162,9 +7162,9 @@
     ]
    ],
    "source": "<PAGE2><PORTR:6363><WIN:0202><SE:05><PORTR:0700><PAGE><FACE:07>「店長、コーラひとつ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE2><PORTR:6363><WIN:0202><SE:05><PORTR:0700><PAGE><FACE:07>「점장, 콜라 하나」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200da3",
@@ -7179,9 +7179,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:0800><FACE:08>「………」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:0800><FACE:08>「………」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200db7",
@@ -7196,9 +7196,9 @@
     ]
    ],
    "source": "<PORTL:1a00><FACE:1b>「はいはい…<WAIT:1e>ん？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:1a00><FACE:1b>「예예…<WAIT:1e>응?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200dd2",
@@ -7213,9 +7213,9 @@
     ]
    ],
    "source": "<PORTL:1a01>（やばいぜ、坊や…！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:1a01>（위험해, 꼬마…!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200ded",
@@ -7230,9 +7230,9 @@
     ]
    ],
    "source": "<PORTL:0000><PORTR:0700><FACE:07>「ん？　それ…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0000><PORTR:0700><FACE:07>「응? 그거…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200e07",
@@ -7247,9 +7247,9 @@
     ]
    ],
    "source": "<PORTL:0002><FACE:01>「…⁉」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0002><FACE:01>「…⁉」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200e16",
@@ -7264,9 +7264,9 @@
     ]
    ],
    "source": "<PORTL:6363><FACE:07><SE:23>「ロン、満貫！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><FACE:07><SE:23>「론, 만관!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200e2f",
@@ -7281,9 +7281,9 @@
     ]
    ],
    "source": "<PORTL:0002><FACE:01>（来た…！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0002><FACE:01>（왔다…!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200e42",
@@ -7298,9 +7298,9 @@
     ]
    ],
    "source": "（捨て牌からすれば、好配牌じゃなかっ\nたはずだ…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（버림패로 보면 좋은 배패는\n아니었을 텐데…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200e75",
@@ -7315,9 +7315,9 @@
     ]
    ],
    "source": "（運でおいしい牌を引いたとは思えない\n…やはりこいつら…玄人）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（운으로 좋은 패를 뽑은 게\n아냐… 역시 이놈들… 바이닌）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200eb4",
@@ -7332,9 +7332,9 @@
     ]
    ],
    "source": "<PORTL:0800>（弟がトス役で…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0800>（동생이 토스 역이고…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200ecb",
@@ -7349,9 +7349,9 @@
     ]
    ],
    "source": "<PORTR:0700>（兄がアガり役…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0700>（형이 화료 역…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200ee2",
@@ -7366,9 +7366,9 @@
     ]
    ],
    "source": "（この双子…<C33:3c><SE:1c>コンビ打ちだ！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（이 쌍둥이…<C33:3c><SE:1c>콤비 마작이다!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200f04",
@@ -7383,9 +7383,9 @@
     ]
    ],
    "source": "<PORTL:6363><FACE:07>「やっぱり俺、酒にするわ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><FACE:07>「역시 난 술로 할래」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200f25",
@@ -7400,9 +7400,9 @@
     ]
    ],
    "source": "<PORTL:0000><FACE:01>（出た…通しだ！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0000><FACE:01>（나왔다… 통신이다!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200f3e",
@@ -7417,9 +7417,9 @@
     ]
    ],
    "source": "<PORTL:0004>「なあ、あんたら…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0004>「이봐, 당신들…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200f57",
@@ -7434,9 +7434,9 @@
     ]
    ],
    "source": "「芸人だけあって、なんかいろんな芸を\n持ってるみてぇだな」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「예인답게 온갖 기예를\n가진 모양이군」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200f92",
@@ -7451,9 +7451,9 @@
     ]
    ],
    "source": "「何かひとつ、見せてくれよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「뭐 하나 보여 달라고」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200fb0",
@@ -7468,9 +7468,9 @@
     ]
    ],
    "source": "<PORTL:0800><FACE:08>（…こいつも）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0800><FACE:08>（…이놈도）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200fc5",
@@ -7485,9 +7485,9 @@
     ]
    ],
    "source": "<PORTR:0700><FACE:07>（玄人か…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0700><FACE:07>（바이닌인가…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200fd8",
@@ -7502,9 +7502,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:1a00><FACE:1b>（坊や…揺らしに来たな）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:1a00><FACE:1b>（꼬마… 흔들러 왔군）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "200ffa",
@@ -7519,9 +7519,9 @@
     ]
    ],
    "source": "<PORTL:0800><FACE:08>「…芸ですか？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0800><FACE:08>「…기예 말입니까?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201011",
@@ -7536,9 +7536,9 @@
     ]
    ],
    "source": "（やばいぜ兄貴。こいつ、でかいのを\nテンパってる…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（위험해 형님. 이놈, 큰 걸\n텐파이했어…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201046",
@@ -7553,9 +7553,9 @@
     ]
    ],
    "source": "<PORTR:0700><FACE:07>「いやあ、見せるほどのもんじゃあねぇ\n…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0700><FACE:07>「아뇨, 보여 드릴 만한 게\n못 돼서…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201076",
@@ -7570,9 +7570,9 @@
     ]
    ],
    "source": "（構わねぇ…{BLK9}を俺に渡せ）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（상관없어… {BLK9} 패를\n내게 넘겨）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201092",
@@ -7587,9 +7587,9 @@
     ]
    ],
    "source": "<PORTR:6363><FACE:08>「そうそう。まだ未熟者っすから…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><FACE:08>「맞아요. 아직 미숙해서요…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2010bb",
@@ -7604,9 +7604,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0700><FACE:07>「………」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0700><FACE:07>「………」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2010cf",
@@ -7621,9 +7621,9 @@
     ]
    ],
    "source": "<SE:23>「ツモ、六千オール！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:23>「쯔모, 6000 올!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2010e9",
@@ -7638,9 +7638,9 @@
     ]
    ],
    "source": "<PORTL:0002><FACE:01>「…！！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0002><FACE:01>「…!!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2010fa",
@@ -7655,9 +7655,9 @@
     ]
    ],
    "source": "<PORTL:0800><FACE:08>「兄貴の一人勝ちかよ。やってらんねぇ\nぜ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0800><FACE:08>「형님 독식이냐고.\n못 해 먹겠네」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20112a",
@@ -7672,9 +7672,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:6363><FACE:16>「やってられないのはこっちだよ…これ\nで失礼するよ！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:6363><FACE:16>「못 해 먹겠는 건 이쪽이야…\n난 이만 가겠어!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201169",
@@ -7689,9 +7689,9 @@
     ]
    ],
    "source": "<PORTR:0700><FACE:07>「ちっ。一人抜けちまったな」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0700><FACE:07>「쳇. 한 명 빠져 버렸군」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20118c",
@@ -7706,9 +7706,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:0800><FACE:08>「…あんたどうする？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:0800><FACE:08>「…당신은 어쩔 거요?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2011ac",
@@ -7723,9 +7723,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0700><FACE:07>「まだやるかい？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0700><FACE:07>「더 칠 거요?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2011c8",
@@ -7740,9 +7740,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:0800><FACE:08>「もう一人、メンツが揃うまで…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:0800><FACE:08>「멤버 하나 더 올 때까지…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2011f2",
@@ -7757,9 +7757,9 @@
     ]
    ],
    "source": "<PORTR:0700><NOFACE>「考えときな」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0700><NOFACE>「생각해 둬요」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201206",
@@ -7774,9 +7774,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0002><FACE:01>（…くそっ！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0002><FACE:01>（…젠장!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20121e",
@@ -7791,9 +7791,9 @@
     ]
    ],
    "source": "（このまま負けっぱなしで、終わりたく\nねぇ…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（이대로 지기만 하다가\n끝내고 싶진 않아…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20124d",
@@ -7808,9 +7808,9 @@
     ]
    ],
    "source": "（とはいえ、このコンビを相手に二対一\nじゃ…俺が勝つ可能性はゼロ！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（하지만 이 콤비와 2대1로는…\n내가 이길 가능성은 제로!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201292",
@@ -7825,9 +7825,9 @@
     ]
    ],
    "source": "（負けてても、引き下がるしかねぇ…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（지고 있어도 물러설 수밖에…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2012b8",
@@ -7842,9 +7842,9 @@
     ]
    ],
    "source": "<PORTR:6363><FACE:1e>「そこ…俺が入ってもいいかい？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><FACE:1e>「거기… 내가 끼어도 되겠나?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2012df",
@@ -7859,9 +7859,9 @@
     ]
    ],
    "source": "<PORTR:0002><FACE:01>「…⁉」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0002><FACE:01>「…⁉」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2012ee",
@@ -7876,9 +7876,9 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:0500><FACE:05>「………」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><PORTL:0500><FACE:05>「………」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201302",
@@ -7893,9 +7893,9 @@
     ]
    ],
    "source": "<PORTR:0004><FACE:01>（房州さん…！）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:02><C_B2:01><SETF:02>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0004><FACE:01>（보슈 씨…!）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:02><C_B2:01><SETF:02>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201327",
@@ -7910,9 +7910,9 @@
     ]
    ],
    "source": "<SE:04><WIN:0201><PORTR:0700><PAGE><FACE:07>（俺たちは、生まれてからずっと一緒…\n麻雀では六年コンビを組んでる…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:04><WIN:0201><PORTR:0700><PAGE><FACE:07>（우린 태어나서부터 쭉 함께…\n마작 콤비만 6년째지…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201379",
@@ -7927,9 +7927,9 @@
     ]
    ],
    "source": "<PORTL:0800><FACE:08>（この新宿で、俺たちの前にひれ伏さな\nかった奴は誰一人としていねぇんだ！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0800><FACE:08>（이 신주쿠에서 우리 앞에\n무릎 안 꿇은 놈은 없다고!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2013c9",
@@ -7944,9 +7944,9 @@
     ]
    ],
    "source": "<PORTR:0000><PORTL:0501><FACE:05>（…この双子を倒せないようなら、おめ\nぇはここ止まり…先は無ぇ）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0000><PORTL:0501><FACE:05>（…이 쌍둥이를 못 꺾는다면\n넌 여기까지야… 앞날은 없어）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201412",
@@ -7961,9 +7961,9 @@
     ]
    ],
    "source": "（おめぇは問われている…勝負師として\nの器が…！）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:02><C_B2:01><SETF:02>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（넌 지금 시험받고 있어…\n승부사로서의 그릇이…!）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:02><C_B2:01><SETF:02>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201453",
@@ -7978,9 +7978,9 @@
     ]
    ],
    "source": "<SE:08><WIN:0201><PORTR:0701><PAGE><FACE:07>「てめぇ、さっきから何やってんだ！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:08><WIN:0201><PORTR:0701><PAGE><FACE:07>「네놈, 아까부터\n뭐 하는 짓이냐!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201484",
@@ -7995,9 +7995,9 @@
     ]
    ],
    "source": "「俺の足ばっかり引っ張りやがって！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「자꾸 내 발목만 잡아 대고!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2014aa",
@@ -8012,9 +8012,9 @@
     ]
    ],
    "source": "<PORTL:0801><FACE:08>「だ、だってよ…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0801><FACE:08>「하, 하지만…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2014c3",
@@ -8029,9 +8029,9 @@
     ]
    ],
    "source": "<FACE:07>「だってもクソもねぇ！　だいたいお前\nは…！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:07>「하지만이고 나발이고! 애초에\n너는…!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2014f4",
@@ -8046,9 +8046,9 @@
     ]
    ],
    "source": "<PORTL:0501><FACE:05>「やれやれ、兄弟ゲンカか」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0501><FACE:05>「원 참, 형제 싸움인가」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201515",
@@ -8063,9 +8063,9 @@
     ]
    ],
    "source": "<PORTR:0004><FACE:01>「あんたら…今日は帰った方がいいんじ\nゃねぇのか」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0004><FACE:01>「당신들… 오늘은 돌아가는 게\n좋지 않겠냐」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20154d",
@@ -8080,9 +8080,9 @@
     ]
    ],
    "source": "<PORTR:0701><PORTL:0801><FACE:07>「…くそっ！　運が良かったな坊主！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0701><PORTL:0801><FACE:07>「…젠장! 운이 좋았다, 꼬마!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20157b",
@@ -8097,9 +8097,9 @@
     ]
    ],
    "source": "<PORTR:6363><FACE:08>「待ってくれよ、兄貴！」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:6363><FACE:08>「기다려 줘, 형님!」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20159a",
@@ -8114,9 +8114,9 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0000><FACE:01>（運なんかじゃねぇ…力だ…！）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:6363><PORTR:0000><FACE:01>（운 따위 아냐… 힘이다…!）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2015c2",
@@ -8131,9 +8131,9 @@
     ]
    ],
    "source": "<PORTL:0501><FACE:05>（こいつ…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTL:0501><FACE:05>（이 녀석…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2015d5",
@@ -8148,9 +8148,9 @@
     ]
    ],
    "source": "（勝負師としての、底が知れねぇ…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "（승부사로서의 바닥이\n보이질 않아…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2015f9",
@@ -8165,9 +8165,9 @@
     ]
    ],
    "source": "<PAGE2><PORTR:6363><PORTL:6363><WIN:1c01><WAIT:3c><WAIT:3c><PAGE>この日…新宿に最強コンビが誕生した。<CLR><PAGE2><BGM:01><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE2><PORTR:6363><PORTL:6363><WIN:1c01><WAIT:3c><WAIT:3c><PAGE>이날… 신주쿠에\n최강 콤비가 탄생했다.<CLR><PAGE2><BGM:01><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201748",
@@ -8182,9 +8182,9 @@
     ]
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0903><SE:2d><WAIT:3c><PORTL:1800><PAGE><FACE:19>「いらっしゃい…あら」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:2c><WAIT:3c><WIN:0903><SE:2d><WAIT:3c><PORTL:1800><PAGE><FACE:19>「어서 와… 어머」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201771",
@@ -8199,9 +8199,9 @@
     ]
    ],
    "source": "「打ちに行くんじゃなかったの？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「치러 가는 거 아니었어?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201793",
@@ -8216,9 +8216,9 @@
     ]
    ],
    "source": "<PORTR:0000><FACE:01>「ん…ああ。行ってくるよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0000><FACE:01>「응… 그래. 갔다 올게」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2017b4",
@@ -8233,9 +8233,9 @@
     ]
    ],
    "source": "<FACE:19>「…そう」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:19>「…그래」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2017e4",
@@ -8250,9 +8250,9 @@
     ]
    ],
    "source": "<WIN:0c03><PORTR:0000><PAGE><FACE:01>「…まだ、寝るには早ぇよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<WIN:0c03><PORTR:0000><PAGE><FACE:01>「…아직 자긴 이르다고」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201809",
@@ -8267,9 +8267,9 @@
     ]
    ],
    "source": "「打ちに行くぜ」<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「치러 간다」<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20182c",
@@ -8284,9 +8284,9 @@
     ]
    ],
    "source": "<PAGE>「何か用かい、兄ちゃん？」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「무슨 볼일이야, 형씨?」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201850",
@@ -8301,9 +8301,9 @@
     ]
    ],
    "source": "<PAGE>「あぁ…腹減ったな…」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「아아… 배고프다…」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201870",
@@ -8318,9 +8318,9 @@
     ]
    ],
    "source": "<PAGE>「最近、このあたりにコンビ打ちの玄人\nが来るらしい…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「요즘 이 근처에 콤비 마작을\n치는 바이닌이 온다더군…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2018a8",
@@ -8335,9 +8335,9 @@
     ]
    ],
    "source": "「この雀荘には、いなかったぜ」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「이 작장엔 없었어」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2018d4",
@@ -8352,9 +8352,9 @@
     ]
    ],
    "source": "<PORTR:0500><PAGE><FACE:05>「コンビで打つと対局が有利になる…」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0500><PAGE><FACE:05>「콤비로 치면\n대국이 유리해지지…」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201900",
@@ -8369,9 +8369,9 @@
     ]
    ],
    "source": "「コンビで打ってるときに、{L}ボタンで\nメニューを開くと【通し】が使えるぜ」<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「콤비로 칠 때 {L}버튼으로 메뉴를\n열면【통신】을 쓸 수 있어」<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "20195c",
@@ -8386,9 +8386,9 @@
     ]
    ],
    "source": "<JIF2:0001><PAGE>「向こうの竹やぶに竹たけかけた」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<JIF2:0001><PAGE>「건넛집 대숲에 대 기대 뒀대」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201982",
@@ -8403,9 +8403,9 @@
     ]
    ],
    "source": "「向こうの竹やぶに竹たけかけた」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「건넛집 대숲에 대 기대 뒀대」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2019a4",
@@ -8420,9 +8420,9 @@
     ]
    ],
    "source": "「向こうの竹やぶに竹だけうめた」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「건넛집 대숲에 대 묻어 뒀대」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2019c6",
@@ -8437,9 +8437,9 @@
     ]
    ],
    "source": "「向こうの竹やぶに本だけうめた」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「건넛집 대숲에 책 묻어 뒀대」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2019e8",
@@ -8454,9 +8454,9 @@
     ]
    ],
    "source": "「…？」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「…?」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "2019f5",
@@ -8471,9 +8471,9 @@
     ]
    ],
    "source": "<PAGE>「向こうの竹やぶに竹たけかけた」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「건넛집 대숲에 대 기대 뒀대」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201a18",
@@ -8488,9 +8488,9 @@
     ]
    ],
    "source": "「向こうの竹やぶに竹たけ…？」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「건넛집 대숲에 대 기대…?」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201a38",
@@ -8505,9 +8505,9 @@
     ]
    ],
    "source": "「早口言葉って難しいな」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「잰말놀이란 거 어렵군」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201a78",
@@ -8522,9 +8522,9 @@
     ]
    ],
    "source": "<PAGE>「らっしゃい～安くしとくよ～」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「어서 옵쇼~ 싸게 드려요~」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201aa0",
@@ -8539,9 +8539,9 @@
     ]
    ],
    "source": "<PAGE>「兄さん、ちょっと飲んでってよ」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「형씨, 한잔하고 가요」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201ac3",
@@ -8556,9 +8556,9 @@
     ]
    ],
    "source": "「カストリ、おでん、にこみ、なんでもあるよ」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「카스토리, 오뎅, 니코미,\n뭐든 있어요」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201afc",
@@ -8573,9 +8573,9 @@
     ]
    ],
    "source": "<PAGE>「…俺も帰って、酒が飲みてぇよ」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「…나도 집에 가서\n술이나 마시고 싶군」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201b28",
@@ -8590,9 +8590,9 @@
     ]
    ],
    "source": "<PAGE>「飲みねえ！　食いねえ！」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「마셔! 먹어!」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201b4c",
@@ -8607,9 +8607,9 @@
     ]
    ],
    "source": "<PAGE>「………」\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>「………」\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201b59",
@@ -8624,9 +8624,9 @@
     ]
    ],
    "source": "「…ヒック」<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "「…딸꾹」<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201b74",
@@ -8641,9 +8641,9 @@
     ]
    ],
    "source": "<PAGE><FACE:01>（…この店で打とうかな）<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE><FACE:01>（…이 가게에서 쳐 볼까）<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201b98",
@@ -8658,9 +8658,9 @@
     ]
    ],
    "source": "<JIF2:0203><JIF:0c02><JIF:0b01><PAGE><FACE:01>（…ただのツボか）<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<JIF2:0203><JIF:0c02><JIF:0b01><PAGE><FACE:01>（…그냥 항아리인가）<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201bbb",
@@ -8675,9 +8675,9 @@
     ]
    ],
    "source": "<FLAG:0c><PAGE><FACE:01>（…『見るだけで麻雀が強くなるツボ』\nか…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FLAG:0c><PAGE><FACE:01>（…『보기만 해도 마작이 세지는\n항아리』인가…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201bed",
@@ -8692,9 +8692,9 @@
     ]
    ],
    "source": "<NOFACE>哲也はツボを見た<SE:1d><CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<NOFACE>테쯔야는 항아리를 보았다<SE:1d><CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201c05",
@@ -8709,9 +8709,9 @@
     ]
    ],
    "source": "<PAGE><FACE:01>（…今日はもう見たぜ）<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE><FACE:01>（…오늘은 이미 봤어）<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201c23",
@@ -8726,9 +8726,9 @@
     ]
    ],
    "source": "<PAGE><FACE:01>（…ツボだ）<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE><FACE:01>（…항아리다）<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201c4c",
@@ -8743,9 +8743,9 @@
     ]
    ],
    "source": "<PAGE>『カン、ビン　捨てるべからず』<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>『깡통・병 버리지 말 것』<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201c74",
@@ -8760,9 +8760,9 @@
     ]
    ],
    "source": "<PAGE>『火の用心』<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE>『불조심』<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201c8c",
@@ -8777,9 +8777,9 @@
     ]
    ],
    "source": "<PORTR:0001><PAGE><FACE:01>（賽銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PORTR:0001><PAGE><FACE:01>（새전함인가…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201cac",
@@ -8794,9 +8794,9 @@
     ]
    ],
    "source": "<PAGE><JIF2:0001><FACE:01>（ん…これは…）\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<PAGE><JIF2:0001><FACE:01>（응… 이건…）\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201cc4",
@@ -8811,9 +8811,9 @@
     ]
    ],
    "source": "<SE:07><C_C1:00><NOFACE>『玄人文庫（上）』を手に入れた<WAIT:3c><WAIT:3c><SE:0a><CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<SE:07><C_C1:00><NOFACE>『바이닌 문고(상)』을\n손에 넣었다<WAIT:3c><WAIT:3c><SE:0a><CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   },
   {
    "id": "201cf2",
@@ -8828,9 +8828,9 @@
     ]
    ],
    "source": "<FACE:01>（何もねぇな）<CLR><PAGE2><RESET>\n<END>",
-   "target": "",
-   "state": "untranslated",
-   "notes": ""
+   "target": "<FACE:01>（아무것도 없군）<CLR><PAGE2><RESET>\n<END>",
+   "state": "translated",
+   "notes": "draft:b02p0.json"
   }
  ]
 }
