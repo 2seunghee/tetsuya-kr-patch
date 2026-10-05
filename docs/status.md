@@ -1,29 +1,35 @@
-# 현재 상태 (2026-10-05)
+# 현재 상태 (2026-10-05, 1차 전량 초벌 완료)
 
 ## 대상과 지원 원본
 
 - Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan).gba — 헤더 TETSUYA/ATYJ/E7, 8 MiB,
   SHA-256 `65e8eb749a88c18c02ea8bf783b62f0cd7a39f0e38f550e7be124172016c08bd` (유일한 지원 원본, `config/build.json`).
-- 산출물: `out/tetsuya-kr.gba`(16 MiB) + `out/tetsuya-kr.ips` + `out/build-report.json`. 현재 빌드는 **개발 정책(비배포)**.
+- 산출물(개발 정책, **비배포**): `out/tetsuya-kr.gba`(16 MiB) + `out/tetsuya-kr.ips` + `out/build-report.json`
+  (`evidence/build-report-dev-20261005.json`에 사본). 빌드 명령 `python tools/build.py --policy development`.
 
-## 확립된 사실 (근거: `research/text-engine-20261005.md`)
+## 확립된 사실
 
-- 본편 대사는 단일 엔진(`0x080325e0`)이 11개 bank → sub → message 포인터 계층으로 읽는 2바이트 글리프 코드 스트림이다.
-- 글리프 966개(16×16 8bpp, 12px 피치, 18칸×2줄)는 `config/glyph_table.json`으로 전부 식별했다.
-- 모집단: 고유 메시지 2,564개 / 40,799자(정확값). 추출 `tools/extract_script.py` → `assets/translation/`.
+- 대사 엔진(`0x080325e0`): 11 bank → sub → message 포인터 계층, 2바이트 BE 글리프 코드 + 고정폭 제어코드, 0xFD/0xFF 종료, 0xFE 줄바꿈.
+  글리프 966개(16×16 8bpp, 12px 피치, 18칸×2줄)를 `config/glyph_table.json`으로 전부 식별(전사 오류 21건은 용어집 에이전트의 문맥 검토로 교정).
+- 모집단: 고유 메시지 **2,564개 / 40,799자**(정확값). 대사 엔진 밖 텍스트(G-01~G-06)는 `research/runtime-survey-20261005.md` 참조.
 
-## 채택한 설계 (사람 승인 대기: `docs/decisions.md`)
+## 번역 상태
 
-- 16 MiB 확장, 글리프 bank 테이블 재배치(리터럴 2곳), 새 코드 0x400~ (최대 3072 글리프), 메시지 전체 재배치(포인터 테이블만 수정).
-- 글꼴 Galmuri11(OFL) → 1px 그림자 합성. 번역 검사 `tools/validate_translation.py`, 빌드 `tools/build.py`(Expected Write 검증 + IPS).
+- 2,564 / 2,564 메시지 `translated`(에이전트 초벌, 23개 청크, 용어집 `assets/translation/glossary.md` 기준; 인명·용어는 나무위키
+  「마작의 제왕 테쯔야」 정발 표기 우선). 기계 검사(제어·괄호 토큰 보존, 종료자, 2줄×18칸, 글리프 공급) **전량 통과**.
+- 사람 검수는 아직 없음: 의미·말투·용어 일관성(단치의 ~슴다/~임다 표기, 『바이닌 문고』 조사, 잰말놀이 창작 등 에이전트가 보고한 불확실 지점)은
+  `drafts/` 보고서 요지를 `research/translation-notes-20261005.md`에 모아 둔다. 상태는 `translated`이며 `approved`로 올리기 전엔 릴리스 후보가 아니다.
 
-## 검증 상태
+## 빌드·검증 상태
 
-- PoC 통과(`research/poc-20261005.md`): 프롤로그 3메시지가 실제 경로에서 한글로 표시(emucap/Mesen2, `work/emucap/poc1`).
-- 미검증: 선택지·분기 메시지의 재배치, {BLK} 동적 타일 토큰 표시, 글리프 예산 상한, 실기.
+- 빌드: 2,564 메시지 재배치, 새 글리프 839개(bank 4~7), 확장 320,806바이트, Expected Write 2,566건(원본 영역 7,686바이트 변경: 포인터 슬롯 + 리터럴 2곳),
+  최종 diff 전수 대조 통과. 산출물 SHA-256은 build-report 참조.
+- 실행 관측(emucap/MesenCE, 원본 BIOS): 프롤로그·시장 장면의 한글 표시 확인(`work/emucap/dev1`, `dev2`, `dev3`). 선택지·{BLK} 타일 토큰·분기 메시지의
+  실행 관측은 아직 부분적(필드 초반까지). 긴 연속 입력에서 emucap `cleanup_failed`가 산발적으로 발생해 재시도 로직을 추가함.
 
 ## 미해결 조건과 다음 행동
 
-1. 대사 엔진 밖 텍스트(타이틀 메뉴, 자막, 마작 UI·역 이름·점수)의 소비 경로 — 실행 스크린샷으로 목록화 중(`work/emucap/survey1`).
-2. 번역 초벌: 용어집(`assets/translation/glossary.md`) 생성 후 bank 단위 병렬 초벌 → `drafts/` → `tools/merge_drafts.py` → 검사 → 빌드 → 실행 관측.
-3. 사람 결정 대기: 글꼴·확장·범위·용어(DEC-001~004). 그 사이 번역·빌드·관측은 개발 정책으로 진행.
+1. 사람 검수(DEC-003): 번역 품질·용어·말투 승인 → `reviewed/approved` 전환 → 릴리스 정책 빌드.
+2. 실행 QA 확장: 선택지(퀴즈), {BLK} 타일 토큰, 분기(0x70~0x73) 메시지, 1947년 이후 장면, 엔딩까지의 경로. 세이브 스테이트 분할로 긴 경로를 안정화.
+3. 대사 엔진 밖 텍스트(명판 소형 폰트, 메뉴 그래픽, 타이틀 자막) 범위 결정(DEC-005 신설 필요) — 현재 일본어 그대로 남음.
+4. 실기·다른 에뮬레이터(mGBA 등) 호환 확인(16 MiB 확장 ROM).
