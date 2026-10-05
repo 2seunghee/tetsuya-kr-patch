@@ -3111,7 +3111,7 @@
      10
     ]
    ],
-   "source": "<FACE:05>「十二までの敷宇…言ってみな」\n<END>",
+   "source": "<FACE:05>「十二までの数字…言ってみな」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -3519,7 +3519,7 @@
      34
     ]
    ],
-   "source": "「俺は今がピークなんだ…いずれ哀える\n…」\n<END>",
+   "source": "「俺は今がピークなんだ…いずれ衰える\n…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -4267,7 +4267,7 @@
      29
     ]
    ],
-   "source": "<WIN:0002><NOFACE><PORTR:6363><PORTL:0501><FACE:05>『俺は今がピークなんだ…いずれ哀える\n…』\n<END>",
+   "source": "<WIN:0002><NOFACE><PORTR:6363><PORTL:0501><FACE:05>『俺は今がピークなんだ…いずれ衰える\n…』\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -4284,7 +4284,7 @@
      30
     ]
    ],
-   "source": "<NOFACE><PORTL:0504><WIN:0102><PORTR:0002><FACE:01>（サイの目をしくじったぐらいで哀えた\nなんて考えてるんじゃねぇだろうな！）\n<END>",
+   "source": "<NOFACE><PORTL:0504><WIN:0102><PORTR:0002><FACE:01>（サイの目をしくじったぐらいで衰えた\nなんて考えてるんじゃねぇだろうな！）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -5848,7 +5848,7 @@
      0
     ]
    ],
-   "source": "<PORTR:0001><PAGE><FACE:01>（春銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "source": "<PORTR:0001><PAGE><FACE:01>（賽銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

@@ -9535,7 +9535,7 @@
      22
     ]
    ],
-   "source": "<NOFACE><PORTR:0100><PORTL:6363><FACE:01>「麻雀には強い奴と上手い奴がいるが…\n強い奴が一着なんだ」\n<END>",
+   "source": "<NOFACE><PORTR:0100><PORTL:6363><FACE:01>「麻雀には強い奴と上手い奴がいるが…\n強い奴が一番なんだ」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -10674,7 +10674,7 @@
      11
     ]
    ],
-   "source": "「…なんだい、遠虚することないのに」\n<END>",
+   "source": "「…なんだい、遠慮することないのに」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -13309,7 +13309,7 @@
      66
     ]
    ],
-   "source": "「やっぱり俺たちって緑があるんスかね\n哲さん？」\n<END>",
+   "source": "「やっぱり俺たちって縁があるんスかね\n哲さん？」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -13343,7 +13343,7 @@
      68
     ]
    ],
-   "source": "「緑は緑でも、腐れ緑だ」\n<END>",
+   "source": "「縁は縁でも、腐れ縁だ」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -14074,7 +14074,7 @@
      1
     ]
    ],
-   "source": "<BGM:01><PAGE2><PORTR:6363><WIN:1502><SE:23><WAIT:3c><PAGE><FACE:05>『金は、春銭箱に入らなかったな』\n<END>",
+   "source": "<BGM:01><PAGE2><PORTR:6363><WIN:1502><SE:23><WAIT:3c><PAGE><FACE:05>『金は、賽銭箱に入らなかったな』\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

@@ -482,7 +482,7 @@
      2
     ]
    ],
-   "source": "<SE:00><WIN:0102>『…この辺で一着強い麻雀打ち？』\n<END>",
+   "source": "<SE:00><WIN:0102>『…この辺で一番強い麻雀打ち？』\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -1922,7 +1922,7 @@
      17
     ]
    ],
-   "source": "<C_C0:06><PORTR:0b00><PAGE><FACE:0b>「このダンチ様は一晩で九速宝燈を二回\nアガったことがあんだぜ、二回よ！」\n<END>",
+   "source": "<C_C0:06><PORTR:0b00><PAGE><FACE:0b>「このダンチ様は一晩で九連宝燈を二回\nアガったことがあんだぜ、二回よ！」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -2126,7 +2126,7 @@
      29
     ]
    ],
-   "source": "「一晩で九速宝燈を…」\n<END>",
+   "source": "「一晩で九連宝燈を…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -4965,7 +4965,7 @@
      46
     ]
    ],
-   "source": "「本気で闘って…本気で奴を浪す」\n<END>",
+   "source": "「本気で闘って…本気で奴を潰す」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -7753,7 +7753,7 @@
      17
     ]
    ],
-   "source": "「なんでも、一晩で九速宝燈を二回だか\n三回だかアガったとかいう…」\n<END>",
+   "source": "「なんでも、一晩で九連宝燈を二回だか\n三回だかアガったとかいう…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8127,7 +8127,7 @@
      5
     ]
    ],
-   "source": "「貼り紙には何と者いてあるかな？」\n　火の用心　　　　一日一善<CHOICE:020c>\n<END>",
+   "source": "「貼り紙には何と書いてあるかな？」\n　火の用心　　　　一日一善<CHOICE:020c>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8365,7 +8365,7 @@
      19
     ]
    ],
-   "source": "「そこの神社に春銭箱があるが、みた\nことはあるかのう？」\n<END>",
+   "source": "「そこの神社に賽銭箱があるが、みた\nことはあるかのう？」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8382,7 +8382,7 @@
      20
     ]
    ],
-   "source": "「さて、今春銭箱はどうなっとる？」\n　カラッポ　　　　金でいっぱい<CHOICE:050c>\n<END>",
+   "source": "「さて、今賽銭箱はどうなっとる？」\n　カラッポ　　　　金でいっぱい<CHOICE:050c>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8416,7 +8416,7 @@
      22
     ]
    ],
-   "source": "「ワシもよくお春銭を入れるのじゃが、\n悪い人がもって行くのかのう？」\n<END>",
+   "source": "「ワシもよくお賽銭を入れるのじゃが、\n悪い人がもって行くのかのう？」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8909,7 +8909,7 @@
      51
     ]
    ],
-   "source": "「九速がなんだとか言ってたのう…」\n<END>",
+   "source": "「九連がなんだとか言ってたのう…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

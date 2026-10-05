@@ -540,7 +540,7 @@
      31
     ]
    ],
-   "source": "「千業の方じゃあ、相当景気のいい博奕\n打ってるに違いないっス」\n<END>",
+   "source": "「千葉の方じゃあ、相当景気のいい博奕\n打ってるに違いないっス」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -812,7 +812,7 @@
      47
     ]
    ],
-   "source": "「…おい、小憎」\n<END>",
+   "source": "「…おい、小僧」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -965,7 +965,7 @@
      56
     ]
    ],
-   "source": "<BGM:01><PAGE2><WAIT:3c><SE:2a><WAIT:3c><PAGE><FACE:01>（…こ、この小憎…！）\n<END>",
+   "source": "<BGM:01><PAGE2><WAIT:3c><SE:2a><WAIT:3c><PAGE><FACE:01>（…こ、この小僧…！）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -1016,7 +1016,7 @@
      59
     ]
    ],
-   "source": "<PAGE2><WIN:0801><WAIT:1e><SE:05><PORTR:0100><PAGE><FACE:01>「おい、小憎」\n<END>",
+   "source": "<PAGE2><WIN:0801><WAIT:1e><SE:05><PORTR:0100><PAGE><FACE:01>「おい、小僧」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -1390,7 +1390,7 @@
      81
     ]
    ],
-   "source": "<FACE:01>「賭場でボーイの真似事やってた小憎が\n…積み込みはなっちゃいなかったけど」\n<END>",
+   "source": "<FACE:01>「賭場でボーイの真似事やってた小僧が\n…積み込みはなっちゃいなかったけど」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -2376,7 +2376,7 @@
      139
     ]
    ],
-   "source": "（そうだよな、房州さん…俺たちに言業\nなんか必要ねぇ）\n<END>",
+   "source": "（そうだよな、房州さん…俺たちに言葉\nなんか必要ねぇ）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -2903,7 +2903,7 @@
      170
     ]
    ],
-   "source": "<PAGE2><BGM:01><WIN:0d02><WAIT:3c><PAGE><FACE:05>「…両が…<WAIT:3c>来るなァ」\n<END>",
+   "source": "<PAGE2><BGM:01><WIN:0d02><WAIT:3c><PAGE><FACE:05>「…雨が…<WAIT:3c>来るなァ」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -3209,7 +3209,7 @@
      7
     ]
    ],
-   "source": "<C_D0:01><PORTL:0b04><PAGE><FACE:0b>（あ…両か…）\n<END>",
+   "source": "<C_D0:01><PORTL:0b04><PAGE><FACE:0b>（あ…雨か…）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -3226,7 +3226,7 @@
      8
     ]
    ],
-   "source": "<PORTL:0b01><FACE:0b>「哲さん、両っスよ、両…戻りましょ」\n<END>",
+   "source": "<PORTL:0b01><FACE:0b>「哲さん、雨っスよ、雨…戻りましょ」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

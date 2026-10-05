@@ -5,41 +5,9 @@
  "glyph_format": "16x16 8bpp, four 8x8 tiles (TL,TR,BL,BR), 256 bytes per glyph, drawn at a 12px pitch",
  "note": "Identity established by visual transcription of rendered glyphs. Tokens in braces are icon/blank glyphs.",
  "duplicates": {
-  "着": [
-   "0f4",
-   "278"
-  ],
-  "速": [
-   "197",
-   "2de"
-  ],
-  "両": [
-   "1b5",
-   "355"
-  ],
-  "浪": [
-   "1c7",
-   "2df"
-  ],
-  "業": [
-   "1ca",
-   "36f"
-  ],
   "壁": [
    "1ec",
    "394"
-  ],
-  "貧": [
-   "201",
-   "33d"
-  ],
-  "者": [
-   "20d",
-   "388"
-  ],
-  "腰": [
-   "279",
-   "354"
   ]
  },
  "codes": {
@@ -1020,7 +988,7 @@
    "glyph_offset": "0x45ddfc"
   },
   "0f4": {
-   "text": "着",
+   "text": "番",
    "glyph_offset": "0x45defc"
   },
   "0f5": {
@@ -1452,7 +1420,7 @@
    "glyph_offset": "0x464bfc"
   },
   "160": {
-   "text": "粗",
+   "text": "狙",
    "glyph_offset": "0x464cfc"
   },
   "161": {
@@ -1516,7 +1484,7 @@
    "glyph_offset": "0x465bfc"
   },
   "170": {
-   "text": "春",
+   "text": "賽",
    "glyph_offset": "0x465cfc"
   },
   "171": {
@@ -1672,7 +1640,7 @@
    "glyph_offset": "0x4682fc"
   },
   "197": {
-   "text": "速",
+   "text": "連",
    "glyph_offset": "0x4683fc"
   },
   "198": {
@@ -1792,7 +1760,7 @@
    "glyph_offset": "0x46a0fc"
   },
   "1b5": {
-   "text": "両",
+   "text": "雨",
    "glyph_offset": "0x46a1fc"
   },
   "1b6": {
@@ -1864,7 +1832,7 @@
    "glyph_offset": "0x46b2fc"
   },
   "1c7": {
-   "text": "浪",
+   "text": "潰",
    "glyph_offset": "0x46b3fc"
   },
   "1c8": {
@@ -2096,7 +2064,7 @@
    "glyph_offset": "0x46eefc"
   },
   "201": {
-   "text": "貧",
+   "text": "貴",
    "glyph_offset": "0x46effc"
   },
   "202": {
@@ -2328,7 +2296,7 @@
    "glyph_offset": "0x4728fc"
   },
   "23b": {
-   "text": "捉",
+   "text": "掟",
    "glyph_offset": "0x4729fc"
   },
   "23c": {
@@ -2576,7 +2544,7 @@
    "glyph_offset": "0x4766fc"
   },
   "279": {
-   "text": "腰",
+   "text": "履",
    "glyph_offset": "0x4767fc"
   },
   "27a": {
@@ -2656,11 +2624,11 @@
    "glyph_offset": "0x477afc"
   },
   "28d": {
-   "text": "敷",
+   "text": "数",
    "glyph_offset": "0x477bfc"
   },
   "28e": {
-   "text": "宇",
+   "text": "字",
    "glyph_offset": "0x477cfc"
   },
   "28f": {
@@ -2720,7 +2688,7 @@
    "glyph_offset": "0x478afc"
   },
   "29d": {
-   "text": "哀",
+   "text": "衰",
    "glyph_offset": "0x478bfc"
   },
   "29e": {
@@ -3240,7 +3208,7 @@
    "glyph_offset": "0x480efc"
   },
   "31f": {
-   "text": "虚",
+   "text": "慮",
    "glyph_offset": "0x480ffc"
   },
   "320": {
@@ -3316,7 +3284,7 @@
    "glyph_offset": "0x4821fc"
   },
   "332": {
-   "text": "緑",
+   "text": "縁",
    "glyph_offset": "0x4822fc"
   },
   "333": {
@@ -3360,7 +3328,7 @@
    "glyph_offset": "0x482cfc"
   },
   "33d": {
-   "text": "貧",
+   "text": "賃",
    "glyph_offset": "0x482dfc"
   },
   "33e": {
@@ -3368,7 +3336,7 @@
    "glyph_offset": "0x482efc"
   },
   "33f": {
-   "text": "鼠",
+   "text": "息",
    "glyph_offset": "0x482ffc"
   },
   "340": {
@@ -3492,7 +3460,7 @@
    "glyph_offset": "0x484dfc"
   },
   "35e": {
-   "text": "備",
+   "text": "儀",
    "glyph_offset": "0x484efc"
   },
   "35f": {
@@ -3560,7 +3528,7 @@
    "glyph_offset": "0x485efc"
   },
   "36f": {
-   "text": "業",
+   "text": "葉",
    "glyph_offset": "0x485ffc"
   },
   "370": {
@@ -3572,7 +3540,7 @@
    "glyph_offset": "0x4861fc"
   },
   "372": {
-   "text": "憎",
+   "text": "僧",
    "glyph_offset": "0x4862fc"
   },
   "373": {
@@ -3660,7 +3628,7 @@
    "glyph_offset": "0x4877fc"
   },
   "388": {
-   "text": "者",
+   "text": "書",
    "glyph_offset": "0x4878fc"
   },
   "389": {

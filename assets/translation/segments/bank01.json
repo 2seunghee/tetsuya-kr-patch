@@ -557,7 +557,7 @@
      2
     ]
    ],
-   "source": "（ここは逆転でトップを粗える手を…\nいや、それ以上のでかいヤツが欲しい）\n<END>",
+   "source": "（ここは逆転でトップを狙える手を…\nいや、それ以上のでかいヤツが欲しい）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -2546,7 +2546,7 @@
      28
     ]
    ],
-   "source": "「この春銭箱に金を入れるか入れねぇか\nってのは…どうだ？」\n<END>",
+   "source": "「この賽銭箱に金を入れるか入れねぇか\nってのは…どうだ？」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -2835,7 +2835,7 @@
      45
     ]
    ],
-   "source": "<PORTL:0500><FACE:05>「じいさんの金は、春銭箱に入らなかっ\nたな」\n<END>",
+   "source": "<PORTL:0500><FACE:05>「じいさんの金は、賽銭箱に入らなかっ\nたな」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -3073,7 +3073,7 @@
      59
     ]
    ],
-   "source": "「あのじいさんから金をふんだくってで\nも、春銭箱に金を入れただろう」\n<END>",
+   "source": "「あのじいさんから金をふんだくってで\nも、賽銭箱に金を入れただろう」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -3481,7 +3481,7 @@
      1
     ]
    ],
-   "source": "<PORTL:6363><PORTR:0002><FACE:01>（こんな時に限って、一着ヤバそうな卓\nが空いてやがる…）\n<END>",
+   "source": "<PORTL:6363><PORTR:0002><FACE:01>（こんな時に限って、一番ヤバそうな卓\nが空いてやがる…）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -4535,7 +4535,7 @@
      17
     ]
    ],
-   "source": "<C_C0:02><SE:0a><PORTR:0501><PAGE><FACE:05>「おい、坊主。この両の中、お使いかい\n？」\n<END>",
+   "source": "<C_C0:02><SE:0a><PORTR:0501><PAGE><FACE:05>「おい、坊主。この雨の中、お使いかい\n？」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -5232,7 +5232,7 @@
      13
     ]
    ],
-   "source": "「博奕ってのは、いわば心理戦。自分よ\nり弱ぇと思えば、浪しにかかる…」\n<END>",
+   "source": "「博奕ってのは、いわば心理戦。自分よ\nり弱ぇと思えば、潰しにかかる…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -6337,7 +6337,7 @@
      12
     ]
    ],
-   "source": "（今度は、俺がやってやる着だ…！）\n<END>",
+   "source": "（今度は、俺がやってやる番だ…！）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -6405,7 +6405,7 @@
      16
     ]
    ],
-   "source": "「…明日は両かなァ…」\n<END>",
+   "source": "「…明日は雨かなァ…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -7221,7 +7221,7 @@
      3
     ]
    ],
-   "source": "「対局中の残りツモ牌敷が少なくなると\n左手芸が使えなくなるぞ」<CLR><UNFLAG:01><UNFLAG:02><PAGE2><PORTR:6363><RESET>\n<END>",
+   "source": "「対局中の残りツモ牌数が少なくなると\n左手芸が使えなくなるぞ」<CLR><UNFLAG:01><UNFLAG:02><PAGE2><PORTR:6363><RESET>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -7612,7 +7612,7 @@
      0
     ]
    ],
-   "source": "<PORTR:0001><PAGE><FACE:01>（春銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "source": "<PORTR:0001><PAGE><FACE:01>（賽銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

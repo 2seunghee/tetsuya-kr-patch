@@ -10552,7 +10552,7 @@
      57
     ]
    ],
-   "source": "「もうすぐ、家貧を払わなきゃいけない\nし…」\n<END>",
+   "source": "「もうすぐ、家賃を払わなきゃいけない\nし…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -12190,7 +12190,7 @@
      66
     ]
    ],
-   "source": "<PORTR:6363><PORTL:6363><SE:04><PORTR:0100><FACE:01>（相手が玄人なら遠虚はいらねぇ。この\n勝負…勝ちに行くぜ！）\n<END>",
+   "source": "<PORTR:6363><PORTL:6363><SE:04><PORTR:0100><FACE:01>（相手が玄人なら遠慮はいらねぇ。この\n勝負…勝ちに行くぜ！）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -14738,7 +14738,7 @@
      80
     ]
    ],
-   "source": "（こっちが鼠を合わせなきゃ、流れが向\nこうに行っちまう…）\n<END>",
+   "source": "（こっちが息を合わせなきゃ、流れが向\nこうに行っちまう…）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -20016,7 +20016,7 @@
      109
     ]
    ],
-   "source": "<FACE:10>「何しろ私たちの知り合いは、荒っぽい\n速中ばかりだからな」\n<END>",
+   "source": "<FACE:10>「何しろ私たちの知り合いは、荒っぽい\n連中ばかりだからな」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -25281,7 +25281,7 @@
      1
     ]
    ],
-   "source": "<BGM:01><PAGE2><PORTR:6363><WIN:1502><SE:23><WAIT:3c><PAGE><FACE:05>『金は、春銭箱に入らなかったな』\n<END>",
+   "source": "<BGM:01><PAGE2><PORTR:6363><WIN:1502><SE:23><WAIT:3c><PAGE><FACE:05>『金は、賽銭箱に入らなかったな』\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

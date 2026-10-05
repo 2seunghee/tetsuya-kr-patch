@@ -353,7 +353,7 @@
      7
     ]
    ],
-   "source": "<PORTL:0400><FACE:04>「そういうアンタが、一着キツいんだよ\nな」\n<END>",
+   "source": "<PORTL:0400><FACE:04>「そういうアンタが、一番キツいんだよ\nな」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

@@ -7535,7 +7535,7 @@
      31
     ]
    ],
-   "source": "（やばいぜ兄貧。こいつ、でかいのを\nテンパってる…）\n<END>",
+   "source": "（やばいぜ兄貴。こいつ、でかいのを\nテンパってる…）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -7654,7 +7654,7 @@
      38
     ]
    ],
-   "source": "<PORTL:0800><FACE:08>「兄貧の一人勝ちかよ。やってらんねぇ\nぜ」\n<END>",
+   "source": "<PORTL:0800><FACE:08>「兄貴の一人勝ちかよ。やってらんねぇ\nぜ」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8096,7 +8096,7 @@
      64
     ]
    ],
-   "source": "<PORTR:6363><FACE:08>「待ってくれよ、兄貧！」\n<END>",
+   "source": "<PORTR:6363><FACE:08>「待ってくれよ、兄貴！」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8504,7 +8504,7 @@
      7
     ]
    ],
-   "source": "「早口言業って難しいな」<CLR><PAGE2><RESET>\n<END>",
+   "source": "「早口言葉って難しいな」<CLR><PAGE2><RESET>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -8776,7 +8776,7 @@
      0
     ]
    ],
-   "source": "<PORTR:0001><PAGE><FACE:01>（春銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
+   "source": "<PORTR:0001><PAGE><FACE:01>（賽銭箱か…）<CLR><PAGE2><PORTR:6363><RESET>\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""

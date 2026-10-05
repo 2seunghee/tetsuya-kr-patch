@@ -1577,7 +1577,7 @@
      14
     ]
    ],
-   "source": "「いいんだ…玄人の捉ってもんさ」\n<END>",
+   "source": "「いいんだ…玄人の掟ってもんさ」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -1594,7 +1594,7 @@
      15
     ]
    ],
-   "source": "<PORTL:0002><FACE:01>「捉…？　どういうことだ房州さん」\n<END>",
+   "source": "<PORTL:0002><FACE:01>「掟…？　どういうことだ房州さん」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -1730,7 +1730,7 @@
      23
     ]
    ],
-   "source": "<PORTR:0900><FACE:09>「おもしれぇ。今日はオヒキを速れてこ\nの前の仇をとろうってか」\n<END>",
+   "source": "<PORTR:0900><FACE:09>「おもしれぇ。今日はオヒキを連れてこ\nの前の仇をとろうってか」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -2546,7 +2546,7 @@
      71
     ]
    ],
-   "source": "（周りで見ている速中もすべて敵だ…）\n<END>",
+   "source": "（周りで見ている連中もすべて敵だ…）\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
@@ -3821,7 +3821,7 @@
      146
     ]
    ],
-   "source": "<PORTL:0500><FACE:05>「いいや。でも、ほら…こいつは服も着\nてりゃズボンも腰いてる…」\n<END>",
+   "source": "<PORTL:0500><FACE:05>「いいや。でも、ほら…こいつは服も着\nてりゃズボンも履いてる…」\n<END>",
    "target": "",
    "state": "untranslated",
    "notes": ""
