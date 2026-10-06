@@ -1,0 +1,44 @@
+[
+ {
+  "id": "213d1f",
+  "kind": "awkward",
+  "why": "「승부에서 내려 있었다」는 상태 표현이 어색하므로 「내린 채였다」로 다듬음.",
+  "current": "<WIN:2802>（나는… 승부에서 내려 있었다…\n그러니 놈들을 못 이긴 거다…）\n<END>",
+  "proposed": "<WIN:2802>（나는… 승부에서 내린 채였다…\n그러니 놈들을 못 이긴 거다…）\n<END>"
+ },
+ {
+  "id": "214b7d",
+  "kind": "awkward",
+  "why": "213d1f와 동일 문장, 같은 수정.",
+  "current": "（나는… 승부에서 내려 있었다…\n그러니 놈들을 못 이긴 거다…）\n<END>",
+  "proposed": "（나는… 승부에서 내린 채였다…\n그러니 놈들을 못 이긴 거다…）\n<END>"
+ },
+ {
+  "id": "2141c0",
+  "kind": "layout",
+  "why": "「안 해/봐서」가 줄 끝에서 갈려 있어 어절 단위로 더 깔끔하게 나눔.",
+  "current": "<WIN:0603><SE:08><WAIT:3c><SE:2c><WAIT:3c><PORTL:1000><PAGE><FACE:10>「아이고, 집안 마작밖에 안 해\n봐서 긴장되네요」\n<END>",
+  "proposed": "<WIN:0603><SE:08><WAIT:3c><SE:2c><WAIT:3c><PORTL:1000><PAGE><FACE:10>「아이고, 집안 마작밖에\n안 해 봐서 긴장되네요」\n<END>"
+ },
+ {
+  "id": "214857",
+  "kind": "register",
+  "why": "단치는 마담에게 다른 장면에서 반말(「마담, 소개할게」)이므로 「맥주요」의 ~요가 어긋남.",
+  "current": "<SE:10><FACE:0b>「한참 찾았슴다!\n마담, 난 맥주요」\n<END>",
+  "proposed": "<SE:10><FACE:0b>「한참 찾았슴다!\n마담, 난 맥주」\n<END>"
+ },
+ {
+  "id": "2146b3",
+  "kind": "awkward",
+  "why": "なるほど를 「과연」으로 옮긴 일본어투이며, 다른 뱅크에서는 「그렇군」으로 통일됨.",
+  "current": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0901><WAIT:3c><PORTR:0100><PORTL:1400><PAGE><FACE:13>「…과연, 그런 수법이었나.\n쩨쩨한 노름이군」\n<END>",
+  "proposed": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0901><WAIT:3c><PORTR:0100><PORTL:1400><PAGE><FACE:13>「…그렇군, 그런 수법이었나.\n쩨쩨한 노름이야」\n<END>"
+ },
+ {
+  "id": "21461c",
+  "kind": "meaning",
+  "why": "所詮이 빠졌음. 다른 뱅크처럼 「어차피」를 살림.",
+  "current": "<SE:0a><WIN:0601><PORTR:0b05><PAGE><FACE:0b>「네놈들 마작은 싸구려 마술이다.\n초짜는 속일 수 있어도…」\n<END>",
+  "proposed": "<SE:0a><WIN:0601><PORTR:0b05><PAGE><FACE:0b>「네놈들 마작은 어차피 싸구려\n마술이다. 초짜는 속여도…」\n<END>"
+ }
+]

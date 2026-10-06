@@ -2164,7 +2164,7 @@
     ]
    ],
    "source": "<FACE:1b>「あんたら…それ飲んだら帰ってくれ」\n<END>",
-   "target": "<FACE:1b>「당신들… 그거 마시면\n돌아가 줘」\n<END>",
+   "target": "<FACE:1b>「당신들… 그거 다 마시고\n돌아가 줘」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -2959,7 +2959,7 @@
     ]
    ],
    "source": "<PORTR:0001><FACE:01>「三十時間ぶっ通しで打ってたからな。\nさすがにバテたよ」\n<END>",
-   "target": "<PORTR:0001><FACE:01>「30시간 내리 쳤으니까.\n아무래도 지쳤어」\n<END>",
+   "target": "<PORTR:0001><FACE:01>「30시간 내리 쳤으니까.\n역시 녹초가 됐어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3061,7 +3061,7 @@
     ]
    ],
    "source": "<PORTL:0501><FACE:05>「俺はさ…こいつさ。常にこいつを振っ\nてるんだ」\n<END>",
-   "target": "<PORTL:0501><FACE:05>「난 말이야… 이놈이지. 늘\n이놈을 굴리고 있거든」\n<END>",
+   "target": "<PORTL:0501><FACE:05>「난 말이야… 이놈이지.\n늘 이놈을 굴리고 있거든」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3384,7 +3384,7 @@
     ]
    ],
    "source": "<PORTR:0000><FACE:01>「…だって、昨日から何も食ってねぇん\nだ。何か食わなきゃ体に毒だ」\n<END>",
-   "target": "<PORTR:0000><FACE:01>「…어제부터 통 안 먹었잖아.\n안 먹으면 몸에 독이야」\n<END>",
+   "target": "<PORTR:0000><FACE:01>「…어제부터 통 안 먹었잖아.\n뭐라도 먹어야지, 몸 상한다고」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3622,7 +3622,7 @@
     ]
    ],
    "source": "<FACE:05>「じゃあ、四時間後…いつもの高架下で\nな」\n<END>",
-   "target": "<FACE:05>「그럼 4시간 뒤… 늘 보던\n고가 밑에서 보자고」\n<END>",
+   "target": "<FACE:05>「그럼 4시간 뒤… 늘 만나던\n고가 밑에서 보자고」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3843,7 +3843,7 @@
     ]
    ],
    "source": "<PORTR:0300><FACE:16>「なんだか、オッサンからアガってばか\nりで悪ぃな」\n<END>",
-   "target": "<PORTR:0300><FACE:16>「어쩐지 아저씨한테서만 자꾸\n화료해서 미안하구먼」\n<END>",
+   "target": "<PORTR:0300><FACE:16>「왠지 아저씨한테만 자꾸\n화료해서 미안하구먼」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3860,7 +3860,7 @@
     ]
    ],
    "source": "<PORTR:6363><FACE:05>「それにしても負けてるなァ。次にアガ\nっても原点に戻れねぇなァ」\n<END>",
-   "target": "<PORTR:6363><FACE:05>「그나저나 많이 졌네. 다음에\n나도 원점으론 못 돌아가겠어」\n<END>",
+   "target": "<PORTR:6363><FACE:05>「그나저나 많이 졌네. 다음에\n화료해도 원점으론 못 돌아가겠어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3928,7 +3928,7 @@
     ]
    ],
    "source": "<PORTR:0400><FACE:17>「俺も構わねぇよ。へへへ…奥さんによ\nろしくな」\n<END>",
-   "target": "<PORTR:0400><FACE:17>「나도 상관없어. 헤헤헤…\n사모님한테 안부 전해 줘」\n<END>",
+   "target": "<PORTR:0400><FACE:17>「나도 상관없어. 헤헤헤…\n부인한테 안부나 전해 줘」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -3996,7 +3996,7 @@
     ]
    ],
    "source": "（またやるのかい？　稼ぎ場が無くなる\nぜ？）\n<END>",
-   "target": "（또 하려고? 벌이터가\n없어진다고?）\n<END>",
+   "target": "（또 하려고? 돈 벌 데가\n없어진다고?）\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -4846,7 +4846,7 @@
     ]
    ],
    "source": "<PORTR:0002><FACE:01>「そんな…運なんて関係ねぇだろ。房州\nさんには力があるじゃねぇか」\n<END>",
-   "target": "<PORTR:0002><FACE:01>「그런… 운 따위 상관없잖아.\n보슈 씨한텐 힘이 있잖아」\n<END>",
+   "target": "<PORTR:0002><FACE:01>「그럴 리가… 운 따윈 상관없어.\n보슈 씨한텐 힘이 있잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -4880,7 +4880,7 @@
     ]
    ],
    "source": "<PORTR:0000><FACE:01>「ああ…」\n<END>",
-   "target": "<PORTR:0000><FACE:01>「아아…」\n<END>",
+   "target": "<PORTR:0000><FACE:01>「그래…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -4965,7 +4965,7 @@
     ]
    ],
    "source": "<PORTR:0002><FACE:01>「そ、そんな…運が欠けたなんて一時的\nなことさ！」\n<END>",
-   "target": "<PORTR:0002><FACE:01>「그, 그런… 운이 빠졌다니,\n그런 건 한때일 뿐이잖아!」\n<END>",
+   "target": "<PORTR:0002><FACE:01>「그, 그럴 리가… 운이 빠진 건\n한때일 뿐이잖아!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -4982,7 +4982,7 @@
     ]
    ],
    "source": "「そのうちに流れは来る！　だからまた\n一緒に…！」\n<END>",
-   "target": "「곧 흐름은 돌아와! 그러니까\n다시 같이…!」\n<END>",
+   "target": "「흐름은 곧 돌아와! 그러니까\n다시 같이…!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -5373,7 +5373,7 @@
     ]
    ],
    "source": "<PORTR:0000><FACE:01>「ん…ああ。行ってくるよ」\n<END>",
-   "target": "<PORTR:0000><FACE:01>「응… 아아. 갔다 올게」\n<END>",
+   "target": "<PORTR:0000><FACE:01>「응… 그래. 갔다 올게」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -5458,7 +5458,7 @@
     ]
    ],
    "source": "<PAGE>「新宿最強の玄人コンビか…一度、見て\nみてぇもんだな」\n<END>",
-   "target": "<PAGE>「신주쿠 최강 바이닌 콤비라…\n한 번 보고 싶은데」\n<END>",
+   "target": "<PAGE>「신주쿠 최강 바이닌 콤비라…\n한번 보고 싶은데」\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },
@@ -5747,7 +5747,7 @@
     ]
    ],
    "source": "<FLAG:0d><PAGE><FACE:01>（…『見るだけで麻雀が強くなるツボ』\nか…）\n<END>",
-   "target": "<FLAG:0d><PAGE><FACE:01>（…『보기만 해도 마작이\n세지는 항아리』인가…）\n<END>",
+   "target": "<FLAG:0d><PAGE><FACE:01>（…『보기만 해도 마작이 세지는\n항아리』인가…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r04p0.reviewed.json"
   },

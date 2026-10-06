@@ -65,7 +65,7 @@
     ]
    ],
    "source": "<FACE:13>「悪いな。今日は飲みに来たんじゃねぇ\nんだ…」\n<END>",
-   "target": "<FACE:13>「미안하군. 오늘은 마시러\n온 게 아니야…」\n<END>",
+   "target": "<FACE:13>「미안해. 오늘은 마시러\n온 게 아니야…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -133,7 +133,7 @@
     ]
    ],
    "source": "「哲…おめぇ、オヒキにどういう仕込み\nしてんだよ」\n<END>",
-   "target": "「테쯔… 너, 오히키한테 무슨\n조련을 하고 있는 거냐」\n<END>",
+   "target": "「테쯔… 너, 오히키를 어떻게\n조련하고 있는 거냐」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -184,7 +184,7 @@
     ]
    ],
    "source": "「おかげで場が荒れてしょうがねぇ」\n<END>",
-   "target": "「덕분에 판이 흐려져서\n어쩔 수가 없다고」\n<END>",
+   "target": "「덕분에 판이 흐려져서\n말이 아니라고」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -371,7 +371,7 @@
     ]
    ],
    "source": "「あんなハンチクな麻雀打たれちゃ、こ\nの店どころか…」\n<END>",
-   "target": "「저런 얼치기 마작을 치면\n이 가게는커녕…」\n<END>",
+   "target": "「저런 얼치기 마작을 쳐 대면\n이 가게는커녕…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -592,7 +592,7 @@
     ]
    ],
    "source": "<PORTL:1300>「な、何するんスか…ダンチさん…」\n<END>",
-   "target": "<PORTL:1300>「무, 뭐 하는 겁니까…\n단치 형님…」\n<END>",
+   "target": "<PORTL:1300>「무, 뭐 하는 거예요…\n단치 형님…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -728,7 +728,7 @@
     ]
    ],
    "source": "「どっかの誰かみてぇにな…」\n<END>",
-   "target": "「어딘가의 누구처럼 말이야…」\n<END>",
+   "target": "「어디 누구처럼 말이야…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1187,7 +1187,7 @@
     ]
    ],
    "source": "「そいつぁ、こいつと一局打ってからに\nしてくれねぇか？」\n<END>",
-   "target": "「그건 이놈하고 한 판 치고 난\n뒤에 해 주지 않겠어?」\n<END>",
+   "target": "「그건 이놈하고 한 판 치고\n나서 하면 안 되겠냐?」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1272,7 +1272,7 @@
     ]
    ],
    "source": "<FACE:0b>「どこまでも汚ぇ男だな、あんた…」\n<END>",
-   "target": "<FACE:0b>「끝까지 더러운 남자군, 당신…」\n<END>",
+   "target": "<FACE:0b>「뼛속까지 더러운 남자군,\n당신…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1306,7 +1306,7 @@
     ]
    ],
    "source": "「そこまで言うなら、やってやろうじゃ\nねぇか…坊や哲！！」\n<END>",
-   "target": "「그렇게까지 말한다면 해 주지…\n꼬마 테쯔!!」\n<END>",
+   "target": "「그렇게까지 말한다면 붙어 주지…\n꼬마 테쯔!!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1357,7 +1357,7 @@
     ]
    ],
    "source": "<FACE:13>（こんな腐り切った奴と打って、どうな\nるってんだ…）\n<END>",
-   "target": "<FACE:13>（이렇게 썩어 빠진 놈이랑 쳐서\n뭐가 어떻게 된다는 거야…）\n<END>",
+   "target": "<FACE:13>（이런 썩어 빠진 놈이랑 쳐서\n뭘 어쩌겠다는 거야…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1799,7 +1799,7 @@
     ]
    ],
    "source": "「おめぇは奴の技を見破れなかった。そ\nれを棚に上げて…」\n<END>",
-   "target": "「넌 녀석의 기술을 간파 못 하고\n그걸 제쳐 둔 채…」\n<END>",
+   "target": "「넌 녀석의 기술을 못 알아봤어.\n그건 모른 척하고…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1867,7 +1867,7 @@
     ]
    ],
    "source": "<FACE:13>「雀ゴロになり下がっちまったおめぇを\n最後の最後まで…」\n<END>",
-   "target": "<FACE:13>「마작 건달로 전락해 버린 너를\n마지막의 마지막까지…」\n<END>",
+   "target": "<FACE:13>「마작 건달로 전락해 버린 너를\n마지막 순간까지…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },
@@ -1935,7 +1935,7 @@
     ]
    ],
    "source": "「なァ…この指…ちょっと待っててくれ\nねぇか」\n<END>",
-   "target": "「저기… 이 손가락… 잠시만\n기다려 줄 수 없겠냐」\n<END>",
+   "target": "「저기… 이 손가락… 조금만\n기다려 주면 안 되겠냐」\n<END>",
    "state": "reviewed",
    "notes": "draft:r08p0.reviewed.json"
   },

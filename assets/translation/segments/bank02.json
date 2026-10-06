@@ -1299,7 +1299,7 @@
     ]
    ],
    "source": "「あんた…ひどい顔してるから…また\nこれから打ちに行くんだろ？」\n<END>",
-   "target": "「자네… 꼴이 말이 아니네… 또\n지금 치러 가는 거지?」\n<END>",
+   "target": "「자네… 꼴이 말이 아니길래…\n또 지금 치러 가는 거지?」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -2601,7 +2601,7 @@
     ]
    ],
    "source": "<FACE:05>「食えよ。血になるぜ」\n<END>",
-   "target": "<FACE:05>「먹어. 피가 된다고」\n<END>",
+   "target": "<FACE:05>「먹어. 피가 되고 살이 된다고」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -6724,7 +6724,7 @@
     ]
    ],
    "source": "<PORTR:0501><FACE:05>「…まったく」\n<END>",
-   "target": "<PORTR:0501><FACE:05>「…참 나」\n<END>",
+   "target": "<PORTR:0501><FACE:05>「…나 원 참」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -7094,7 +7094,7 @@
     ]
    ],
    "source": "<PORTL:6363><FACE:07>「いやいや、そっちじゃ食えなくて…」\n<END>",
-   "target": "<PORTL:6363><FACE:07>「아뇨 뭐, 그쪽으론 먹고살\n수가 없어서…」\n<END>",
+   "target": "<PORTL:6363><FACE:07>「아뇨 뭐, 그쪽으론\n먹고살 수가 없어서…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -8080,7 +8080,7 @@
     ]
    ],
    "source": "<PORTR:0701><PORTL:0801><FACE:07>「…くそっ！　運が良かったな坊主！」\n<END>",
-   "target": "<PORTR:0701><PORTL:0801><FACE:07>「…젠장!\n운이 좋았다, 꼬맹이!」\n<END>",
+   "target": "<PORTR:0701><PORTL:0801><FACE:07>「…젠장!\n운이 좋았다, 애송이!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -8097,7 +8097,7 @@
     ]
    ],
    "source": "<PORTR:6363><FACE:08>「待ってくれよ、兄貴！」\n<END>",
-   "target": "<PORTR:6363><FACE:08>「기다려 줘, 형님!」\n<END>",
+   "target": "<PORTR:6363><FACE:08>「잠깐만, 형님!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -8318,7 +8318,7 @@
     ]
    ],
    "source": "<PAGE>「最近、このあたりにコンビ打ちの玄人\nが来るらしい…」\n<END>",
-   "target": "<PAGE>「요즘 이 근처에 콤비 마작을\n치는 바이닌이 온다더군…」\n<END>",
+   "target": "<PAGE>「요즘 이 근처에\n콤비로 치는 바이닌이 온다더군…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },
@@ -8573,7 +8573,7 @@
     ]
    ],
    "source": "<PAGE>「…俺も帰って、酒が飲みてぇよ」<CLR><PAGE2><RESET>\n<END>",
-   "target": "<PAGE>「…나도 집에 가서\n술이나 마시고 싶군」<CLR><PAGE2><RESET>\n<END>",
+   "target": "<PAGE>「…나도 집에 가서\n술이나 마시고 싶다고」<CLR><PAGE2><RESET>\n<END>",
    "state": "reviewed",
    "notes": "draft:r02p0.reviewed.json"
   },

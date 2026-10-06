@@ -252,7 +252,7 @@
     ]
    ],
    "source": "<FACE:01>「今日は大勝ちしたんだ。俺が、おごる\nぜ」\n<END>",
-   "target": "<FACE:01>「오늘은 크게 이겼다고.\n내가 쏠게」\n<END>",
+   "target": "<FACE:01>「오늘은 크게 이겼다고.\n내가 살게」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p0.reviewed.json"
   },
@@ -405,7 +405,7 @@
     ]
    ],
    "source": "<FACE:01>「…へぇ」\n<END>",
-   "target": "<FACE:01>「…허어」\n<END>",
+   "target": "<FACE:01>「…흐음」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p0.reviewed.json"
   },
@@ -796,7 +796,7 @@
     ]
    ],
    "source": "「…奴の勝負師としての器は、底が知れ\nねぇ」\n<END>",
-   "target": "「…녀석의 승부사로서의 그릇은\n바닥을 알 수 없어」\n<END>",
+   "target": "「…녀석의 승부사로서의 그릇은\n그 깊이를 알 수 없어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p0.reviewed.json"
   },
@@ -1901,7 +1901,7 @@
     ]
    ],
    "source": "「百歩譲って、お前たちが新宿一だとし\nても…俺たちには勝てねぇ」\n<END>",
-   "target": "「백번 양보해서 너희가 신주쿠\n제일이라 쳐도… 우린 못 이겨」\n<END>",
+   "target": "「백번 양보해서 너희가 신주쿠\n제일이라 쳐도… 우릴 못 이겨」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p0.reviewed.json"
   },
@@ -2003,7 +2003,7 @@
     ]
    ],
    "source": "<PORTR:0900><FACE:09>「勝負に負けて文無しになりゃ野たれ死\nに…金が払えなきゃ即ぶっ殺される」\n<END>",
-   "target": "<PORTR:0900><FACE:09>「져서 빈털터리가 되면 객사…\n돈을 못 내면 그 자리서 죽는다」\n<END>",
+   "target": "<PORTR:0900><FACE:09>「지면 빈털터리로 길에서 뒈지고\n돈을 못 내면 그 자리서 죽는다」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p0.reviewed.json"
   },
@@ -2224,7 +2224,7 @@
     ]
    ],
    "source": "<PORTR:0a00><FACE:0a>「こりねぇバカ親父のおかげで、ボロ儲\nけだぜ、徳さん」\n<END>",
-   "target": "<PORTR:0a00><FACE:0a>「질리지도 않는 멍청한 영감 덕에\n떼돈 벌겠어, 토쿠 씨」\n<END>",
+   "target": "<PORTR:0a00><FACE:0a>「정신 못 차린 멍청한 영감 덕에\n떼돈 벌겠어, 토쿠 씨」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p0.reviewed.json"
   },
@@ -2547,7 +2547,7 @@
     ]
    ],
    "source": "（周りで見ている連中もすべて敵だ…）\n<END>",
-   "target": "（주위서 보는 놈들도\n전부 적이야…）\n<END>",
+   "target": "（둘러서서 보는 놈들도\n전부 적이야…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -2564,7 +2564,7 @@
     ]
    ],
    "source": "（もし俺たちの玄人技がバレたら即、そ\nの場でズドン！　そのくせ…）\n<END>",
-   "target": "（바이닌 기술이 들키면 그 자리서\n바로 탕! 그러면서 말이야…）\n<END>",
+   "target": "（바이닌 기술이 들키면 그 자리서\n바로 탕! 그런 주제에…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -2615,7 +2615,7 @@
     ]
    ],
    "source": "（相手が技を使う前に、こっちから仕掛\nけるしかねぇ）\n<END>",
-   "target": "（상대가 기술 쓰기 전에\n이쪽서 먼저 거는 수밖에）\n<END>",
+   "target": "（상대가 기술 쓰기 전에\n이쪽이 먼저 선수 치는 수밖에）\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -3125,7 +3125,7 @@
     ]
    ],
    "source": "<PORTR:0003><FACE:01>「ちっ、房州さんこそ何だよ」\n<END>",
-   "target": "<PORTR:0003><FACE:01>「칫, 보슈 씨야말로 뭐냐고」\n<END>",
+   "target": "<PORTR:0003><FACE:01>「칫, 그러는 보슈 씨는 뭔데」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -3210,7 +3210,7 @@
     ]
    ],
    "source": "<PORTR:0002><FACE:01>「…だって、自分で認めてたぜ」\n<END>",
-   "target": "<PORTR:0002><FACE:01>「…하지만 본인이 인정했다고」\n<END>",
+   "target": "<PORTR:0002><FACE:01>「…하지만 자기 입으로\n인정했다고」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -3448,7 +3448,7 @@
     ]
    ],
    "source": "<WIN:0a02><PORTL:1400>「おめぇの勝負師としての器は底が知れ\nねぇ…それは房州さんも認めてる」\n<END>",
-   "target": "<WIN:0a02><PORTL:1400>「승부사로서 네 그릇은 바닥이\n없지…그건 보슈 씨도 인정해」\n<END>",
+   "target": "<WIN:0a02><PORTL:1400>「승부사로서 네 그릇은 가늠이\n안 되지…그건 보슈 씨도 인정해」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -3669,7 +3669,7 @@
     ]
    ],
    "source": "（この苦境を乗り越えない限りチンピラ\n玄人の器にすぎねぇ）\n<END>",
-   "target": "（이 고비를 못 넘으면 양아치\n바이닌 그릇에 불과해）\n<END>",
+   "target": "（이 고비를 못 넘으면 양아치\n바이닌의 그릇에 불과해）\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -3686,7 +3686,7 @@
     ]
    ],
    "source": "（到底、房州さんが捜し求めてきた最強\nの相棒とはいえねぇぜ…）<CLR><PAGE2><PORTR:6363><PORTL:6363><WIN:0001><C_B0:03><C_B2:01><SETF:02>\n<END>",
-   "target": "（보슈 씨가 찾아 헤맨 최강의\n파트너라곤 도저히 못 하지…）<CLR><PAGE2><PORTR:6363><PORTL:6363><WIN:0001><C_B0:03><C_B2:01><SETF:02>\n<END>",
+   "target": "（보슈 씨가 찾아 헤맨 최강의\n파트너라곤 도저히 할 수 없지…）<CLR><PAGE2><PORTR:6363><PORTL:6363><WIN:0001><C_B0:03><C_B2:01><SETF:02>\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -3754,7 +3754,7 @@
     ]
    ],
    "source": "<PORTL:0500><FACE:05>「さすがは東洋一のコンビだ。手も足も\n出ねぇよ…」\n<END>",
-   "target": "<PORTL:0500><FACE:05>「과연 동양 제일의 콤비야.\n손도 발도 못 쓰겠군…」\n<END>",
+   "target": "<PORTL:0500><FACE:05>「과연 동양 제일의 콤비야.\n손쓸 도리가 없군…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },
@@ -4349,7 +4349,7 @@
     ]
    ],
    "source": "「おめぇらがこの店で荒稼ぎした分、全\n部置いてってもらおうじゃねぇか」\n<END>",
-   "target": "「네놈들이 이 가게서 싹쓸이한 몫\n전부 두고 가야겠다」\n<END>",
+   "target": "「네놈들이 이 가게서 싹쓸이한 몫\n전부 토해 내고 가라고」\n<END>",
    "state": "reviewed",
    "notes": "draft:r03p1.reviewed.json"
   },

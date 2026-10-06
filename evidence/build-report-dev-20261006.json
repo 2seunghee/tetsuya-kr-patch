@@ -1,0 +1,29 @@
+{
+ "policy": "development",
+ "non_distribution": true,
+ "source_sha256": "65e8eb749a88c18c02ea8bf783b62f0cd7a39f0e38f550e7be124172016c08bd",
+ "output_sha256": "7aa49f559432c9e9a6640816f274f997c0d32a30a36bcb1293396801cb425eaa",
+ "output_size": 16777216,
+ "ips_sha256": "33ad2cc90ed6843b986d96a1bc95f5eabc24c0caf15838d67230b25db4d5e532",
+ "font": {
+  "path": "assets/fonts/sources/galmuri/Galmuri11.bdf",
+  "sha256": "98716d08aa5762e6ce440d5a757d107cb5d3f32a53861878be06c00aacc23304"
+ },
+ "messages_selected": 2564,
+ "messages_skipped": {},
+ "failed_checks": [],
+ "new_glyphs": 842,
+ "glyph_banks": [
+  4,
+  5,
+  6,
+  7
+ ],
+ "expansion_bytes": 321685,
+ "writes": 2999,
+ "changed_source_bytes": 21089,
+ "plates": 30,
+ "sprite_tiles": 403,
+ "bank_table": "0x08800000",
+ "reused_original_glyph_chars": []
+}

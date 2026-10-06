@@ -1,0 +1,14 @@
+{
+ "20be74": "<PAGE>「형씨, 한잔하고 가요」\n<END>",
+ "20be97": "「카스토리, 오뎅, 니코미,\n뭐든 있어요」<CLR><PAGE2><RESET>\n<END>",
+ "201afc": "<PAGE>「…나도 집에 가서\n술이나 마시고 싶다고」<CLR><PAGE2><RESET>\n<END>",
+ "212474": "<PAGE>「응? 뭐야, 나한테 볼일이냐?」<CLR><PAGE2><RESET>\n<END>",
+ "212498": "<PAGE>「아아… 한가하군…」<CLR><PAGE2><RESET>\n<END>",
+ "214d24": "<PAGE>「에? 아저씨랑 아줌마 바이닌?」\n<END>",
+ "206e07": "<FLAG:0d><PAGE><FACE:01>（…『보기만 해도 마작이 세지는\n항아리』인가…）\n<END>",
+ "200b11": "<PORTR:0501><FACE:05>「…나 원 참」\n<END>",
+ "206a67": "<PORTR:0000><FACE:01>「응… 그래. 갔다 올게」\n<END>",
+ "20c0a0": "<PAGE><JIF2:0001><FACE:01>（응… 이건…）\n<END>",
+ "1fcdb7": "<PORTL:0301><FACE:16>「으음…」\n<END>",
+ "20d166": "<NOFACE><PORTR:6363><PORTL:6363><SE:2c><PORTR:0b02><FACE:0b>「앗, 테쯔 형님 어디 가요?」\n<END>"
+}

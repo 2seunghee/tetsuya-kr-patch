@@ -1717,7 +1717,7 @@
     ]
    ],
    "source": "<PORTR:0100><FACE:01>「てめぇの何かを賭けて、金を稼いでる\nんじゃねぇのか、俺たちは…」\n<END>",
-   "target": "<PORTR:0100><FACE:01>「우린 자기 뭔가를 걸고\n돈을 버는 거 아니냐…」\n<END>",
+   "target": "<PORTR:0100><FACE:01>「우린 저마다 뭔가를 걸고\n돈을 버는 거 아니냐…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -1889,7 +1889,7 @@
     ]
    ],
    "source": "「なのにてめぇは何の覚悟も苦労もなし\nに横から甘い汁すすろうとしやがって」\n<END>",
-   "target": "「근데 네놈은 각오도 고생도 없이\n옆에서 단물만 빨아먹으려 들어」\n<END>",
+   "target": "「근데 네놈은 각오도 고생도 없이\n옆에서 단물만 빨아먹으려 들다니」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -2233,7 +2233,7 @@
     ]
    ],
    "source": "<FACE:0b>「…たんまり稼いでんだ…ちょっとぐら\nい、いいじゃないっスか」\n<END>",
-   "target": "<FACE:0b>「…잔뜩 벌고 있잖슴까… 쪼금쯤\n괜찮지 않슴까」\n<END>",
+   "target": "<FACE:0b>「…잔뜩 벌고 있잖아요… 쪼금쯤\n괜찮지 않슴까」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -4641,7 +4641,7 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:6363><FACE:0b>「ほら、あそこ…」\n<END>",
-   "target": "<PORTR:6363><PORTL:6363><FACE:0b>「저기, 저쪽…」\n<END>",
+   "target": "<PORTR:6363><PORTL:6363><FACE:0b>「보세요, 저쪽…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -8975,7 +8975,7 @@
     ]
    ],
    "source": "<C_C0:02><PORTR:0b02><PAGE><FACE:0b>「…サツだ！」<CLR><BGM:01><PAGE2><PORTR:6363>\n<NEXT>",
-   "target": "<C_C0:02><PORTR:0b02><PAGE><FACE:0b>「…짭새다!」<CLR><BGM:01><PAGE2><PORTR:6363>\n<NEXT>",
+   "target": "<C_C0:02><PORTR:0b02><PAGE><FACE:0b>「…순사다!」<CLR><BGM:01><PAGE2><PORTR:6363>\n<NEXT>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -9128,7 +9128,7 @@
     ]
    ],
    "source": "「ちょっと早いけど、一杯飲まねぇか？\nおごるぜ」\n<END>",
-   "target": "「좀 이르지만 한잔 안 할래?\n내가 쏠게」\n<END>",
+   "target": "「좀 이르지만 한잔 안 할래?\n내가 살게」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -9468,7 +9468,7 @@
     ]
    ],
    "source": "<PORTR:0100><FACE:01>「女が一人で生きていくには必要だもん\nな。それもまた、運か…」\n<END>",
-   "target": "<PORTR:0100><FACE:01>「여자 혼자 살려면 필요했겠지.\n그것도 또한 운인가…」\n<END>",
+   "target": "<PORTR:0100><FACE:01>「여자 혼자 살려면 필요했겠지.\n그것 또한 운인가…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -9502,7 +9502,7 @@
     ]
    ],
    "source": "<PORTR:0e00>「あんたね…ケガする前に別の行き場所\n探しなよ」\n<END>",
-   "target": "<PORTR:0e00>「너 말이야… 다치기 전에 다른\n갈 곳을 찾아봐」\n<END>",
+   "target": "<PORTR:0e00>「너 말이야… 다치기 전에\n다른 살길을 찾아봐」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -9638,7 +9638,7 @@
     ]
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><SE:2c><PORTR:0b02><FACE:0b>「あっ、哲さんどこ行くんスか？」\n<END>",
-   "target": "<NOFACE><PORTR:6363><PORTL:6363><SE:2c><PORTR:0b02><FACE:0b>「앗, 테쯔 형님 어디 가세요?」\n<END>",
+   "target": "<NOFACE><PORTR:6363><PORTL:6363><SE:2c><PORTR:0b02><FACE:0b>「앗, 테쯔 형님 어디 가요?」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -10556,7 +10556,7 @@
     ]
    ],
    "source": "<FACE:0f>「へぇ～。そのレディも打つのかい？」\n<END>",
-   "target": "<FACE:0f>「헤에~. 그 레이디도\n치는 거야?」\n<END>",
+   "target": "<FACE:0f>「헤에~ 그 레이디도\n치는 거야?」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -10692,7 +10692,7 @@
     ]
    ],
    "source": "「でかい声じゃ言えないが…俺、米軍物\n資の横流しやってるからさ」\n<END>",
-   "target": "「큰 소리론 못 하지만… 나,\n미군 물자 빼돌리기 하거든」\n<END>",
+   "target": "「대놓고 말은 못 하지만… 나,\n미군 물자 빼돌리는 일 하거든」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -10709,7 +10709,7 @@
     ]
    ],
    "source": "「欲しいものがあったら言ってくれ。何\nでも用立てするぜ？」\n<END>",
-   "target": "「갖고 싶은 게 있으면 말해.\n뭐든 구해다 주지?」\n<END>",
+   "target": "「갖고 싶은 게 있으면 말해.\n뭐든 구해다 줄게, 응?」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -10998,7 +10998,7 @@
     ]
    ],
    "source": "<PORTL:0b00>「リベンジだか切れ痔だか知らねぇけど\nおととい来やがれってんだ」\n<END>",
-   "target": "<PORTL:0b00>「리벤지인지 치질인지 몰라도\n다신 오지 말라 그래」\n<END>",
+   "target": "<PORTL:0b00>「리벤지인지 오렌지인지 몰라도\n다신 오지 말라 그래」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p0.reviewed.json"
   },
@@ -11134,7 +11134,7 @@
     ]
    ],
    "source": "<PORTL:0b01><FACE:0b>「ほら哲さん。リサ姉さんも、いいって\n言ってるじゃないっスか」\n<END>",
-   "target": "<PORTL:0b01><FACE:0b>「거 봐요 테쯔 형님. 리사\n누님도 괜찮다잖슴까」\n<END>",
+   "target": "<PORTL:0b01><FACE:0b>「거 봐요, 테쯔 형님.\n리사 누님도 괜찮다잖슴까」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11219,7 +11219,7 @@
     ]
    ],
    "source": "<PORTL:0b04><FACE:0b>「か～。全然ダメじゃねぇか」\n<END>",
-   "target": "<PORTL:0b04><FACE:0b>「하~. 영 꽝이잖슴까」\n<END>",
+   "target": "<PORTL:0b04><FACE:0b>「하~. 영 꽝이잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11270,7 +11270,7 @@
     ]
    ],
    "source": "<FACE:0b>「…確率ゼロよりマシっスよ」\n<END>",
-   "target": "<FACE:0b>「…확률 0보단 낫슴다」\n<END>",
+   "target": "<FACE:0b>「…확률 제로보단 낫슴다」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11576,7 +11576,7 @@
     ]
    ],
    "source": "「そして、俺の逆を行け」\n<END>",
-   "target": "「그리고 내 반대로 가라」\n<END>",
+   "target": "「그리고 나와 반대로 가라」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11712,7 +11712,7 @@
     ]
    ],
    "source": "<PORTR:0b00><FACE:0b>「ほら！　まったく哲さんときたら…」\n<END>",
-   "target": "<PORTR:0b00><FACE:0b>「거 봐요! 정말 테쯔 형님은…」\n<END>",
+   "target": "<PORTR:0b00><FACE:0b>「거 봐요! 테쯔 형님도 참…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11780,7 +11780,7 @@
     ]
    ],
    "source": "<PORTL:0b01>「哲さん、こんな弱っちぃ奴しかいない\nとこやめて、他の雀荘にしようよ」\n<END>",
-   "target": "<PORTL:0b01>「테쯔 형님, 이런 약골뿐인 데는\n관두고 다른 작장으로 가요」\n<END>",
+   "target": "<PORTL:0b01>「테쯔 형님, 이런 하수들뿐인 데\n말고 다른 작장으로 가요」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11848,7 +11848,7 @@
     ]
    ],
    "source": "「弱そうなメンツばっかスよ哲さん！」\n<END>",
-   "target": "「약골 멤버뿐임다, 테쯔 형님!」\n<END>",
+   "target": "「약해 보이는 멤버뿐임다,\n테쯔 형님!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -11933,7 +11933,7 @@
     ]
    ],
    "source": "<PORTL:0b01>「哲さん、こんな弱っちぃ奴しかいない\nとこやめて、他の雀荘にしようよ」\n<END>",
-   "target": "<PORTL:0b01>「테쯔 형님, 이런 약골뿐인 데는\n관두고 다른 작장으로 가요」\n<END>",
+   "target": "<PORTL:0b01>「테쯔 형님, 이런 하수들뿐인 데\n말고 다른 작장으로 가요」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -12001,7 +12001,7 @@
     ]
    ],
    "source": "「弱そうなメンツばっかスよ哲さん！」\n<END>",
-   "target": "「약골 멤버뿐임다, 테쯔 형님!」\n<END>",
+   "target": "「약해 보이는 멤버뿐임다,\n테쯔 형님!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -12494,7 +12494,7 @@
     ]
    ],
    "source": "（リサ姉さんが動揺する理由はただ一つ\n…あれが、コロ…！）\n<END>",
-   "target": "（리사 누님이 흔들릴 이유는 하나\n…저게, 코로…!）\n<END>",
+   "target": "（리사 누님이 흔들릴 이유는 하나\n…그놈이, 코로…!）\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -12596,7 +12596,7 @@
     ]
    ],
    "source": "<PORTR:0103>（ヒリつくような…ギャンブルだ！）<CLR><PAGE2><PORTR:6363><C_B0:08><C_B2:01><SETF:02>\n<END>",
-   "target": "<PORTR:0103>（살 떨리는 듯한… 도박이다!）<CLR><PAGE2><PORTR:6363><C_B0:08><C_B2:01><SETF:02>\n<END>",
+   "target": "<PORTR:0103>（살 떨리는… 도박이다!）<CLR><PAGE2><PORTR:6363><C_B0:08><C_B2:01><SETF:02>\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -12936,7 +12936,7 @@
     ]
    ],
    "source": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><WIN:0901><WAIT:3c><PORTR:0b03><PORTL:1800><PAGE><FACE:0b>「哲さんって男は冷たいっスよ…いや\nムゴイっスよ、あれじゃあ…」\n<END>",
-   "target": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><WIN:0901><WAIT:3c><PORTR:0b03><PORTL:1800><PAGE><FACE:0b>「테쯔 형님은 차가운 남자슴다…\n아니, 잔인하다고요, 저래서야…」\n<END>",
+   "target": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><WIN:0901><WAIT:3c><PORTR:0b03><PORTL:1800><PAGE><FACE:0b>「테쯔 형님은 차가운 남자임다…\n아니, 잔인하다고요, 저래서야…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -13038,7 +13038,7 @@
     ]
    ],
    "source": "「哲さんの所じゃなく、バカでろくでな\nしのコロって野郎の所へ行った方が…」\n<END>",
-   "target": "「테쯔 형님 곁이 아니라, 멍청한\n망나니 코로란 놈한테 간 편이…」\n<END>",
+   "target": "「테쯔 형님 곁이 아니라, 멍청한\n망나니 코로란 놈한테 가는 게…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -13446,7 +13446,7 @@
     ]
    ],
    "source": "<PORTL:0b01><FACE:0b>「他の雀荘にしときましょ？　ねっ！」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>",
-   "target": "<PORTL:0b01><FACE:0b>「다른 작장으로 가죠? 네!」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>",
+   "target": "<PORTL:0b01><FACE:0b>「다른 작장으로 가죠, 네?」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },
@@ -13701,7 +13701,7 @@
     ]
    ],
    "source": "<PAGE>「高架下の向こうの雀荘に、その女を\n探しまわってる、ヘンな男がいたな」\n<END>",
-   "target": "<PAGE>「고가 밑 너머 작장에 그 여자를\n찾아다니는 이상한 남자가 있었지」\n<END>",
+   "target": "<PAGE>「고가 밑 저쪽 작장에 그 여자를\n찾아다니는 이상한 남자가 있었지」\n<END>",
    "state": "reviewed",
    "notes": "draft:r06p1.reviewed.json"
   },

@@ -1,0 +1,107 @@
+[
+ {
+  "id": "20df05",
+  "kind": "layout",
+  "why": "「리사 누님」이 줄 끝에서 갈라짐. 호칭 앞에서 끊고 쉼표 보강.",
+  "current": "<PORTL:0b01><FACE:0b>「거 봐요 테쯔 형님. 리사\n누님도 괜찮다잖슴까」\n<END>",
+  "proposed": "<PORTL:0b01><FACE:0b>「거 봐요, 테쯔 형님.\n리사 누님도 괜찮다잖슴까」\n<END>"
+ },
+ {
+  "id": "20dfe2",
+  "kind": "register",
+  "why": "원문은 반말(ねぇか)이고 바로 다음 줄도 반말인데 여기만 ~슴까로 어긋남(단치→리사는 반말).",
+  "current": "<PORTL:0b04><FACE:0b>「하~. 영 꽝이잖슴까」\n<END>",
+  "proposed": "<PORTL:0b04><FACE:0b>「하~. 영 꽝이잖아」\n<END>"
+ },
+ {
+  "id": "20e07e",
+  "kind": "awkward",
+  "why": "'확률 0보단'은 입말로 읽히지 않음. '제로'로.",
+  "current": "<FACE:0b>「…확률 0보단 낫슴다」\n<END>",
+  "proposed": "<FACE:0b>「…확률 제로보단 낫슴다」\n<END>"
+ },
+ {
+  "id": "20e366",
+  "kind": "awkward",
+  "why": "'내 반대로 가라'는 뜻이 흐릿함. '나와 반대로'가 자연스러움.",
+  "current": "「그리고 내 반대로 가라」\n<END>",
+  "proposed": "「그리고 나와 반대로 가라」\n<END>"
+ },
+ {
+  "id": "20e4d1",
+  "kind": "awkward",
+  "why": "'~ときたら'는 '~도 참'이 자연스럽고 '정말 테쯔 형님은…'은 어색함.",
+  "current": "<PORTR:0b00><FACE:0b>「거 봐요! 정말 테쯔 형님은…」\n<END>",
+  "proposed": "<PORTR:0b00><FACE:0b>「거 봐요! 테쯔 형님도 참…」\n<END>"
+ },
+ {
+  "id": "20e699",
+  "kind": "awkward",
+  "why": "'약골'은 몸이 허약한 사람이라 마작 실력이 약한 상대에겐 어색함. '하수'로.",
+  "current": "<PORTL:0b01>「테쯔 형님, 이런 약골뿐인 데는\n관두고 다른 작장으로 가요」\n<END>",
+  "proposed": "<PORTL:0b01>「테쯔 형님, 이런 하수들뿐인 데\n말고 다른 작장으로 가요」\n<END>"
+ },
+ {
+  "id": "20e73f",
+  "kind": "awkward",
+  "why": "'약골 멤버'는 어색함(실력 얘기). '약해 보이는 멤버'로.",
+  "current": "「약골 멤버뿐임다, 테쯔 형님!」\n<END>",
+  "proposed": "「약해 보이는 멤버뿐임다,\n테쯔 형님!」\n<END>"
+ },
+ {
+  "id": "20e819",
+  "kind": "awkward",
+  "why": "'약골'은 몸이 허약한 사람이라 마작 실력이 약한 상대에겐 어색함. '하수'로(20e699과 동일).",
+  "current": "<PORTL:0b01>「테쯔 형님, 이런 약골뿐인 데는\n관두고 다른 작장으로 가요」\n<END>",
+  "proposed": "<PORTL:0b01>「테쯔 형님, 이런 하수들뿐인 데\n말고 다른 작장으로 가요」\n<END>"
+ },
+ {
+  "id": "20e8bf",
+  "kind": "awkward",
+  "why": "'약골 멤버'는 어색함(20e73f과 동일).",
+  "current": "「약골 멤버뿐임다, 테쯔 형님!」\n<END>",
+  "proposed": "「약해 보이는 멤버뿐임다,\n테쯔 형님!」\n<END>"
+ },
+ {
+  "id": "20ed54",
+  "kind": "awkward",
+  "why": "이미 가게를 나간 사람이라 '저게'보다 '그놈이'가 자연스럽고 지시 대상이 분명함.",
+  "current": "（리사 누님이 흔들릴 이유는 하나\n…저게, 코로…!）\n<END>",
+  "proposed": "（리사 누님이 흔들릴 이유는 하나\n…그놈이, 코로…!）\n<END>"
+ },
+ {
+  "id": "20ee5a",
+  "kind": "awkward",
+  "why": "'살 떨리는 듯한'의 '듯한'은 ような 직역 군더더기.",
+  "current": "<PORTR:0103>（살 떨리는 듯한… 도박이다!）<CLR><PAGE2><PORTR:6363><C_B0:08><C_B2:01><SETF:02>\n<END>",
+  "proposed": "<PORTR:0103>（살 떨리는… 도박이다!）<CLR><PAGE2><PORTR:6363><C_B0:08><C_B2:01><SETF:02>\n<END>"
+ },
+ {
+  "id": "20f109",
+  "kind": "typo",
+  "why": "'남자슴다'는 비문. 명사 뒤 っス 축약은 '~임다'.",
+  "current": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><WIN:0901><WAIT:3c><PORTR:0b03><PORTL:1800><PAGE><FACE:0b>「테쯔 형님은 차가운 남자슴다…\n아니, 잔인하다고요, 저래서야…」\n<END>",
+  "proposed": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><WIN:0901><WAIT:3c><PORTR:0b03><PORTL:1800><PAGE><FACE:0b>「테쯔 형님은 차가운 남자임다…\n아니, 잔인하다고요, 저래서야…」\n<END>"
+ },
+ {
+  "id": "20f227",
+  "kind": "meaning",
+  "why": "行った方が는 가정(가는 쪽이)인데 '간 편이'는 과거로 읽힘.",
+  "current": "「테쯔 형님 곁이 아니라, 멍청한\n망나니 코로란 놈한테 간 편이…」\n<END>",
+  "proposed": "「테쯔 형님 곁이 아니라, 멍청한\n망나니 코로란 놈한테 가는 게…」\n<END>"
+ },
+ {
+  "id": "20f6c2",
+  "kind": "awkward",
+  "why": "'가죠? 네!'는 자문자답처럼 읽힘. 조르는 'ねっ！'은 '가죠, 네?'가 자연스러움.",
+  "current": "<PORTL:0b01><FACE:0b>「다른 작장으로 가죠? 네!」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>",
+  "proposed": "<PORTL:0b01><FACE:0b>「다른 작장으로 가죠, 네?」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>"
+ },
+ {
+  "id": "20f924",
+  "kind": "awkward",
+  "why": "'고가 밑 너머'는 읽기 어려운 조합. '고가 밑 저쪽'으로.",
+  "current": "<PAGE>「고가 밑 너머 작장에 그 여자를\n찾아다니는 이상한 남자가 있었지」\n<END>",
+  "proposed": "<PAGE>「고가 밑 저쪽 작장에 그 여자를\n찾아다니는 이상한 남자가 있었지」\n<END>"
+ }
+]

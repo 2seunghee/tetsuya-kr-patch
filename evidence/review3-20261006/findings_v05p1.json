@@ -1,0 +1,107 @@
+[
+ {
+  "id": "2098a9",
+  "kind": "awkward",
+  "why": "「やっぱやめましょうよ」의 \"역시 관둡시다\"는 번역투라 단치 말투로 \"아무래도 관두죠\"가 자연스럽다.",
+  "current": "<PORTL:6363><WIN:1101><PORTL:0b04><FACE:0b>「…저기 테쯔 형님, 역시\n관둡시다. 승산 없슴다」\n<END>",
+  "proposed": "<PORTL:6363><WIN:1101><PORTL:0b04><FACE:0b>「…저기 테쯔 형님, 아무래도\n관두죠. 승산 없슴다」\n<END>"
+ },
+ {
+  "id": "209905",
+  "kind": "layout",
+  "why": "\"할 수가\"가 줄 끝에서 갈라지므로 \"못 하게/할 수가\"로 나누는 편이 깔끔하다.",
+  "current": "「녀석이 간패를 못 하게 할\n수가 말이야…」<CLR><PAGE2><PORTR:6363><PORTL:6363>\n<NEXT>",
+  "proposed": "「녀석이 간패를 못 하게\n할 수가 말이야…」<CLR><PAGE2><PORTR:6363><PORTL:6363>\n<NEXT>"
+ },
+ {
+  "id": "20992f",
+  "kind": "awkward",
+  "why": "작장 個室는 \"개인실\"보다 \"별실\"이 자연스럽고, \"빌려주긴 하겠는데\"가 けどさ의 어감에 맞는다.",
+  "current": "<WIN:0401><PORTL:1c01><PAGE><FACE:1c>「개인실은 빌려주겠는데… 정말\n괜찮은 거겠지?」\n<END>",
+  "proposed": "<WIN:0401><PORTL:1c01><PAGE><FACE:1c>「별실은 빌려주긴 하겠는데… 정말\n괜찮은 거겠지?」\n<END>"
+ },
+ {
+  "id": "209a0e",
+  "kind": "meaning",
+  "why": "「いつから始めるんだい？」는 상대에게 묻는 말인데 \"시작하지?\"는 제안처럼 들린다.",
+  "current": "「그래서, 언제부터 시작하지?」\n<END>",
+  "proposed": "「그래서, 언제부터\n시작할 건데?」\n<END>"
+ },
+ {
+  "id": "209c67",
+  "kind": "awkward",
+  "why": "\"구경값이다 치고\"보다 관용 표현 \"구경값 셈 치고\"가 자연스럽다.",
+  "current": "「모자란 몫은 구경값이다 치고\n참아 주지」\n<END>",
+  "proposed": "「모자란 몫은 구경값 셈 치고\n참아 주지」\n<END>"
+ },
+ {
+  "id": "209fd7",
+  "kind": "awkward",
+  "why": "\"패가 보이고 있어\"는 見えてやがる의 진행형 직역이라 어색하다.",
+  "current": "<PORTR:0102><FACE:01>（틀림없어… 이놈, 완전히 모든\n패가 보이고 있어…!）\n<END>",
+  "proposed": "<PORTR:0102><FACE:01>（틀림없어… 이놈, 모든 패가\n완전히 다 보이는 거야…!）\n<END>"
+ },
+ {
+  "id": "20ab40",
+  "kind": "awkward",
+  "why": "\"칠흑의 어둠\"은 일본어식 조사 연결이고 한국어 관용구는 \"칠흑 같은 어둠\"이다.",
+  "current": "<WIN:2000><C_D1><WAIT:3c><PAGE>마치… 칠흑의 어둠을 지우듯\n눈이 쏟아지던 이 밤 이후…\n<END>",
+  "proposed": "<WIN:2000><C_D1><WAIT:3c><PAGE>마치… 칠흑 같은 어둠을 지우듯\n눈이 쏟아지던 이 밤 이후…\n<END>"
+ },
+ {
+  "id": "20ac58",
+  "kind": "layout",
+  "why": "\"리젠트 머리\"가 줄 끝에서 갈라지므로 쉼표 뒤에서 나누는 편이 깔끔하다.",
+  "current": "<FACE:1a>「지금 변소에 갔는데, 리젠트\n머리 젊은이가…」\n<END>",
+  "proposed": "<FACE:1a>「지금 변소에 갔는데,\n리젠트 머리 젊은이가…」\n<END>"
+ },
+ {
+  "id": "20ace4",
+  "kind": "layout",
+  "why": "\"찾고 있는\"이 줄 끝에서 갈라지므로 \"아직도/날 찾고 있는 건가\"로 나누는 편이 깔끔하다.",
+  "current": "<SE:2c><WIN:0203><PORTR:0b00><WAIT:3c><PORTR:6363><PORTL:0b00><WAIT:3c><PORTL:6363><PORTR:0b00><PORTR:6363><PORTL:0b00><WAIT:1e><PORTL:6363><WIN:0001><PORTR:0100><C42><PAGE><FACE:01>（…그 자식, 아직도 날 찾고\n있는 건가）\n<END>",
+  "proposed": "<SE:2c><WIN:0203><PORTR:0b00><WAIT:3c><PORTR:6363><PORTL:0b00><WAIT:3c><PORTL:6363><PORTR:0b00><PORTR:6363><PORTL:0b00><WAIT:1e><PORTL:6363><WIN:0001><PORTR:0100><C42><PAGE><FACE:01>（…그 자식, 아직도\n날 찾고 있는 건가）\n<END>"
+ },
+ {
+  "id": "20b218",
+  "kind": "layout",
+  "why": "\"찾고 있는\"이 줄 끝에서 갈라지므로 \"아직도/날 찾고 있는 건가\"로 나누는 편이 깔끔하다(20ace4와 동일 문장).",
+  "current": "<SE:2c><WIN:0103><PORTR:0b00><WAIT:3c><PORTR:6363><PORTL:0b00><WAIT:3c><PORTL:6363><PORTR:0b00><PORTR:6363><PORTL:0b00><WAIT:1e><PORTL:6363><WIN:0001><PORTR:0100><PAGE><FACE:01>（…그 자식, 아직도 날 찾고\n있는 건가）\n<END>",
+  "proposed": "<SE:2c><WIN:0103><PORTR:0b00><WAIT:3c><PORTR:6363><PORTL:0b00><WAIT:3c><PORTL:6363><PORTR:0b00><PORTR:6363><PORTL:0b00><WAIT:1e><PORTL:6363><WIN:0001><PORTR:0100><PAGE><FACE:01>（…그 자식, 아직도\n날 찾고 있는 건가）\n<END>"
+ },
+ {
+  "id": "20afce",
+  "kind": "meaning",
+  "why": "キザなこと는 \"멋 부리다(치장)\"가 아니라 \"폼 잡다·멋진 척하다\"의 뜻이다.",
+  "current": "「생긴 거랑 안 어울리게\n멋 부리는 짓을 했군…」\n<END>",
+  "proposed": "「생긴 거랑 안 어울리게\n폼 잡는 짓을 했군…」\n<END>"
+ },
+ {
+  "id": "20aff9",
+  "kind": "layout",
+  "why": "고유명 \"꼬마 테쯔\"가 줄 끝에서 갈라지므로 \"칭호와\"로 줄여 한 줄에 담는다.",
+  "current": "「신주쿠 제일이란 이름과 꼬마\n테쯔를 남기고 싹 사라지다니」\n<END>",
+  "proposed": "「신주쿠 제일 칭호와 꼬마 테쯔를\n남겨 두고 싹 사라지다니」\n<END>"
+ },
+ {
+  "id": "20b716",
+  "kind": "term",
+  "why": "야키토리의 モモ는 해부학적 \"넓적다리\"가 아니라 부위명 \"다리살\"이다.",
+  "current": "「참고로 난 넓적다리가 좋네」\n<END>",
+  "proposed": "「참고로 난 다리살을 좋아하네」\n<END>"
+ },
+ {
+  "id": "20be74",
+  "kind": "register",
+  "why": "포장마차 주인(행상)은 용어집 §5대로 장사꾼 존대(\"~요\")를 써야 하는데 반말이다.",
+  "current": "<PAGE>「형씨, 한잔하고 가라고」\n<END>",
+  "proposed": "<PAGE>「형씨, 한잔하고 가요」\n<END>"
+ },
+ {
+  "id": "20be97",
+  "kind": "register",
+  "why": "같은 포장마차 주인 대사로, 앞 줄과 함께 장사꾼 존대로 맞춘다.",
+  "current": "「카스토리, 오뎅, 니코미,\n뭐든 있다고」<CLR><PAGE2><RESET>\n<END>",
+  "proposed": "「카스토리, 오뎅, 니코미,\n뭐든 있어요」<CLR><PAGE2><RESET>\n<END>"
+ }
+]

@@ -184,7 +184,7 @@
     ]
    ],
    "source": "「もうこの辺りじゃ打てないんスか、哲\nさん⁉」\n<END>",
-   "target": "「이제 이 근처선 못 치는\n검까, 테쯔 형님⁉」\n<END>",
+   "target": "「이제 이 근처선 못 치는\n거예요, 테쯔 형님⁉」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -405,7 +405,7 @@
     ]
    ],
    "source": "<WIN:1102><PORTL:0b04><FACE:0b>「ぅ…いてて…何とか」\n<END>",
-   "target": "<WIN:1102><PORTL:0b04><FACE:0b>「으… 아야야… 어떻게든요」\n<END>",
+   "target": "<WIN:1102><PORTL:0b04><FACE:0b>「으… 아야야… 그럭저럭요」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -609,7 +609,7 @@
     ]
    ],
    "source": "<PAGE2><SE:2c><WIN:0801><PAGE><FACE:01>「なるほど、ここなら顔も知られてねぇ\nな」\n<END>",
-   "target": "<PAGE2><SE:2c><WIN:0801><PAGE><FACE:01>「과연, 여기라면 얼굴도\n알려지지 않았겠군」\n<END>",
+   "target": "<PAGE2><SE:2c><WIN:0801><PAGE><FACE:01>「하긴, 여기라면 얼굴도\n안 알려졌겠군」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -932,7 +932,7 @@
     ]
    ],
    "source": "（あんな危ない手つきで元禄積みやって\nやがる…バレバレじゃねぇかよ！）\n<END>",
-   "target": "（저렇게 위태로운 손으로 하는\n겐로쿠 쌓기… 뻔히 보이잖아!）\n<END>",
+   "target": "（저런 아슬아슬한 손놀림으로\n겐로쿠 쌓기라니… 다 보이잖아!）\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -983,7 +983,7 @@
     ]
    ],
    "source": "<FACE:0b>「あんな下手な積み込みやったら東京じ\nゃバレて袋叩きっスよね」\n<END>",
-   "target": "<FACE:0b>「저런 서툰 패 쌓기, 도쿄라면\n들켜서 뭇매 맞슴다」\n<END>",
+   "target": "<FACE:0b>「저런 서툰 패 쌓기, 도쿄라면\n들켜서 뭇매 맞죠」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -1255,7 +1255,7 @@
     ]
    ],
    "source": "<PORTL:1502><WAIT:1e>「…親父、病気なんだ」\n<END>",
-   "target": "<PORTL:1502><WAIT:1e>「…아버지, 병에 걸렸어」\n<END>",
+   "target": "<PORTL:1502><WAIT:1e>「…아버지는 병에 걸렸어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -1629,7 +1629,7 @@
     ]
    ],
    "source": "<FACE:01>「そうだな。病気だもんな」\n<END>",
-   "target": "<FACE:01>「그렇지. 병이 있으니까」\n<END>",
+   "target": "<FACE:01>「그렇지. 몸이 아프니까」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -1714,7 +1714,7 @@
     ]
    ],
    "source": "<PORTL:0b04><FACE:0b>「何だい…全然ツレねぇじゃねぇか、お\nめぇの親父」\n<END>",
-   "target": "<PORTL:0b04><FACE:0b>「뭐야… 너희 아버지, 완전\n무뚝뚝하잖아」\n<END>",
+   "target": "<PORTL:0b04><FACE:0b>「뭐야… 너희 아버지,\n영 무뚝뚝하잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -1782,7 +1782,7 @@
     ]
    ],
    "source": "<FACE:0b>「…らしいな。話だけは、哲さんに聞い\nてたよ」\n<END>",
-   "target": "<FACE:0b>「…그런 모양이더군. 얘기만은\n테쯔 형님한테 들었어」\n<END>",
+   "target": "<FACE:0b>「…그렇다더라. 얘기만은\n테쯔 형님한테 들었어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -2598,7 +2598,7 @@
     ]
    ],
    "source": "「この辺にしとこう…無理すると体に毒\nだ」\n<END>",
-   "target": "「이쯤 해 두자고… 무리하면 몸에\n독이야」\n<END>",
+   "target": "「이쯤 해 두자고…\n무리하면 몸에 독이야」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -2853,7 +2853,7 @@
     ]
    ],
    "source": "「この一瞬で、もう何十年も生きた気が\nするぜ…」\n<END>",
-   "target": "「이 한순간에 벌써 몇십 년은 산\n기분이야…」\n<END>",
+   "target": "「이 한순간에 벌써 몇십 년은\n산 기분이야…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -2870,7 +2870,7 @@
     ]
    ],
    "source": "「ん…朝だな。中、障子を開けてくれ」\n<END>",
-   "target": "「음… 아침이군. 나카, 장지문을\n열어 줘」\n<END>",
+   "target": "「음… 아침이군.\n나카, 장지문을 열어 줘」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },
@@ -2921,7 +2921,7 @@
     ]
    ],
    "source": "<FACE:14>「何言ってんだ親父。こんなに晴れてる\nじゃねぇか」\n<END>",
-   "target": "<FACE:14>「무슨 소리야 아버지. 이렇게\n맑잖아」\n<END>",
+   "target": "<FACE:14>「무슨 소리야, 아버지.\n이렇게 맑잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r10p0.reviewed.json"
   },

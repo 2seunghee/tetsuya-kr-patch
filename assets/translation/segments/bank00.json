@@ -14,7 +14,7 @@
     ]
    ],
    "source": "<SE:0a><WIN:1303><PAGE>昭和二十一年…ようやく、戦後の焼け跡\nから立ち上がった人々が、\n<END>",
-   "target": "<SE:0a><WIN:1303><PAGE>쇼와 21년(1946년)… 마침내\n전후의 폐허에서 일어선 사람들이,\n<END>",
+   "target": "<SE:0a><WIN:1303><PAGE>쇼와 21년… 마침내 전후의\n폐허에서 일어선 사람들이,\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -133,7 +133,7 @@
     ]
    ],
    "source": "『こちとら、雑炊かスイトンにでもあり\nつけりゃ上等だっていうのによ』<CLR><PAGE2><C90><RESET>\n<END>",
-   "target": "『우리야 죽이나 수제비라도 얻어\n먹으면 감지덕지인데 말이야』<CLR><PAGE2><C90><RESET>\n<END>",
+   "target": "『우리야 죽이나 수제비라도\n얻어먹으면 감지덕지인데 말이야』<CLR><PAGE2><C90><RESET>\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -422,7 +422,7 @@
     ]
    ],
    "source": "「すみません、今あいにく満卓でして」\n<END>",
-   "target": "「죄송합니다, 지금 공교롭게\n만탁이라서요」\n<END>",
+   "target": "「죄송합니다, 하필 지금\n만탁이라서요」\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -456,7 +456,7 @@
     ]
    ],
    "source": "<SE:05><WIN:0100><PORTR:0003><PAGE><FACE:01>（くそっ！　こんな奴ら相手に、負ける\n俺じゃねぇのに…！）\n<END>",
-   "target": "<SE:05><WIN:0100><PORTR:0003><PAGE><FACE:01>（젠장! 이런 놈들 상대로 질\n내가 아닌데…!）\n<END>",
+   "target": "<SE:05><WIN:0100><PORTR:0003><PAGE><FACE:01>（젠장! 내가 이런 놈들한테\n질 리가 없는데…!）\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -983,7 +983,7 @@
     ]
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363>『ご、五百匹…！』\n『俺の一ヶ月分の給料じゃねぇか…！』\n<END>",
-   "target": "<NOFACE><PORTR:6363><PORTL:6363>『오, 500필…!』\n『내 한 달치 월급이잖아…!』\n<END>",
+   "target": "<NOFACE><PORTR:6363><PORTL:6363>『오, 500필…!』\n『내 한 달 치 월급이잖아…!』\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -1255,7 +1255,7 @@
     ]
    ],
    "source": "（大した雀力じゃねぇみてぇに見える）\n<END>",
-   "target": "（마작 실력은 별것 아닌 것처럼\n보인다）\n<END>",
+   "target": "（마작 실력은 별 볼 일 없어\n보인다）\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -1357,7 +1357,7 @@
     ]
    ],
    "source": "（最後に何か、やってくるのか？）\n<END>",
-   "target": "（마지막에 뭔가 걸어오려나?）\n<END>",
+   "target": "（마지막에 뭔가 수를 쓰려나?）\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -1629,7 +1629,7 @@
     ]
    ],
    "source": "<PORTL:0500><FACE:05><SE:10>「…どうした兄さん？　やけに動揺して\nるじゃねぇか」\n<END>",
-   "target": "<PORTL:0500><FACE:05><SE:10>「…왜 그래 형씨? 꽤나\n동요하고 있잖아」\n<END>",
+   "target": "<PORTL:0500><FACE:05><SE:10>「…왜 그래 형씨? 꽤나\n흔들리고 있잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },
@@ -1714,7 +1714,7 @@
     ]
    ],
    "source": "<PORTR:6363><PORTR:0400><FACE:04>「ああ…房州さんに負けたんじゃ、諦め\nもつくってもんだ…」\n<END>",
-   "target": "<PORTR:6363><PORTR:0400><FACE:04>「아아… 보슈 씨한테 진 거라면\n그나마 체념이 되지…」\n<END>",
+   "target": "<PORTR:6363><PORTR:0400><FACE:04>「아아… 보슈 씨한테 진 거라면\n그나마 포기가 되지…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r00p0.reviewed.json"
   },

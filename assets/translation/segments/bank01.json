@@ -371,7 +371,7 @@
     ]
    ],
    "source": "（カモ同然の相手なのに、とんとんのま\nま、もうオーラスか…）\n<END>",
-   "target": "（호구나 다름없는 상대인데\n팽팽한 채로 벌써 올라스인가…）\n<END>",
+   "target": "（호구나 다름없는 상대인데\n본전치기로 벌써 올라스인가…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -932,7 +932,7 @@
     ]
    ],
    "source": "<PORTL:0301><FACE:16>「う～ん…」\n<END>",
-   "target": "<PORTL:0301><FACE:16>「으~음…」\n<END>",
+   "target": "<PORTL:0301><FACE:16>「으음…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -1680,7 +1680,7 @@
     ]
    ],
    "source": "<PORTL:0400><FACE:17>「ちっ。やられたなァ」\n<END>",
-   "target": "<PORTL:0400><FACE:17>「쳇. 당했구만」\n<END>",
+   "target": "<PORTL:0400><FACE:17>「쳇. 당했구먼」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -2241,7 +2241,7 @@
     ]
    ],
    "source": "<FACE:05>「なんだ…こないだの坊やじゃねぇか」\n<END>",
-   "target": "<FACE:05>「뭐야… 요전의 꼬마잖아」\n<END>",
+   "target": "<FACE:05>「뭐야… 요전 그 꼬마잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -2445,7 +2445,7 @@
     ]
    ],
    "source": "<FACE:05>「…やれやれ。まだなんで勝てねぇか、\nわかってねぇのかよ」\n<END>",
-   "target": "<FACE:05>「…이런이런. 아직도 왜\n못 이기는지 모르는 거냐」\n<END>",
+   "target": "<FACE:05>「…나 원 참. 아직도 왜\n못 이기는지 모르는 거냐」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -2530,7 +2530,7 @@
     ]
    ],
    "source": "<FACE:05>「…そうだな。次に来る奴が…」\n<END>",
-   "target": "<FACE:05>「…그래. 다음에 올 녀석이…」\n<END>",
+   "target": "<FACE:05>「…어디 보자.\n다음에 올 녀석이…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -2751,7 +2751,7 @@
     ]
    ],
    "source": "<PORTR:6363><PORTL:0502><FACE:05>「…だから勝てねぇって言ったんだよ」\n<END>",
-   "target": "<PORTR:6363><PORTL:0502><FACE:05>「…그러니까 못 이긴다고\n말한 거라고」\n<END>",
+   "target": "<PORTR:6363><PORTL:0502><FACE:05>「…그러니까 못 이긴다고\n한 거야」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -2853,7 +2853,7 @@
     ]
    ],
    "source": "<FACE:01>「ふざけんじゃ…！」\n<END>",
-   "target": "<FACE:01>「장난하지…!」\n<END>",
+   "target": "<FACE:01>「웃기지…!」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -2972,7 +2972,7 @@
     ]
    ],
    "source": "<FACE:05>「か～。全然わかってねぇ…」\n<END>",
-   "target": "<FACE:05>「허~. 전혀 모르는구만…」\n<END>",
+   "target": "<FACE:05>「허~. 전혀 모르는구먼…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -3669,7 +3669,7 @@
     ]
    ],
    "source": "<FACE:1e><PORTL:0600>「フ…なるほどな。じゃ、ちょっと付き\n合ってもらおうか」\n<END>",
-   "target": "<FACE:1e><PORTL:0600>「후… 그렇군. 그럼 잠깐\n상대해 줘야겠군」\n<END>",
+   "target": "<FACE:1e><PORTL:0600>「후… 그렇군. 그럼 잠깐\n상대해 줘야겠다」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -3873,7 +3873,7 @@
     ]
    ],
    "source": "<PORTL:0500><FACE:05>「よぉ、ずいぶん早かったな。何局もっ\nた？」\n<END>",
-   "target": "<PORTL:0500><FACE:05>「여어, 꽤 빨랐구만.\n몇 판 버텼나?」\n<END>",
+   "target": "<PORTL:0500><FACE:05>「여어, 꽤 빨랐구먼.\n몇 판 버텼나?」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -3907,7 +3907,7 @@
     ]
    ],
    "source": "<FACE:05>「か～。全然ダメだな。どうせ三人がか\nりで、へこまされたんだろう…」\n<END>",
-   "target": "<FACE:05>「허~. 영 글렀군. 어차피 셋이\n달려들어서 찌그러뜨렸겠지…」\n<END>",
+   "target": "<FACE:05>「허~. 영 글렀군. 어차피 셋이\n달려들어 널 뭉개 놨겠지…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -3992,7 +3992,7 @@
     ]
    ],
    "source": "「おめぇは今まで、金っていう緩衝材に\n守られてたんだ」\n<END>",
-   "target": "「넌 여태 돈이란 완충재에\n보호받고 있었던 거다」\n<END>",
+   "target": "「넌 여태 돈이란 완충재의\n보호를 받고 있었던 거다」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p0.reviewed.json"
   },
@@ -4893,7 +4893,7 @@
     ]
    ],
    "source": "（頭、固ぇわ、俺…）\n<END>",
-   "target": "（머리가 굳었군, 나…）\n<END>",
+   "target": "（나도 참 머리가 꽉 막혔군…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -4910,7 +4910,7 @@
     ]
    ],
    "source": "<PAGE2><PORTL:6363><WIN:1700><PAGE><FACE:01>（この固ぇ頭…叩き割んなきゃ、\nダメだ！）\n<END>",
-   "target": "<PAGE2><PORTL:6363><WIN:1700><PAGE><FACE:01>（이 굳은 머리… 깨부수지\n않으면 안 돼!）\n<END>",
+   "target": "<PAGE2><PORTL:6363><WIN:1700><PAGE><FACE:01>（이 꽉 막힌 머리…\n때려 부숴야 해!）\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -5097,7 +5097,7 @@
     ]
    ],
    "source": "<FACE:01>「腹痛ぇって言って、便所に入って窓か\nら逃げてきた」\n<END>",
-   "target": "<FACE:01>「배 아프다고 하고 변소에 들어가\n창문으로 도망쳤어」\n<END>",
+   "target": "<FACE:01>「배 아프다며 변소에 들어가서\n창문으로 도망쳤어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -5148,7 +5148,7 @@
     ]
    ],
    "source": "「力ってのが何なのか、わかってきたじ\nゃねぇか。え？　坊や」\n<END>",
-   "target": "「힘이란 게 뭔지 슬슬 알게 된\n모양이잖아. 응? 꼬마」\n<END>",
+   "target": "「힘이란 게 뭔지 슬슬 감이\n오는 모양이군. 응? 꼬마」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -5233,7 +5233,7 @@
     ]
    ],
    "source": "「博奕ってのは、いわば心理戦。自分よ\nり弱ぇと思えば、潰しにかかる…」\n<END>",
-   "target": "「노름이란 건 말하자면 심리전.\n자기보다 약하면 뭉개러 들어…」\n<END>",
+   "target": "「노름이란 건 말하자면 심리전.\n만만하다 싶으면 뭉개러 들어…」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6236,7 +6236,7 @@
     ]
    ],
    "source": "「今日は金持ってんのかよ」\n<END>",
-   "target": "「오늘은 돈은 가져왔냐」\n<END>",
+   "target": "「오늘은 돈 가져왔냐」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6321,7 +6321,7 @@
     ]
    ],
    "source": "（てめぇには、玄人の厳しさを骨身にし\nみるほど叩き込まれたからな…）\n<END>",
-   "target": "（네놈한텐 바이닌의 혹독함을\n뼈에 사무치게 배웠으니까…）\n<END>",
+   "target": "（네놈한테 바이닌의 혹독함을\n뼈저리게 배웠으니까…）\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6423,7 +6423,7 @@
     ]
    ],
    "source": "<PORTL:0600><FACE:06>「…どうでもいいだろ、そんなこと」\n<END>",
-   "target": "<PORTL:0600><FACE:06>「…그런 건 아무래도 좋잖아」\n<END>",
+   "target": "<PORTL:0600><FACE:06>「…그딴 건 아무래도 상관없잖아」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6508,7 +6508,7 @@
     ]
    ],
    "source": "<PORTR:0000>（…待てよ…そっちがそう来るなら、\nこっちだってやってやる…！）\n<END>",
-   "target": "<PORTR:0000>（…잠깐… 그쪽이 그렇게 나온다면\n이쪽도 해 주겠어…!）\n<END>",
+   "target": "<PORTR:0000>（…잠깐… 그쪽이 그렇게 나온다면\n이쪽도 가만있지 않겠어…!）\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6695,7 +6695,7 @@
     ]
    ],
    "source": "<PORTL:0600><FACE:06>「おい坊や…そいつが{BLK1}じゃなかったら\n…もう一回ツラ貸してもらうぜ」\n<END>",
-   "target": "<PORTL:0600><FACE:06>「이봐 꼬마… 그게 {BLK1} 아니면\n…낯짝 한 번 더 빌려야겠어」\n<END>",
+   "target": "<PORTL:0600><FACE:06>「이봐 꼬마… 그게 {BLK1} 아니면\n…한 번 더 손봐 줘야겠어」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6797,7 +6797,7 @@
     ]
    ],
    "source": "<PORTL:6363><PORTR:0003><FACE:01>「おい店長！　この店じゃ、この始末\nどうつけてくれるんだよ⁉」\n<END>",
-   "target": "<PORTL:6363><PORTR:0003><FACE:01>「이봐 점장! 이 가게는 이 일,\n어떻게 책임질 거야⁉」\n<END>",
+   "target": "<PORTL:6363><PORTR:0003><FACE:01>「이봐 점장! 이 가게는 이 일을\n어떻게 뒷감당할 거야⁉」\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6899,7 +6899,7 @@
     ]
    ],
    "source": "<NOFACE><PORTR:6363>この後、ペースは哲也のものだった…。\n<END>",
-   "target": "<NOFACE><PORTR:6363>이후, 페이스는\n테쯔야의 것이었다….\n<END>",
+   "target": "<NOFACE><PORTR:6363>그 뒤로 판은 테쯔야의\n페이스대로 흘러갔다….\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
@@ -6916,7 +6916,7 @@
     ]
    ],
    "source": "もはや、哲也にアヤをつけられる者はな\nく、左手芸を使い放題だったからだ。\n<END>",
-   "target": "더는 테쯔야에게 트집 잡을 자가\n없으니 왼손 기술이 무제한이었다.\n<END>",
+   "target": "더는 테쯔야에게 트집 잡을 자가\n없어 왼손 기술을 맘껏 썼으니까.\n<END>",
    "state": "reviewed",
    "notes": "draft:r01p1.reviewed.json"
   },
