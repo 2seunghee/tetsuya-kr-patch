@@ -180,7 +180,7 @@
    ],
    "source": "<SE:12><WIN:0b03><WAIT:3c><PORTL:0b04><PAGE><FACE:0b>「ねぇ、哲さん…もう昼だよ」\n<END>",
    "target": "<SE:12><WIN:0b03><WAIT:3c><PORTL:0b04><PAGE><FACE:0b>「저기, 테쯔 형님…\n벌써 낮이에요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -362,7 +362,7 @@
    ],
    "source": "「打ちに行こうよ」\n<END>",
    "target": "「치러 가요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -544,7 +544,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「ん…ああ…」\n<END>",
    "target": "<PORTR:0100><FACE:01>「응… 아아…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -726,7 +726,7 @@
    ],
    "source": "<PORTL:0b00><FACE:0b>「強い相手とばっかり打ちたがるから、\n相手がいなくなるんスよ」\n<END>",
    "target": "<PORTL:0b00><FACE:0b>「센 상대하고만 치려고 하니까\n상대가 없어지는 거라고요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -908,7 +908,7 @@
    ],
    "source": "「少しは弱い相手と打って、楽して儲け\nること覚えなきゃダメっスよ」\n<END>",
    "target": "「가끔은 약한 상대랑 쳐서 편하게\n버는 것도 배워야 한다고요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -1090,7 +1090,7 @@
    ],
    "source": "<FACE:01>「…ああ…」\n<END>",
    "target": "<FACE:01>「…아아…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -1272,7 +1272,7 @@
    ],
    "source": "<PORTL:0b01><FACE:0b>「もう…哲さん！　そんな小難しい本読\nんでないで、打ちに行きましょ、ね！」\n<END>",
    "target": "<PORTL:0b01><FACE:0b>「에이, 테쯔 형님! 그런 어려운\n책 그만 읽고 치러 가요, 네!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -1454,7 +1454,7 @@
    ],
    "source": "<FACE:01>「ん…ああ…」\n<END>",
    "target": "<FACE:01>「응… 아아…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -1636,7 +1636,7 @@
    ],
    "source": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0502><SE:03><WAIT:3c><PORTR:0100><PAGE><FACE:01>（…一度鳴いてツモ巡を変えてくれ）\n<END>",
    "target": "<PAGE2><PORTR:6363><PORTL:6363><WIN:0502><SE:03><WAIT:3c><PORTR:0100><PAGE><FACE:01>（…한 번 울어서\n쯔모 순을 바꿔 줘）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -1818,7 +1818,7 @@
    ],
    "source": "<PORTL:0b00><FACE:0b>（…よしきた！）\n<END>",
    "target": "<PORTL:0b00><FACE:0b>（…좋았어!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -2000,7 +2000,7 @@
    ],
    "source": "<PORTL:0b01>「ポン！」<SE:25>\n<END>",
    "target": "<PORTL:0b01>「퐁!」<SE:25>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -2182,7 +2182,7 @@
    ],
    "source": "<PORTR:6363><PORTL:0b00>（…へへっ）\n<END>",
    "target": "<PORTR:6363><PORTL:0b00>（…헤헷）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -2364,7 +2364,7 @@
    ],
    "source": "（俺たちコンビが完全に機能してる今、\n負ける要素は万に一つも無ぇ！）\n<END>",
    "target": "（콤비가 완벽히 돌아가는 지금,\n질 리가 만에 하나도 없어!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -2546,7 +2546,7 @@
    ],
    "source": "<PORTR:0100><PORTL:6363><FACE:01><SE:23>「ツモ…満貫」\n<END>",
    "target": "<PORTR:0100><PORTL:6363><FACE:01><SE:23>「쯔모… 만관」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -2728,7 +2728,7 @@
    ],
    "source": "<PORTL:0301><FACE:16>「クソッ！」\n<END>",
    "target": "<PORTL:0301><FACE:16>「젠장!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -2910,7 +2910,7 @@
    ],
    "source": "<PORTL:0401><FACE:17>「タネ切れだ！」\n<END>",
    "target": "<PORTL:0401><FACE:17>「밑천 바닥이다!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -3092,7 +3092,7 @@
    ],
    "source": "<NOFACE><PORTL:0b00><FACE:0b>「へへ…やったね、哲さん」\n<END>",
    "target": "<NOFACE><PORTL:0b00><FACE:0b>「헤헤… 해냈네요, 테쯔 형님」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -3274,7 +3274,7 @@
    ],
    "source": "「俺たちコンビにかかっちゃ、赤ん坊\n同然っスね」\n<END>",
    "target": "「우리 콤비한테 걸리면 다들\n갓난애나 다름없죠」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -3456,7 +3456,7 @@
    ],
    "source": "<FACE:01>「ああ…」\n<END>",
    "target": "<FACE:01>「아아…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -3638,7 +3638,7 @@
    ],
    "source": "「それにしても…しびれるような博奕を\n打てる相手は、いねぇな…」\n<END>",
    "target": "「그건 그렇고… 짜릿한 노름을\n칠 만한 상대가 없군…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -3820,7 +3820,7 @@
    ],
    "source": "<PORTR:6363><PORTL:0b01><FACE:0b>「よし！　俺だって哲さんのオヒキやっ\nてんだ」\n<END>",
    "target": "<PORTR:6363><PORTL:0b01><FACE:0b>「좋아! 나도 테쯔 형님의\n오히키란 말이다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -4002,7 +4002,7 @@
    ],
    "source": "「ここはひとつ、哲さんのお眼鏡にかな\nう、強そうな奴を…」\n<END>",
    "target": "「이참에 테쯔 형님 눈에 찰 만한\n강해 보이는 놈을…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -4184,7 +4184,7 @@
    ],
    "source": "<PORTL:0b00>「…とは言ったものの…」\n<END>",
    "target": "<PORTL:0b00>「…라고는 했지만…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -4366,7 +4366,7 @@
    ],
    "source": "「そう簡単に見つかりゃしねぇか…」\n<END>",
    "target": "「그리 쉽게 찾아질 리 없지…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -4548,7 +4548,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「今日はもういいじゃねぇか…こんだけ\n稼いだんだ」\n<END>",
    "target": "<PORTR:0100><FACE:01>「오늘은 이만하면 됐잖아…\n이만큼 벌었는데」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -4730,7 +4730,7 @@
    ],
    "source": "「しばらくは食っていけるぜ」\n<END>",
    "target": "「당분간은 먹고살 수 있어」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -4912,7 +4912,7 @@
    ],
    "source": "<BGM:01><PORTR:6363><PORTL:0b01><FACE:0b>「そうっスね。今日のところは…」\n<END>",
    "target": "<BGM:01><PORTR:6363><PORTL:0b01><FACE:0b>「그렇죠. 오늘은 이쯤에서…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -5094,7 +5094,7 @@
    ],
    "source": "<PORTL:0b00>「…ん？」\n<END>",
    "target": "<PORTL:0b00>「…응?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -5276,7 +5276,7 @@
    ],
    "source": "<PORTL:0b02>「…！！」\n<END>",
    "target": "<PORTL:0b02>「…!!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -5458,7 +5458,7 @@
    ],
    "source": "<PORTL:0b03>「み…見つけた…ぜ！」\n<END>",
    "target": "<PORTL:0b03>「차… 찾았다…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -5640,7 +5640,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「どうしたダンチ？…帰るぜ」\n<END>",
    "target": "<PORTR:0100><FACE:01>「왜 그래, 단치?\n…돌아간다고」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -5822,7 +5822,7 @@
    ],
    "source": "<FACE:0b>「あいつらと…」\n<END>",
    "target": "<FACE:0b>「저놈들하고…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -6004,7 +6004,7 @@
    ],
    "source": "<FACE:01>「…？」\n<END>",
    "target": "<FACE:01>「…?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -6186,7 +6186,7 @@
    ],
    "source": "<FACE:0b>「あいつらと、打ちましょう…」\n<END>",
    "target": "<FACE:0b>「저놈들하고 치죠…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -6368,7 +6368,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><SE:08><PORTL:1000><FACE:10>「あ、それ…当たりです」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><SE:08><PORTL:1000><FACE:10>「아, 그거… 당첨입니다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -6550,7 +6550,7 @@
    ],
    "source": "<PORTR:0201><FACE:18>「くそっ…最初は楽勝ペースだったのに\nよォ」\n<END>",
    "target": "<PORTR:0201><FACE:18>「젠장… 처음엔 내가 여유롭게\n이기고 있었는데 말이야」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -6732,7 +6732,7 @@
    ],
    "source": "<PORTL:1100><FACE:11>「いつもは負けてばかりなんですけどね\nぇ」\n<END>",
    "target": "<PORTL:1100><FACE:11>「평소엔 지기만 하는데 말이에요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -6914,7 +6914,7 @@
    ],
    "source": "<PORTL:1000><FACE:10>「今日は運が良かったんですよ」\n<END>",
    "target": "<PORTL:1000><FACE:10>「오늘은 운이 좋았어요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -7096,7 +7096,7 @@
    ],
    "source": "<PORTR:6363><PORTL:1100><FACE:11>「またよろしくお願いします」\n<END>",
    "target": "<PORTR:6363><PORTL:1100><FACE:11>「또 잘 부탁드려요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -7278,7 +7278,7 @@
    ],
    "source": "<PORTL:6363><PORTR:0100><FACE:01>「…またトーシロだろ？　明日でもいい\nじゃねぇか」\n<END>",
    "target": "<PORTL:6363><PORTR:0100><FACE:01>「…또 초짜잖아? 내일 해도\n되잖아」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -7460,7 +7460,7 @@
    ],
    "source": "<PORTL:0b03><FACE:0b>「トーシロじゃ悪いっスか…トーシロか\nら、かっぱいじゃ悪いっスか⁉」\n<END>",
    "target": "<PORTL:0b03><FACE:0b>「초짜면 안 되냐고요… 초짜를\n털면 안 되냐고요⁉」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -7642,7 +7642,7 @@
    ],
    "source": "「哲さんの気が向かねぇなら別にいいっ\nス。俺一人で打ってきますよ！」\n<END>",
    "target": "「테쯔 형님이 내키지 않으면\n됐어요. 나 혼자 치고 올게요!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -7824,7 +7824,7 @@
    ],
    "source": "<PORTL:6363><FACE:01>「…たく、しょうがねぇなァ」\n<END>",
    "target": "<PORTL:6363><FACE:01>「…하여간, 어쩔 수 없군」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -8006,7 +8006,7 @@
    ],
    "source": "<PORTR:0b03><FACE:0b>「…一局、打たせてもらえるかい？」\n<END>",
    "target": "<PORTR:0b03><FACE:0b>「…한 판, 같이 쳐도 되겠어?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -8188,7 +8188,7 @@
    ],
    "source": "<PORTL:1100><FACE:11>「ええ。丁度いま終ったとこです」\n<END>",
    "target": "<PORTL:1100><FACE:11>「네. 마침 지금 끝난 참이에요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -8370,7 +8370,7 @@
    ],
    "source": "<PORTL:1000><FACE:10>「どうぞ座って下さい」\n<END>",
    "target": "<PORTL:1000><FACE:10>「어서 앉으세요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -8552,7 +8552,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「………」<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:09><C_B2:01><SETF:02>\n<END>",
    "target": "<PORTR:0100><FACE:01>「………」<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:09><C_B2:01><SETF:02>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -8734,7 +8734,7 @@
    ],
    "source": "<SE:05><WIN:0502><PORTR:0b03><PAGE><FACE:0b>「くそっ！」\n<END>",
    "target": "<SE:05><WIN:0502><PORTR:0b03><PAGE><FACE:0b>「젠장!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -8916,7 +8916,7 @@
    ],
    "source": "<PORTL:1000><FACE:10>「いやぁ、家庭麻雀しかやってなかった\nものですから」\n<END>",
    "target": "<PORTL:1000><FACE:10>「아이고, 집안 마작밖에\n안 해 봤던지라」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -9098,7 +9098,7 @@
    ],
    "source": "「さすがに見ず知らずの人と打つと緊張\nしますね～」\n<END>",
    "target": "「아무래도 생판 모르는 분과 치면\n긴장되네요~」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -9280,7 +9280,7 @@
    ],
    "source": "<PORTL:1100><FACE:11>「ほんとね。ホホホホ」\n<END>",
    "target": "<PORTL:1100><FACE:11>「정말이에요. 호호호호」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -9462,7 +9462,7 @@
    ],
    "source": "<FACE:0b>（…どうやら、てめぇらは俺のことを忘\nれてるみてぇだが…）\n<END>",
    "target": "<FACE:0b>（…아무래도 네놈들은 나를\n잊어버린 모양이다만…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -9644,7 +9644,7 @@
    ],
    "source": "（俺は忘れてねぇぜ…あの時のことを…\n！）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:09><C_B2:01><SETF:02>\n<END>",
    "target": "（난 잊지 않았어…\n그때 일을…!）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:09><C_B2:01><SETF:02>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -9826,7 +9826,7 @@
    ],
    "source": "<SE:0a><WIN:0502><PORTL:1000><PAGE><FACE:10>「まいったなぁ…」\n<END>",
    "target": "<SE:0a><WIN:0502><PORTL:1000><PAGE><FACE:10>「이거 참… 난처하네요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -10008,7 +10008,7 @@
    ],
    "source": "<PORTL:1100><FACE:11>「もう…もう、やめましょう…あなた」\n<END>",
    "target": "<PORTL:1100><FACE:11>「이제… 이제 그만해요… 여보」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -10190,7 +10190,7 @@
    ],
    "source": "「困りますよ…今月どうやって生活する\nんですか…」\n<END>",
    "target": "「곤란해요… 이번 달은 어떻게\n살라고요…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -10372,7 +10372,7 @@
    ],
    "source": "「すみません…少し、返してもらえませ\nんか？」\n<END>",
    "target": "「죄송하지만… 조금만 돌려주시면\n안 될까요?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -10554,7 +10554,7 @@
    ],
    "source": "「もうすぐ、家賃を払わなきゃいけない\nし…」\n<END>",
    "target": "「곧 집세도 내야 하고…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -10736,7 +10736,7 @@
    ],
    "source": "<PORTR:0b03><FACE:0b>「それなら博奕で取り返せばいいだろ…\n続行だ！」\n<END>",
    "target": "<PORTR:0b03><FACE:0b>「그럼 노름으로 되찾으면 되잖아…\n계속이다!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -10918,7 +10918,7 @@
    ],
    "source": "<NOFACE><SE:28><PORTR:6363><PORTL:1000><FACE:10>「………」\n<END>",
    "target": "<NOFACE><SE:28><PORTR:6363><PORTL:1000><FACE:10>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -11100,7 +11100,7 @@
    ],
    "source": "<PORTL:1100><FACE:11>「………」\n<END>",
    "target": "<PORTL:1100><FACE:11>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -11282,7 +11282,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>（…これは…やはりな）\n<END>",
    "target": "<PORTR:0100><FACE:01>（…이건… 역시나）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -11464,7 +11464,7 @@
    ],
    "source": "<PORTL:6363>（表向きはあくまでトーシロを装ってい\nるが…）\n<END>",
    "target": "<PORTL:6363>（겉으로는 어디까지나 초짜인\n척하고 있지만…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -11646,7 +11646,7 @@
    ],
    "source": "（相当麻雀をやり込んでいる手つきだ…\n待ちを読めねぇ程度の打ち手じゃねぇ）\n<END>",
    "target": "（마작깨나 쳐 본 손놀림이다…\n대기도 못 읽을 타자가 아니야）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -11828,7 +11828,7 @@
    ],
    "source": "<BGM:01>（この夫婦…玄人だ！）\n<END>",
    "target": "<BGM:01>（이 부부… 바이닌이다!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -12010,7 +12010,7 @@
    ],
    "source": "<NOFACE><PORTR:1101><SE:27><PORTL:1001><SE:26><FACE:01>（積み込みやがった…！）<C33:0a><SE:1c>\n<END>",
    "target": "<NOFACE><PORTR:1101><SE:27><PORTL:1001><SE:26><FACE:01>（패를 쌓아 넣었어…!）<C33:0a><SE:1c>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -12192,7 +12192,7 @@
    ],
    "source": "<PORTR:6363><PORTL:6363><SE:04><PORTR:0100><FACE:01>（相手が玄人なら遠慮はいらねぇ。この\n勝負…勝ちに行くぜ！）\n<END>",
    "target": "<PORTR:6363><PORTL:6363><SE:04><PORTR:0100><FACE:01>（바이닌이 상대면 봐줄 것 없다.\n이 승부… 반드시 이긴다!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -12374,7 +12374,7 @@
    ],
    "source": "（…ダンチ、{BLK0}を送り込んでくれ）\n<END>",
    "target": "（…단치, {BLK0} 패를 보내 줘）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -12556,7 +12556,7 @@
    ],
    "source": "<PORTL:0b05><FACE:0b>（………）\n<END>",
    "target": "<PORTL:0b05><FACE:0b>（………）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -12738,7 +12738,7 @@
    ],
    "source": "（ありませんよ…）\n<END>",
    "target": "（없다고요…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -12920,7 +12920,7 @@
    ],
    "source": "<PORTR:0102><FACE:01>（…何だと⁉）\n<END>",
    "target": "<PORTR:0102><FACE:01>（…뭐라고⁉）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -13102,7 +13102,7 @@
    ],
    "source": "（俺の山からの配牌だぞ…）\n<END>",
    "target": "（내 패산에서 나온 배패라고…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -13284,7 +13284,7 @@
    ],
    "source": "（お前の手に{BLK0}が入ってることぐらい、\nわかってるんだ！）\n<END>",
    "target": "（네 손에 {BLK0} 패가 들어 있는 건\n다 알고 있다고!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -13466,7 +13466,7 @@
    ],
    "source": "（なぜ俺に{BLK0}をよこさない…⁉）\n<END>",
    "target": "（왜 나한테 {BLK0} 패를\n안 넘기는 거야…⁉）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -13648,7 +13648,7 @@
    ],
    "source": "<FACE:0b>（{BLK0}なんか無ぇよ…！）\n<END>",
    "target": "<FACE:0b>（{BLK0} 패 따윈 없어…!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -13830,7 +13830,7 @@
    ],
    "source": "<PORTR:0103><FACE:01>（なぜだ…一体どうしたってんだ、ダン\nチ！）\n<END>",
    "target": "<PORTR:0103><FACE:01>（왜지… 대체 어떻게 된 거야,\n단치!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -14012,7 +14012,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:1101><FACE:11>「………」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:1101><FACE:11>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -14194,7 +14194,7 @@
    ],
    "source": "<PORTL:1001><FACE:10>「………」\n<END>",
    "target": "<PORTL:1001><FACE:10>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -14376,7 +14376,7 @@
    ],
    "source": "<PORTR:0102><FACE:01>（エレベーター…！）\n<END>",
    "target": "<PORTR:0102><FACE:01>（엘리베이터…!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -14558,7 +14558,7 @@
    ],
    "source": "<PORTL:6363><PORTR:0103>（夫婦でコンビ打ちとはな…くそっ）\n<END>",
    "target": "<PORTL:6363><PORTR:0103>（부부가 콤비 마작이라니… 젠장）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -14740,7 +14740,7 @@
    ],
    "source": "（こっちが息を合わせなきゃ、流れが向\nこうに行っちまう…）\n<END>",
    "target": "（우리가 호흡을 맞추지 않으면\n흐름이 저쪽으로 넘어가 버려…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -14922,7 +14922,7 @@
    ],
    "source": "<PORTR:1100><FACE:11><SE:29>「リーチです」\n<END>",
    "target": "<PORTR:1100><FACE:11><SE:29>「리치입니다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -15104,7 +15104,7 @@
    ],
    "source": "<PORTR:0103><FACE:01>（一鳴きすれば俺もテンパイ…こいつら\nに追いつく…）\n<END>",
    "target": "<PORTR:0103><FACE:01>（한 번만 울면 나도 텐파이…\n이놈들을 따라잡는다…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -15286,7 +15286,7 @@
    ],
    "source": "（俺の言う事を聞け、ダンチ…{BLK0}を捨て\nるんだ！）\n<END>",
    "target": "（내 말을 들어, 단치… {BLK0} 패를\n버리는 거다!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -15468,7 +15468,7 @@
    ],
    "source": "<PORTL:0b05><FACE:0b>「………」\n<END>",
    "target": "<PORTL:0b05><FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -15650,7 +15650,7 @@
    ],
    "source": "<PORTL:1000><FACE:10>「いやぁ、やっとアガれました…」\n<END>",
    "target": "<PORTL:1000><FACE:10>「아이고, 겨우 화료했네요…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -15832,7 +15832,7 @@
    ],
    "source": "<SE:23>「タンピン三色・ドラ二、親ッパネ\nです」\n<END>",
    "target": "<SE:23>「탕핑 삼색・도라 2,\n오야 하네만입니다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -16014,7 +16014,7 @@
    ],
    "source": "<PORTL:0b03><FACE:0b>「くそっ！」\n<END>",
    "target": "<PORTL:0b03><FACE:0b>「젠장!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -16196,7 +16196,7 @@
    ],
    "source": "<FACE:01>（…どういうつもりだ⁉）\n<END>",
    "target": "<FACE:01>（…무슨 생각이야⁉）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -16378,7 +16378,7 @@
    ],
    "source": "（なぜ、{BLK0}を捨てなかった…！）\n<END>",
    "target": "（왜 {BLK0} 패를 안 버렸어…!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -16560,7 +16560,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -16742,7 +16742,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:1100><PORTL:1000><FACE:10>「いやぁ、家庭麻雀しかやってなかった\nものですから…」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:1100><PORTL:1000><FACE:10>「아이고, 집안 마작밖에\n안 해 봤던지라…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -16924,7 +16924,7 @@
    ],
    "source": "「さすがに見ず知らずの人と打つと、緊\n張しますね」\n<END>",
    "target": "「아무래도 생판 모르는 분과 치면\n긴장되네요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -17106,7 +17106,7 @@
    ],
    "source": "<FACE:11>「ほんとね。ホホホ」\n<END>",
    "target": "<FACE:11>「정말이에요. 호호호」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -17288,7 +17288,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTL:0b03><FACE:0b>「………」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTL:0b03><FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -17470,7 +17470,7 @@
    ],
    "source": "（…来てる…流れは俺に来てるんだ！）\n<END>",
    "target": "（…왔어… 흐름은\n나한테 와 있다고!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -17652,7 +17652,7 @@
    ],
    "source": "（{BLK8}{BLK10}シャボ待ちのテンパイ…ツモって\n四暗刻！）\n<END>",
    "target": "（{BLK8}{BLK10} 샤보 대기 텐파이…\n쯔모하면 사암각!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -17834,7 +17834,7 @@
    ],
    "source": "（…行ける…この手であの時の礼はきっ\nちり…！）\n<END>",
    "target": "（…된다… 이 패로 그때의\n답례는 확실하게…!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -18016,7 +18016,7 @@
    ],
    "source": "<PORTR:1100><FACE:11><SE:29>「リーチです」\n<END>",
    "target": "<PORTR:1100><FACE:11><SE:29>「리치입니다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -18198,7 +18198,7 @@
    ],
    "source": "<FACE:0b>「くっ…」\n<END>",
    "target": "<FACE:0b>「큭…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -18380,7 +18380,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>（ダンチ、鳴け！　ツモ巡が変われば、\nツモで俺のアガりだ！）\n<END>",
    "target": "<PORTR:0100><FACE:01>（단치, 울어! 쯔모 순이 바뀌면\n내가 쯔모로 화료한다!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -18562,7 +18562,7 @@
    ],
    "source": "<FACE:0b>（こっちは役満張ってんだ…鳴いて降り\nるなんて真っ平ごめんだ！）\n<END>",
    "target": "<FACE:0b>（이쪽은 역만을 걸고 있다고…\n울고 내리다니 딱 질색이다!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -18744,7 +18744,7 @@
    ],
    "source": "<PORTR:0103><FACE:01>（…よせ！）\n<END>",
    "target": "<PORTR:0103><FACE:01>（…그만둬!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -18926,7 +18926,7 @@
    ],
    "source": "<FACE:0b>（俺にだって、勝負に行かなきゃなんね\nぇ時があんだよ！）\n<END>",
    "target": "<FACE:0b>（나한테도 승부에 나가야만\n하는 때가 있다고!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -19108,7 +19108,7 @@
    ],
    "source": "<PORTR:0102><FACE:01>（………）\n<END>",
    "target": "<PORTR:0102><FACE:01>（………）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -19290,7 +19290,7 @@
    ],
    "source": "（勝負…あったな）\n<END>",
    "target": "（승부… 났군）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -19472,7 +19472,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:1100><PORTL:1000><FACE:10><SE:24>「ロン…親倍です」\n<END>",
    "target": "<NOFACE><PORTR:6363><PORTL:6363><PORTR:1100><PORTL:1000><FACE:10><SE:24>「론… 오야 배만입니다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -19654,7 +19654,7 @@
    ],
    "source": "<BGM:0a><PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><SE:09><WIN:2501><WAIT:3c><PAGE><FACE:11>「まさか、そんな少ない金で打ちに来て\nるとはね」\n<END>",
    "target": "<BGM:0a><PAGE2><PORTR:6363><PORTL:6363><WIN:0001><WAIT:3c><SE:09><WIN:2501><WAIT:3c><PAGE><FACE:11>「설마 그렇게 적은 돈으로 치러\n왔을 줄이야」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -19836,7 +19836,7 @@
    ],
    "source": "「明日までに金を持って来ないと、どう\nなっても知らないよ？」\n<END>",
    "target": "「내일까지 돈을 안 가져오면\n어떻게 돼도 모른다?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -20018,7 +20018,7 @@
    ],
    "source": "<FACE:10>「何しろ私たちの知り合いは、荒っぽい\n連中ばかりだからな」\n<END>",
    "target": "<FACE:10>「워낙 우리 아는 사람들이 죄다\n거친 패거리라서 말이지」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -20200,7 +20200,7 @@
    ],
    "source": "<FACE:01>「…大した家庭麻雀だな」\n<END>",
    "target": "<FACE:01>「…대단한 집안 마작이군」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -20382,7 +20382,7 @@
    ],
    "source": "<FACE:11>「どうやら、自分たちの立場がわかって\nないようだね」\n<END>",
    "target": "<FACE:11>「아무래도 자기들 처지를\n모르는 모양이구먼」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -20564,7 +20564,7 @@
    ],
    "source": "<WIN:0001>「…お前ら、たっぷりとわからせてやん\nな」\n<END>",
    "target": "<WIN:0001>「…너희들, 톡톡히 가르쳐\n주라고」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -20746,7 +20746,7 @@
    ],
    "source": "<PAGE2><SE:2b><WAIT:0a><SE:2b><WAIT:1e><SE:2b><WAIT:1e><SE:2b><WAIT:14><SE:2b><WAIT:3c><WIN:2601><WAIT:3c><PAGE><FACE:01>「…なァ」\n<END>",
    "target": "<PAGE2><SE:2b><WAIT:0a><SE:2b><WAIT:1e><SE:2b><WAIT:1e><SE:2b><WAIT:14><SE:2b><WAIT:3c><WIN:2601><WAIT:3c><PAGE><FACE:01>「…이봐」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -20928,7 +20928,7 @@
    ],
    "source": "「俺のわかるように説明してくれよ」\n<END>",
    "target": "「내가 알아듣게 설명해 줘」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -21110,7 +21110,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -21292,7 +21292,7 @@
    ],
    "source": "<FACE:01>「なぜだ…なぜなんだ、ダンチ！」\n<END>",
    "target": "<FACE:01>「왜지… 왜냐고, 단치!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -21474,7 +21474,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -21656,7 +21656,7 @@
    ],
    "source": "<FACE:01>「なんで…なんでなんだよ…ダンチ」\n<END>",
    "target": "<FACE:01>「어째서… 어째서냐고… 단치」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -21838,7 +21838,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -22020,7 +22020,7 @@
    ],
    "source": "<FACE:01>「おめぇ何かあったのか…あの夫婦と」\n<END>",
    "target": "<FACE:01>「너 무슨 일 있었냐…\n저 부부하고」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -22202,7 +22202,7 @@
    ],
    "source": "「おめぇがおかしくなったのは、あの夫\n婦を見てからだろ…」\n<END>",
    "target": "「네가 이상해진 건\n저 부부를 보고 나서잖아…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -22384,7 +22384,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -22566,7 +22566,7 @@
    ],
    "source": "<FACE:01>「なァ…ダンチ」\n<END>",
    "target": "<FACE:01>「이봐… 단치」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -22748,7 +22748,7 @@
    ],
    "source": "「俺たち…コンビは…こんなもんだった\nのかよ…」\n<END>",
    "target": "「우리… 콤비는… 고작 이런\n거였냐…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p0.reviewed.json"
   },
   {
@@ -22930,7 +22930,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23112,7 +23112,7 @@
    ],
    "source": "<FACE:01>「俺たちの…コンビはよ…」\n<END>",
    "target": "<FACE:01>「우리… 콤비는 말이야…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23294,7 +23294,7 @@
    ],
    "source": "<FACE:0b>「………」<CLR><BGM:01><PAGE2><WIN:0001><RESET>\n<END>",
    "target": "<FACE:0b>「………」<CLR><BGM:01><PAGE2><WIN:0001><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23311,7 +23311,7 @@
    ],
    "source": "<BGM:00><C_C0:01><WIN:0602><PORTL:1d02><PAGE><FACE:1e>「………」\n<END>",
    "target": "<BGM:00><C_C0:01><WIN:0602><PORTL:1d02><PAGE><FACE:1e>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23328,7 +23328,7 @@
    ],
    "source": "<PAGE2><PORTL:6363><WIN:5801><SE:10><PORTR:0b05><PAGE><FACE:0b>「…しょぼくれたオッサンが怒鳴られて\nるでしょ」\n<END>",
    "target": "<PAGE2><PORTL:6363><WIN:5801><SE:10><PORTR:0b05><PAGE><FACE:0b>「…꾀죄죄한 아저씨가\n혼나고 있죠」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23345,7 +23345,7 @@
    ],
    "source": "<C_C0:02>「あれ…俺の親父っスよ」\n<END>",
    "target": "<C_C0:02>「저 사람… 우리 아버지예요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23362,7 +23362,7 @@
    ],
    "source": "<PAGE2><PORTR:6363><WIN:2702><WAIT:3c><PAGE><FACE:0b>「あいつ…ああ見えても…俺が子供の頃\nは…」\n<END>",
    "target": "<PAGE2><PORTR:6363><WIN:2702><WAIT:3c><PAGE><FACE:0b>「저 사람… 저래 봬도… 내가\n어릴 적엔…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23379,7 +23379,7 @@
    ],
    "source": "「…当時、家ではジャズ喫茶をやってて\n…」\n<END>",
    "target": "「…당시 우리 집은 재즈 찻집을\n했었는데…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23396,7 +23396,7 @@
    ],
    "source": "「ジャズとお客さんの笑い声が絶えなか\nったんだ…」\n<END>",
    "target": "「재즈와 손님들 웃음소리가\n끊이질 않았어요…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23413,7 +23413,7 @@
    ],
    "source": "「でもそのうち、日本は戦争一色になっ\nて…」\n<END>",
    "target": "「하지만 머잖아 일본은\n전쟁 일색이 돼서…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23430,7 +23430,7 @@
    ],
    "source": "「敵国音楽ってことで、ジャズの音も客\nも消えてしまった」\n<END>",
    "target": "「적국 음악이라며 재즈 소리도\n손님도 사라져 버렸죠」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23447,7 +23447,7 @@
    ],
    "source": "<WIN:5800><C_C0:03>「その代りに…<WIN:2502>あの根津夫婦が現われた\nんだ」\n<END>",
    "target": "<WIN:5800><C_C0:03>「그 대신에…<WIN:2502>저 네즈 부부가\n나타났어요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23464,7 +23464,7 @@
    ],
    "source": "<WIN:5800><C_C0:04>「そして親父たちは誘われるままに、や\nつらと麻雀を打つようになった…」\n<END>",
    "target": "<WIN:5800><C_C0:04>「그리고 부모님은 꾐에 넘어가\n그놈들과 마작을 치게 됐어요…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23481,7 +23481,7 @@
    ],
    "source": "「そして…それまで月一回だった麻雀が\n週一回になり…」\n<END>",
    "target": "「그리고… 월 1회였던 마작이\n주 1회가 되더니…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23498,7 +23498,7 @@
    ],
    "source": "「最後には毎晩のように打つようになっ\nて…」<CLR><PAGE2><RESET>\n<END>",
    "target": "「끝내는 거의 매일 밤\n치게 됐죠…」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23515,7 +23515,7 @@
    ],
    "source": "<WIN:0003><WAIT:3c><PORTR:0b05><PAGE><FACE:0b>「親父たちがあんなふうになってから、\n俺は家を出て…」\n<END>",
    "target": "<WIN:0003><WAIT:3c><PORTR:0b05><PAGE><FACE:0b>「부모님이 저렇게 된 뒤로\n난 집을 나와서…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23532,7 +23532,7 @@
    ],
    "source": "「靴磨きなんかやりながら、一人でしの\nいで来たんだ…」\n<END>",
    "target": "「구두닦이 같은 걸 하면서\n혼자 버텨 왔슴다…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23549,7 +23549,7 @@
    ],
    "source": "<PORTL:0100><FACE:01>「だから、おめぇ…」\n<END>",
    "target": "<PORTL:0100><FACE:01>「그래서 너…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23566,7 +23566,7 @@
    ],
    "source": "<PORTL:6363><PORTR:0b03><FACE:0b>「そうよ…始めたんだ…麻雀をよ」\n<END>",
    "target": "<PORTL:6363><PORTR:0b03><FACE:0b>「그래요… 시작했죠… 마작을요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23583,7 +23583,7 @@
    ],
    "source": "「俺の家を滅茶苦茶にしたあの夫婦を…\n俺はこの手で沈めてやる！」\n<END>",
    "target": "「우리 집을 망가뜨린 그 부부를…\n내 손으로 가라앉히고 말겠어!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23600,7 +23600,7 @@
    ],
    "source": "「そのことだけを考えて、そのためだけ\nに生きてきたんだ！」\n<END>",
    "target": "「그것만 생각하며,\n그것만을 위해 살아왔다고!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23617,7 +23617,7 @@
    ],
    "source": "<PORTL:0100><FACE:01>「…そういうことか。おめぇの事情はわ\nかったよ」\n<END>",
    "target": "<PORTL:0100><FACE:01>「…그런 거였군. 네 사정은\n알았어」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23634,7 +23634,7 @@
    ],
    "source": "「だがな…自分の過去をネチネチ掘り返\nしたって、博奕には勝てねぇんだぞ」\n<END>",
    "target": "「하지만… 자기 과거를 자꾸\n들춰 봤자 노름엔 못 이긴다고」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23651,7 +23651,7 @@
    ],
    "source": "<FACE:0b>「………」\n<END>",
    "target": "<FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23668,7 +23668,7 @@
    ],
    "source": "<PORTR:6363><FACE:01>「博奕には、勝つか負けるかしかねぇ」\n<END>",
    "target": "<PORTR:6363><FACE:01>「노름엔 이기느냐 지느냐뿐이야」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23685,7 +23685,7 @@
    ],
    "source": "「私情を持ち込む奴は、勝負に対して降\nりたのと同じだ」\n<END>",
    "target": "「사사로운 감정을 끌어들이면\n승부에서 내린 거나 마찬가지다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23702,7 +23702,7 @@
    ],
    "source": "「勝ちたいのなら、私情を捨てろ！」\n<END>",
    "target": "「이기고 싶다면\n사사로운 감정은 버려!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23719,7 +23719,7 @@
    ],
    "source": "「…やつら、根津夫婦とか言ったな」\n<END>",
    "target": "「…그놈들, 네즈 부부라고 했지」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23736,7 +23736,7 @@
    ],
    "source": "「…打ちに行くぞ」\n<END>",
    "target": "「…치러 간다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23753,7 +23753,7 @@
    ],
    "source": "<PORTR:0b02><FACE:0b>「え？」\n<END>",
    "target": "<PORTR:0b02><FACE:0b>「네?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23770,7 +23770,7 @@
    ],
    "source": "<PORTL:0103><FACE:01>「あの夫婦と打つ！」<CLR><PAGE2><PORTR:6363><PORTL:6363><BGM:01><WAIT:3c><SE:0a><RESET>\n<END>",
    "target": "<PORTL:0103><FACE:01>「그 부부와 친다!」<CLR><PAGE2><PORTR:6363><PORTL:6363><BGM:01><WAIT:3c><SE:0a><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23787,7 +23787,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PORTL:1900><PAGE><FACE:1a>「…夫婦？　さぁ…このへんじゃ見た\nことないね」\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PORTL:1900><PAGE><FACE:1a>「…부부? 글쎄… 이 근처에선\n못 봤는데」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23804,7 +23804,7 @@
    ],
    "source": "<FACE:01>「そうか…あんがとよ」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<FACE:01>「그래… 고맙다」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23821,7 +23821,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0203><SE:2d><WAIT:3c><PORTR:0100><PORTL:1a00><PAGE><FACE:1b>「…麻雀打ちの夫婦だって？　悪いが、\n知らないな」\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0203><SE:2d><WAIT:3c><PORTR:0100><PORTL:1a00><PAGE><FACE:1b>「…마작꾼 부부라고? 미안하지만\n모르겠는걸」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23838,7 +23838,7 @@
    ],
    "source": "<FACE:01>「そうか…じゃぁまたな、店長」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<FACE:01>「그래… 또 보자고, 점장」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23855,7 +23855,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PAGE><FACE:01>「ここに根津夫婦はいねえな…」\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PAGE><FACE:01>「여긴 네즈 부부가 없군…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23872,7 +23872,7 @@
    ],
    "source": "<PORTL:0b05>「早く他行きましょう」<CLR><PAGE2><PORTL:6363><PORTR:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
    "target": "<PORTL:0b05>「얼른 다른 데 가죠」<CLR><PAGE2><PORTL:6363><PORTR:6363><SE:2c><WAIT:3c><SE:2d><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23889,7 +23889,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PORTL:1c00><PAGE><FACE:1c>「お、いらっしゃい坊や」\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PORTL:1c00><PAGE><FACE:1c>「오, 어서 와 꼬마」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23906,7 +23906,7 @@
    ],
    "source": "<FACE:01>（…ここにも、いねぇか）\n<END>",
    "target": "<FACE:01>（…여기에도 없나）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23923,7 +23923,7 @@
    ],
    "source": "「悪いなマスター…またくるよ」\n<END>",
    "target": "「미안해 마스터… 다시 올게」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23940,7 +23940,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><SE:2c><WAIT:1e><SE:2d><PORTL:1c01><FACE:1c>「おいおい…なんだよ坊や！」<CLR><PAGE2><PORTL:6363><RESET>\n<END>",
    "target": "<NOFACE><PORTR:6363><SE:2c><WAIT:1e><SE:2d><PORTL:1c01><FACE:1c>「이봐 이봐… 뭐야 꼬마!」<CLR><PAGE2><PORTL:6363><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23957,7 +23957,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0503><SE:2d><WAIT:3c><PORTR:0100><PORTL:0b03><PAGE><FACE:0b>「…くそっ、あの夫婦どこへ行きやがっ\nた…！」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0503><SE:2d><WAIT:3c><PORTR:0100><PORTL:0b03><PAGE><FACE:0b>「…젠장, 그 부부 어디로\n간 거야…!」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23974,7 +23974,7 @@
    ],
    "source": "<WIN:0003><PORTR:0100><PAGE><FACE:01>「おい、確かここは…」\n<END>",
    "target": "<WIN:0003><PORTR:0100><PAGE><FACE:01>「이봐, 분명 여긴…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -23991,7 +23991,7 @@
    ],
    "source": "<PORTL:0b05><FACE:0b>「俺の親父が働いてる所っス」\n<END>",
    "target": "<PORTL:0b05><FACE:0b>「우리 아버지가 일하는 곳이죠」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24008,7 +24008,7 @@
    ],
    "source": "<FACE:01>「…ダンチ」\n<END>",
    "target": "<FACE:01>「…단치」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24025,7 +24025,7 @@
    ],
    "source": "<FACE:0b>「わかってますよ。私情を捨てなきゃ勝\nてないってんでしょ」\n<END>",
    "target": "<FACE:0b>「알고 있어요. 사사로운 감정을\n버려야 이긴다는 거죠」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24042,7 +24042,7 @@
    ],
    "source": "<BGM:01><PAGE2><SE:0a><SE:2c><WAIT:3c><WIN:0601><SE:2d><WAIT:3c><PORTL:1101><PAGE><FACE:11>「おや、あんたたちかい」\n<END>",
    "target": "<BGM:01><PAGE2><SE:0a><SE:2c><WAIT:3c><WIN:0601><SE:2d><WAIT:3c><PORTL:1101><PAGE><FACE:11>「어머, 당신들이구먼」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24059,7 +24059,7 @@
    ],
    "source": "<PORTL:1001><FACE:10>「昨日の負け分、持って来たのかよ？」\n<END>",
    "target": "<PORTL:1001><FACE:10>「어제 잃은 돈은 가져왔나?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24076,7 +24076,7 @@
    ],
    "source": "<PORTR:0b03><FACE:0b>「おい、俺はてめぇらと…！」\n<END>",
    "target": "<PORTR:0b03><FACE:0b>「이봐, 난 네놈들하고…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24093,7 +24093,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「金は持って来た…今日はレートを倍に\nして打たねぇか？」\n<END>",
    "target": "<PORTR:0100><FACE:01>「돈은 가져왔다… 오늘은 레이트를\n2배로 올려 치지 않겠냐?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24110,7 +24110,7 @@
    ],
    "source": "<FACE:10>「…いいぜ、倍で」\n<END>",
    "target": "<FACE:10>「…좋아, 2배로」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24127,7 +24127,7 @@
    ],
    "source": "<PORTR:6363><PORTL:6363><FACE:1e>「た…たつを…！」\n<END>",
    "target": "<PORTR:6363><PORTL:6363><FACE:1e>「타… 타츠오…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24144,7 +24144,7 @@
    ],
    "source": "<PORTL:1101><FACE:11>「あ？」\n<END>",
    "target": "<PORTL:1101><FACE:11>「어?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24161,7 +24161,7 @@
    ],
    "source": "<PORTL:1d00><FACE:1d>「………」\n<END>",
    "target": "<PORTL:1d00><FACE:1d>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24178,7 +24178,7 @@
    ],
    "source": "<PORTR:0b03><FACE:0b>「…ちっ」\n<END>",
    "target": "<PORTR:0b03><FACE:0b>「…칫」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24195,7 +24195,7 @@
    ],
    "source": "<PORTL:1101><FACE:11>「アハッ。お前もしかして…」\n<END>",
    "target": "<PORTL:1101><FACE:11>「아핫. 너 혹시…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24212,7 +24212,7 @@
    ],
    "source": "「ずっと前、あのヘンテコな音楽を流し\nてた店の…？」\n<END>",
    "target": "「한참 전에 그 요상한 음악을\n틀던 가게의…?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24229,7 +24229,7 @@
    ],
    "source": "<FACE:0b>「ヘンテコじゃねぇよ。ジャズだよ！」\n<END>",
    "target": "<FACE:0b>「요상한 게 아냐. 재즈라고!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24246,7 +24246,7 @@
    ],
    "source": "<PORTL:1001><FACE:10>「ふん。どうりで突っかかってくると思\nったぜ」\n<END>",
    "target": "<PORTL:1001><FACE:10>「흥. 어쩐지 시비를\n걸어온다 했지」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24263,7 +24263,7 @@
    ],
    "source": "<PORTL:1101><FACE:11>「ったくバカな男だね…親子二代で、\nかっぱがれに来たのかい」\n<END>",
    "target": "<PORTL:1101><FACE:11>「하여간 멍청한 남자야…\n대를 이어 털리러 왔구먼」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24280,7 +24280,7 @@
    ],
    "source": "<FACE:0b>「なに…！」\n<END>",
    "target": "<FACE:0b>「뭐…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24297,7 +24297,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>（ダンチ…勝つためには冷静になれ！）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0a><C_B2:01><SETF:02>\n<END>",
    "target": "<PORTR:0100><FACE:01>（단치… 이기려면 냉정해져라!）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0a><C_B2:01><SETF:02>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24314,7 +24314,7 @@
    ],
    "source": "<SE:11><WIN:0601><PORTL:1101><PAGE><FACE:11>「あんなフヌケた音楽聞いてるから、腰\n抜けになんのかね」\n<END>",
    "target": "<SE:11><WIN:0601><PORTL:1101><PAGE><FACE:11>「그런 맥 빠진 음악이나 들으니\n겁쟁이가 되는 거겠지」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24331,7 +24331,7 @@
    ],
    "source": "「お前の両親も、そうやってウジウジし\nた腰抜け麻雀を打ってたよ」\n<END>",
    "target": "「네 부모도 그렇게 우물쭈물한\n겁쟁이 마작을 쳤지」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24348,7 +24348,7 @@
    ],
    "source": "<PORTR:0b03><FACE:0b>「…！！」\n<END>",
    "target": "<PORTR:0b03><FACE:0b>「…!!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24365,7 +24365,7 @@
    ],
    "source": "<PORTR:0102><FACE:01>（落ち着け、ダンチ！　冷静になって場\nを見るんだ…！）\n<END>",
    "target": "<PORTR:0102><FACE:01>（진정해, 단치! 냉정하게\n판을 보란 말이다…!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24382,7 +24382,7 @@
    ],
    "source": "<PORTR:0b03><FACE:0b>（すべて、こいつらのせいなんだ…！）\n<END>",
    "target": "<PORTR:0b03><FACE:0b>（전부 이놈들 탓이야…!）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24399,7 +24399,7 @@
    ],
    "source": "（この勝負、降りられねぇ…勝ちに行か\nなきゃならねぇんだ…！）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0a><C_B2:01><SETF:02>\n<END>",
    "target": "（이 승부, 내릴 수 없어…\n반드시 이겨야만 해…!）<CLR><PAGE2><PORTR:6363><PORTL:6363><C_B0:0a><C_B2:01><SETF:02>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24416,7 +24416,7 @@
    ],
    "source": "<SE:05><WIN:0601><PORTL:0b03><PAGE><FACE:0b>「………」\n<END>",
    "target": "<SE:05><WIN:0601><PORTL:0b03><PAGE><FACE:0b>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24433,7 +24433,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「…俺の昨日の負け分は、今の勝ちでチ\nャラだろ」\n<END>",
    "target": "<PORTR:0100><FACE:01>「…어제 내가 잃은 돈은\n지금 이긴 걸로 퉁친 셈이지」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24450,7 +24450,7 @@
    ],
    "source": "<PORTL:0b02><FACE:0b>「…⁉」\n<END>",
    "target": "<PORTL:0b02><FACE:0b>「…⁉」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24467,7 +24467,7 @@
    ],
    "source": "<PORTR:0104><FACE:01>「…じゃあな」\n<END>",
    "target": "<PORTR:0104><FACE:01>「…그럼 간다」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24484,7 +24484,7 @@
    ],
    "source": "<FACE:0b>「て、哲さん…！」\n<END>",
    "target": "<FACE:0b>「테, 테쯔 형님…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24501,7 +24501,7 @@
    ],
    "source": "<FACE:01>「………」\n<END>",
    "target": "<FACE:01>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24518,7 +24518,7 @@
    ],
    "source": "<FACE:0b>「…哲さ…」\n<END>",
    "target": "<FACE:0b>「…테쯔 형…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24535,7 +24535,7 @@
    ],
    "source": "<NOFACE><PORTL:6363><SE:2c><WIN:0001><SE:2d><FACE:01>「………」\n<END>",
    "target": "<NOFACE><PORTL:6363><SE:2c><WIN:0001><SE:2d><FACE:01>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24552,7 +24552,7 @@
    ],
    "source": "<BGM:01><PAGE2><PORTR:6363><WAIT:3c><WAIT:3c><WIN:2801><WAIT:3c><PAGE><FACE:0b>「き…汚ねぇ男だな、あんたは…！」\n<END>",
    "target": "<BGM:01><PAGE2><PORTR:6363><WAIT:3c><WAIT:3c><WIN:2801><WAIT:3c><PAGE><FACE:0b>「치, 치사한 남자군,\n당신은…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24569,7 +24569,7 @@
    ],
    "source": "「自分だけ、助かろうとしやがって…」\n<END>",
    "target": "「저 혼자만 살려고 하다니…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24586,7 +24586,7 @@
    ],
    "source": "<FACE:01>「………」\n<END>",
    "target": "<FACE:01>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24603,7 +24603,7 @@
    ],
    "source": "<FACE:0b>「あんたは俺と一緒に闘ってくれると思\nったが…！」\n<END>",
    "target": "<FACE:0b>「당신은 나랑 같이 싸워\n줄 줄 알았는데…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24620,7 +24620,7 @@
    ],
    "source": "「確かにあんたの言う通り、私情を捨て\nりゃ自分だけは助かるだろうさ…！」\n<END>",
    "target": "「물론 당신 말대로 사사로운\n감정을 버리면 혼자는 살겠지…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24637,7 +24637,7 @@
    ],
    "source": "<FACE:01>「………」\n<END>",
    "target": "<FACE:01>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24654,7 +24654,7 @@
    ],
    "source": "<FACE:0b>「あんたを信用した俺がバカだったよ」\n<END>",
    "target": "<FACE:0b>「당신을 믿은 내가 바보였어」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24671,7 +24671,7 @@
    ],
    "source": "「今日限り…俺たちのコンビは…！」\n<END>",
    "target": "「오늘부로… 우리 콤비는…!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24688,7 +24688,7 @@
    ],
    "source": "「俺たちのコンビは、解散だ！！」\n<END>",
    "target": "「우리 콤비는 해산이다!!」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24705,7 +24705,7 @@
    ],
    "source": "<FACE:01>「………」<CLR><PAGE2><WIN:0001><RESET>\n<END>",
    "target": "<FACE:01>「………」<CLR><PAGE2><WIN:0001><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24722,7 +24722,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0903><SE:2d><WAIT:3c><PORTL:1800><PAGE><FACE:19>「いらっしゃい」\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0903><SE:2d><WAIT:3c><PORTL:1800><PAGE><FACE:19>「어서 와」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24739,7 +24739,7 @@
    ],
    "source": "<PORTL:1801>「…どうしたの、あんたたち」\n<END>",
    "target": "<PORTL:1801>「…왜 그래, 너희들」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24756,7 +24756,7 @@
    ],
    "source": "「何かあったの？」\n<END>",
    "target": "「무슨 일 있었어?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24773,7 +24773,7 @@
    ],
    "source": "<PORTR:0100><FACE:01>「…悪いなママ、またくる」\n<END>",
    "target": "<PORTR:0100><FACE:01>「…미안해 마담, 다시 올게」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24790,7 +24790,7 @@
    ],
    "source": "「行くぞ、ダンチ」\n<END>",
    "target": "「가자, 단치」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24807,7 +24807,7 @@
    ],
    "source": "<NOFACE><PORTR:6363><SE:2c><WAIT:1e><SE:2d><FACE:19>「………」<CLR><PAGE2><PORTL:6363><RESET>\n<END>",
    "target": "<NOFACE><PORTR:6363><SE:2c><WAIT:1e><SE:2d><FACE:19>「………」<CLR><PAGE2><PORTL:6363><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24824,7 +24824,7 @@
    ],
    "source": "<WIN:0b03><PORTR:0100><PORTL:0b05><PAGE><FACE:01>「ぐずぐすしてる暇はねぇ…」\n<END>",
    "target": "<WIN:0b03><PORTR:0100><PORTL:0b05><PAGE><FACE:01>「꾸물거릴 틈은 없어…」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24841,7 +24841,7 @@
    ],
    "source": "「あの夫婦と打つぞ、ダンチ」\n<END>",
    "target": "「그 부부와 친다, 단치」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24858,7 +24858,7 @@
    ],
    "source": "<FACE:0b>「………」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>",
    "target": "<FACE:0b>「………」<CLR><PAGE2><PORTR:6363><PORTL:6363><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24875,7 +24875,7 @@
    ],
    "source": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PORTL:0b05><PAGE><FACE:01>「…あの夫婦は、いねぇようだな」\n<END>",
    "target": "<SE:2c><WAIT:3c><WIN:0103><SE:2d><WAIT:3c><PORTR:0100><PORTL:0b05><PAGE><FACE:01>「…그 부부는 없는 모양이군」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24892,7 +24892,7 @@
    ],
    "source": "「他の雀荘へ行くぞ」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
    "target": "「다른 작장으로 간다」<CLR><PAGE2><PORTR:6363><PORTL:6363><SE:2c><WAIT:1e><SE:2d><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24909,7 +24909,7 @@
    ],
    "source": "<PAGE>「え？　オッサンとオバハンの玄人？」\n<END>",
    "target": "<PAGE>「엥? 아저씨랑 아줌마 바이닌?」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24926,7 +24926,7 @@
    ],
    "source": "「この雀荘には、いなかったぜ」<CLR><PAGE2><RESET>\n<END>",
    "target": "「이 작장엔 없었어」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24943,7 +24943,7 @@
    ],
    "source": "<PAGE>「…聞き込み中だ」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「…탐문 중이다」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24960,7 +24960,7 @@
    ],
    "source": "<PAGE>「兄ちゃん、玉子立てられる？」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「형씨, 달걀 세울 수 있어?」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24977,7 +24977,7 @@
    ],
    "source": "<PAGE>「ん？　何だ、俺に用か？」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「응? 뭐야, 나한테 볼일이냐?」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -24994,7 +24994,7 @@
    ],
    "source": "<PAGE>「ああ…ヒマだな…」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「아아… 한가하군…」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25011,7 +25011,7 @@
    ],
    "source": "<PAGE>「らっしゃい、らっしゃい」\n<END>",
    "target": "<PAGE>「어서 옵쇼, 어서 옵쇼」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25028,7 +25028,7 @@
    ],
    "source": "「ふかしパン二つで拾匹だよ！」<CLR><PAGE2><RESET>\n<END>",
    "target": "「찐빵 두 개에 10필이요!」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25045,7 +25045,7 @@
    ],
    "source": "<PAGE>「らっしゃい、らっしゃい\n銀シャリ、みそ汁うまいよ～」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「어서 옵쇼, 어서 옵쇼\n흰쌀밥에 된장국, 맛있어요~」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25062,7 +25062,7 @@
    ],
    "source": "<PAGE>「素ウドン一杯、拾匹だよ」\n<END>",
    "target": "<PAGE>「맨우동 한 그릇 10필이요」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25079,7 +25079,7 @@
    ],
    "source": "「らっしゃい、らっしゃい！」<CLR><PAGE2><RESET>\n<END>",
    "target": "「어서 옵쇼, 어서 옵쇼!」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25096,7 +25096,7 @@
    ],
    "source": "<PAGE>「ご禁制の本物の寿司だよ！」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「금제품 진짜 초밥이요!」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25113,7 +25113,7 @@
    ],
    "source": "<PAGE>「うまい牛めし、いらんかね～」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>「맛있는 규메시 안 사려우~」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25130,7 +25130,7 @@
    ],
    "source": "<PAGE><FACE:01>「根津夫婦は、いないようだが…」<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:01>「네즈 부부는 없는 모양인데…」<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25147,7 +25147,7 @@
    ],
    "source": "<JIF2:0203><JIF:1002><JIF:0f01><PAGE><FACE:01>（…ただのツボか）<CLR><PAGE2><RESET>\n<END>",
    "target": "<JIF2:0203><JIF:1002><JIF:0f01><PAGE><FACE:01>（…그냥 항아리인가）<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25164,7 +25164,7 @@
    ],
    "source": "<FLAG:10><C_C1:02><PAGE><FACE:01>（…ん？　これは…）\n<END>",
    "target": "<FLAG:10><C_C1:02><PAGE><FACE:01>（…응? 이건…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25181,7 +25181,7 @@
    ],
    "source": "<SE:07><NOFACE>『玄人文庫（下）』を手に入れた<WAIT:3c><WAIT:3c><SE:0a><CLR><PAGE2><RESET>\n<END>",
    "target": "<SE:07><NOFACE>『바이닌 문고(하)』를\n손에 넣었다<WAIT:3c><WAIT:3c><SE:0a><CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25198,7 +25198,7 @@
    ],
    "source": "<PAGE><FACE:01>（…今日はもう見たぜ）<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:01>（…오늘은 이미 봤어）<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25215,7 +25215,7 @@
    ],
    "source": "<PAGE><FACE:01>（…ツボだ）<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE><FACE:01>（…항아리다）<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25232,7 +25232,7 @@
    ],
    "source": "<PAGE>『カン、ビン　捨てるべからず』<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>『깡통・병 버리지 말 것』<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25249,7 +25249,7 @@
    ],
    "source": "<PAGE>『火の用心』<CLR><PAGE2><RESET>\n<END>",
    "target": "<PAGE>『불조심』<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25266,7 +25266,7 @@
    ],
    "source": "<PORTR:0101><PAGE><FACE:01>「………」\n<END>",
    "target": "<PORTR:0101><PAGE><FACE:01>「………」\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25283,7 +25283,7 @@
    ],
    "source": "<BGM:01><PAGE2><PORTR:6363><WIN:1502><SE:23><WAIT:3c><PAGE><FACE:05>『金は、賽銭箱に入らなかったな』\n<END>",
    "target": "<BGM:01><PAGE2><PORTR:6363><WIN:1502><SE:23><WAIT:3c><PAGE><FACE:05>『돈은 새전함에 안 들어갔군』\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25300,7 +25300,7 @@
    ],
    "source": "『…俺の勝ちだ』\n<END>",
    "target": "『…내 승리다』\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25317,7 +25317,7 @@
    ],
    "source": "<PAGE2><WIN:5802><PORTR:0101><PAGE><FACE:01>（房州さん…）<CLR><PAGE2><PORTR:6363><SE:0a><RESET>\n<END>",
    "target": "<PAGE2><WIN:5802><PORTR:0101><PAGE><FACE:01>（보슈 씨…）<CLR><PAGE2><PORTR:6363><SE:0a><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25334,7 +25334,7 @@
    ],
    "source": "<PAGE><JIF2:0001><FACE:01>（ん…これは…）\n<END>",
    "target": "<PAGE><JIF2:0001><FACE:01>（응… 이건…）\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25351,7 +25351,7 @@
    ],
    "source": "<SE:07><C_C1:00><NOFACE>『玄人文庫（上）』を手に入れた<WAIT:3c><WAIT:3c><SE:0a><CLR><PAGE2><RESET>\n<END>",
    "target": "<SE:07><C_C1:00><NOFACE>『바이닌 문고(상)』을\n손에 넣었다<WAIT:3c><WAIT:3c><SE:0a><CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   },
   {
@@ -25368,7 +25368,7 @@
    ],
    "source": "<FACE:01>（何もねぇな）<CLR><PAGE2><RESET>\n<END>",
    "target": "<FACE:01>（아무것도 없군）<CLR><PAGE2><RESET>\n<END>",
-   "state": "reviewed",
+   "state": "approved",
    "notes": "draft:r07p1.reviewed.json"
   }
  ]
